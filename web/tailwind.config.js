@@ -47,8 +47,6 @@ module.exports = {
 					"300": "rgba(255, 255, 255, 0.6)",
 					"400": "rgba(255, 255, 255, 0.5)",
 				},
-
-
 				silver: "#c4c4c4",
 				"general-9-secondary-variant": "#686868",
 				"elements-neutral-4": "#f2f7f9",
@@ -88,7 +86,52 @@ module.exports = {
 
 			},
 
-			spacing: {},
+			spacing: {
+				"measurements-device-width": "1440px",
+				"measurements-gap-80": "80px",
+				"measurements-gap-120": "120px",
+				"measurements-gap-40": "40px",
+				"numbers-24": "24px",
+				"numbers-16": "16px",
+				"measurements-gap-20": "20px",
+				"measurements-gap-24": "24px",
+				"measurements-gap-16": "16px",
+				"numbers-64": "64px",
+				"measurements-gap-120-24": "120px",
+				"measurements-gap-80-48": "80px",
+				"measurements-gap-320": "320px",
+				"numbers-4": "4px",
+				"numbers-10": "10px",
+				"numbers-12": "12px",
+				"numbers-2": "2px",
+				"numbers-3": "3px",
+				"measurements-gap-8": "8px",
+				"measurements-gap-144": "144px",
+				"numbers-288": "288px",
+				"numbers-6": "6px",
+				"numbers-20": "20px",
+				"numbers-480": "480px",
+				"numbers-48": "48px",
+				"numbers-224": "224px",
+				"numbers-588": "588px",
+				"numbers-40": "40px",
+				"numbers-8": "8px",
+				"numbers-14": "14px",
+				"numbers-390": "390px",
+				"measurements-gap-32": "32px",
+				"numbers-320": "320px",
+				"semantic-spacing-5": "5px",
+				"numbers-1": "1px",
+				"numbers-32": "32px",
+				"measurements-gap-480": "480px",
+				"measurements-gap-32-24": "32px",
+				"measurements-gap-160-96": "160px",
+				"numbers-792": "792px",
+				"measurements-gap-28": "28px",
+				"measurements-gap-224": "224px",
+				"measurements-gap-2": "2px",
+				"numbers-80": "80px",
+			},
 			fontFamily: {
 				montserrat: "Montserrat",
 				"button-dm-sans-16": "'DM Sans'",
@@ -98,11 +141,29 @@ module.exports = {
 				"primary-paragraph-paragraph-5": "'Eudoxus Sans'",
 				"paragraph-16": "'Open Sans'",
 				inherit: "inherit",
+				"body-s-bold": "Inter",
+				poppins: "Poppins",
 			},
 			borderRadius: {
 				xl: "20px",
 				"83xl-4": "102.4px",
+				"980xl": "999px",
+				"3xs": "10px",
+				"341xl": "360px",
+				"measurements-radius-xxxl": "24px",
+				"measurements-radius-xl": "12px",
+				"measurements-radius-sm": "6px",
+				"radius-sm": "6px",
+				"measurements-radius-full": "999px",
+				"measurements-radius-lg": "10px",
+				"radius-md": "8px",
+				"radius-3xl": "24px",
+				"measurements-radius-xs": "4px",
+				"measurements-radius-md": "8px",
+				"radius-full": "999px",
+				"measurements-radius-xxl": "16px",
 			},
+
 		},
 		fontSize: {
 			xs: "12px",
@@ -123,6 +184,10 @@ module.exports = {
 			"39xl": "58px",
 			"3xl": "22px",
 			"11xl": "30px",
+			"sm-2": "13.2px",
+			xl: "20px",
+			"19xl": "38px",
+			"10xl": "29px",
 			inherit: "inherit",
 		},
 		screens: {
@@ -135,6 +200,12 @@ module.exports = {
 			mq1425: {
 				raw: "screen and (max-width: 1425px)",
 			},
+			mq1325: {
+				raw: "screen and (max-width: 1325px)",
+			},
+			mq1250: {
+				raw: "screen and (max-width: 1250px)",
+			},
 			mq1225: {
 				raw: "screen and (max-width: 1225px)",
 			},
@@ -143,6 +214,9 @@ module.exports = {
 			},
 			lg: {
 				max: "1200px",
+			},
+			mq1125: {
+				raw: "screen and (max-width: 1125px)",
 			},
 			mq1050: {
 				raw: "screen and (max-width: 1050px)",
@@ -156,11 +230,14 @@ module.exports = {
 			mq850: {
 				raw: "screen and (max-width: 850px)",
 			},
-			mq750: {
-				raw: "screen and (max-width: 750px)",
+			mq800: {
+				raw: "screen and (max-width: 800px)",
 			},
 			mq780: {
 				raw: "screen and (max-width: 780px)",
+			},
+			mq750: {
+				raw: "screen and (max-width: 750px)",
 			},
 			mq650: {
 				raw: "screen and (max-width: 650px)",
@@ -171,12 +248,9 @@ module.exports = {
 			mq370: {
 				raw: "screen and (max-width: 450px)",
 			},
-
-
 			mq350: {
 				raw: "screen and (max-width: 350px)",
 			},
-
 			minq950: {
 				raw: "screen and (min-width: 950px)",
 			},
@@ -186,8 +260,8 @@ module.exports = {
 			minq450: {
 				raw: "screen and (min-width: 450px)",
 			},
+		}
 
-		},
 	},
 	corePlugins: {
 		preflight: true,

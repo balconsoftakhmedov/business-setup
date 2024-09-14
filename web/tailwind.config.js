@@ -32,7 +32,7 @@ module.exports = {
         fadeOut: 'fadeOut 1s ease-out forwards',
       },
       colors: {
-        "text-base-primary" : "#14151A",
+        "base-primary" : "#14151A",
         "general-white": "#fff",
         "general-8-secondary": "#000",
         darkslategray: "#333",

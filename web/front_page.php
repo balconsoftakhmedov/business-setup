@@ -103,20 +103,19 @@
 					<div class="h-[120px] relative block "></div>
 					<div class="w-full flex flex-col items-center justify-start pt-[22px] px-0 pb-[5px] box-border gap-[21px] max-w-full">
 
-						<div class="self-stretch flex flex-row items-start justify-center py-0 ">
-							<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[1]">
-								Dedicated Business Setup
-							</div>
-						</div>
-						<div class="flex flex-row items-start justify-start relative text-41xl text-general-8-secondary font-heading-1-72">
-							<h2 class="m-0 w-full relative text-inherit leading-[66px] font-normal font-inherit inline-block z-[1] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
-								Consultants at Your Service
-							</h2>
-						</div>
+
+
 					</div>
 				</div>
 				<div class="self-stretch flex flex-row items-start justify-center flex-wrap content-start gap-10 max-w-full text-general-9-secondary-variant font-body-b3-merriweather-14 mq850:gap-5 mq650:px-[20px]">
 					<div class="flex-1 relative leading-[26px] inline-block min-w-[367px] max-w-full mq450:min-w-full">
+
+							<h2 class="m-0 w-full relative text-base-primary leading-[66px]
+							 font-normal font-inherit inline-block z-[1] mq450:text-17xl
+							  mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
+								Dedicated Business Setup Consultants at Your Service
+							</h2>
+
 						<p class="m-0">
 							We take a white-glove approach to our business setup services
 							in&nbsp;Dubai. We know every client has different needs, and we’re
@@ -336,7 +335,9 @@
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start relative max-w-full text-41xl text-general-white font-heading-1-72">
 
-							<h2 class="m-0 flex-1 relative text-inherit leading-[66px] font-normal font-inherit inline-block max-w-full z-[1] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
+							<h2 class="m-0 flex-1 relative leading-[66px] font-normal
+							font-inherit inline-block max-w-full z-[1] mq450:text-17xl mq450:leading-[40px]
+							mq850:text-29xl mq850:leading-[53px] text-base-primary">
 								Jurisdictions
 							</h2>
 						</div>
@@ -348,7 +349,8 @@
 				 lg:grid-cols-[repeat(2,_minmax(277px,_481px))]
 				  mq950:grid-cols-[minmax(277px,_1fr)]
 				  mq950:flex mq950:overflow-x-auto hide-scrollbar minq450:justify-start mq450:grid minq450:min-h-[550px] h-auto  ">
-					<div class="h-[522px] cursor-pointer  hover:scale-110 transition-transform duration-300 ease-in-out flex flex-col items-start justify-start py-[60px] px-[50px] box-border gap-10
+					<div class="h-[522px] cursor-pointer  hover:scale-110 transition-transform duration-300 ease-in-out flex flex-col
+					 items-start justify-start py-[60px] px-[50px] text-base-primary box-border gap-10
 					bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
 						<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
 							Mainland
@@ -408,7 +410,9 @@
 							</div>
 						</button>
 					</div>
-					<div class=" h-[522px]  flex flex-col cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
+					<div class=" h-[522px]  flex flex-col cursor-pointer hover:scale-110 transition-transform duration-300
+					ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[top] max-w-full mq450:gap-5
+					mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border text-base-primary">
 						<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
 							Free Zone
 						</h2>
@@ -460,7 +464,9 @@
 							</div>
 						</button>
 					</div>
-					<div class="h-[522px]  flex flex-col cursor-pointer hover:scale-110  transition-transform duration-300 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
+					<div class="h-[522px]  flex flex-col cursor-pointer hover:scale-110  transition-transform duration-300
+					 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[top] max-w-full
+					  mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border text-base-primary">
 						<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
 							Offshore
 						</h2>
@@ -681,7 +687,8 @@
 										</h2>
 									</div>
 								</div>
-								<h2 class="m-0 self-stretch relative text-41xl leading-[66px] font-normal font-heading-1-72 text-general-white z-[1] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
+								<h2 class="m-0 self-stretch relative text-41xl leading-[66px] font-normal font-heading-1-72
+								z-[1] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] text-base-primary">
 									Why Business set up Dubai
 								</h2>
 							</div>
@@ -696,7 +703,7 @@
 										<span class="supports-[counter-set]:sr-only">300</span>+
 									</b>
 
-									<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white inline-block min-w-[94px]">
+									<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary inline-block min-w-[94px]">
 										customers
 									</div>
 								</div>
@@ -706,7 +713,7 @@
 									<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:90]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:90]'">
 										<span class="supports-[counter-set]:sr-only">90</span>%
 									</b>
-									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white text-left">
+									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
 										of customers recommend us
 									</div>
 								</div>
@@ -715,7 +722,7 @@
 										<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:3]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:3]'">
 										<span class="supports-[counter-set]:sr-only">3</span>
 									</b>
-									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white text-left">
+									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
 										years of financial responsibility
 									</div>
 								</div>
@@ -724,7 +731,7 @@
 										<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:2]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:2]'">
 										<span class="supports-[counter-set]:sr-only">2</span>
 									</b>
-									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white text-left">
+									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
 										regions, single provider
 									</div>
 								</div>
@@ -734,7 +741,7 @@
 									<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
 										<span class="supports-[counter-set]:sr-only">15</span>
 									</b>
-									<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white inline-block min-w-[115px]">
+									<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary inline-block min-w-[115px]">
 										service areas
 									</div>
 								</div>
@@ -742,7 +749,7 @@
 									<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:10]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:10]'">
 										<span class="supports-[counter-set]:sr-only">10</span>
 									</b>
-									<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white inline-block min-w-[125px]">
+									<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary inline-block min-w-[125px]">
 										partner banks
 									</div>
 								</div>
@@ -750,7 +757,7 @@
 									<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
 										<span class="supports-[counter-set]:sr-only">15</span>
 									</b>
-									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white text-left">
+									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
 										accounting programs
 									</div>
 								</div>
@@ -758,7 +765,7 @@
 									<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:1000]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:1000]'">
 										<span class="supports-[counter-set]:sr-only">1000</span>+
 									</b>
-									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-general-white text-left">
+									<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
 										transactions through payment agents
 									</div>
 								</div>

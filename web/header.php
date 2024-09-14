@@ -8,48 +8,13 @@
 	<script src="./homepage.js" defer></script>
 	<script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/intersect@3.x.x/dist/cdn.min.js"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-	<link
-			rel="stylesheet"
-			href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap"
-	/>
-	<link
-			rel="stylesheet"
-			href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,400&display=swap"
-	/>
-	<link
-			rel="stylesheet"
-			href="https://fonts.googleapis.com/css2?family=DM Sans:wght@500;700&display=swap"
-	/>
-	<link
-			rel="stylesheet"
-			href="https://fonts.googleapis.com/css2?family=Playfair Display:wght@400;700&display=swap"
-	/>
-	<link
-			rel="stylesheet"
-			href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap"
-	/>
-	<link
-			rel="stylesheet"
-			href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400&display=swap"
-	/>
+ <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap"
+    />
 
-	<style>
-		@font-face {
-			font-family: "Eudoxus Sans";
-			src: url("./wp-content/themes/business-setup/web/public/EudoxusSans-Regular-BF659b6cb1d4714.ttf");
-			font-weight: 400;
-		}
-
-		@font-face {
-			font-family: "Eudoxus Sans";
-			src: url("./wp-content/themes/business-setup/web/public/EudoxusSans-Medium-BF659b6cb1c14cb.ttf");
-			font-weight: 500;
-		}
-
-		@font-face {
-			font-family: "Eudoxus Sans";
-			src: url("./wp-content/themes/business-setup/web/public/EudoxusSans-Bold-BF659b6cb1408e5.ttf");
-			font-weight: 700;
-		}
-	</style>
 </head>

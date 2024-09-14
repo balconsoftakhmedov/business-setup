@@ -3285,6 +3285,11 @@ video {
   color: inherit;
 }
 
+.text-base-primary {
+  --tw-text-opacity: 1;
+  color: rgb(20 21 26 / var(--tw-text-opacity));
+}
+
 .text-dimgray {
   color: rgba(104, 104, 104, 0.75);
 }

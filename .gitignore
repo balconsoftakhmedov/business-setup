@@ -20,3 +20,6 @@ Desktop.ini # Windows desktop icon settings
 *.log   # Log files
 
 web/node_modules/
+web1/node_modules/
+web/public/Business set up Dubai v2 (Copy) (Copy).fig
+*.fig

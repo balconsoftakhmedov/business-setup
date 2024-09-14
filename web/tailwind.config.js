@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-  "./*.{html,js, php}",
+  "./*.{html,js,php}",
   "./src/**/*.{html,js}", // Assuming your source files are in a `src` directory
   "!./node_modules",       // Exclude `node_modules`
   "!./build",              // Exclude `build`
@@ -106,6 +106,9 @@ module.exports = {
       mq1225: {
         raw: "screen and (max-width: 1225px)",
       },
+      mq1170:{
+        max: "1200px",
+      },
       lg: {
         max: "1200px",
       },
@@ -124,13 +127,30 @@ module.exports = {
       mq750: {
         raw: "screen and (max-width: 750px)",
       },
+      mq780: {
+        raw: "screen and (max-width: 780px)",
+      },
        mq650: {
         raw: "screen and (max-width: 650px)",
       },
       mq450: {
         raw: "screen and (max-width: 450px)",
       },
+       mq370: {
+        raw: "screen and (max-width: 450px)",
+      },
 
+
+       mq350: {
+        raw: "screen and (max-width: 350px)",
+      },
+
+minq950:{
+        raw: "screen and (min-width: 950px)",
+      },
+minq650:{
+        raw: "screen and (min-width: 650px)",
+      },
       minq450:{
         raw: "screen and (min-width: 450px)",
       },

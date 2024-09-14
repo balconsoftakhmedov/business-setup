@@ -859,6 +859,22 @@ nav .parent > ul.sub-menu:before {
 
 }
 
+@media (max-width: 950px) {
+	.admin-bar .stm-h {
+		margin-top: 32px;
+	}
+
+	body .wpcf7 form.wpcf7-form {
+
+		padding-bottom: 25px;
+	}
+}
+@media (max-width: 782px) {
+	.admin-bar .stm-h {
+		margin-top: 46px;
+	}
+}
+
 @media (max-width: 1024px) {
 	.navigation .navigation-menu.active .menu {
 		display: block;
@@ -868,6 +884,8 @@ nav .parent > ul.sub-menu:before {
 		right: -15px;
 		margin-top: -1px;
 		padding: 0 0 20px;
+		padding-left: 20px;
+		padding-right: 20px;
 		transition: all .15s;
 		background-color: #fff;
 		visibility: visible;
@@ -944,26 +962,24 @@ body .navigation .ms_lms_course_search_box__popup_button {
 	height: 50px;
 	border-radius: 50%
 }
+input.wpcf7-form-control.wpcf7-phonetext.wpcf7-text.wpcf7-validates-as-phonetext {
+    width: 100%;
+}
+@media (max-width: 950px) {
+  .hide-scrollbar {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and WebKit browsers */
+  }
+}
 
 @media (max-width: 767px) {
 	body .navigation .ms_lms_course_search_box__popup_button {
 		margin-left: 20px
 	}
-}
-
-@media (max-width: 650px) {
-	body .wpcf7 form .wpcf7-response-output {
-    color: #dc3232 !important;
-    border: unset;
-    border-color: unset !important;
-    padding-top: 0px;
-    margin: 0px;
-    position: relative;
-    bottom: 10px;
-    text-align: left;
-    padding-left: 50px;
-    padding-right: 60px;
-}
 }
 
 body .navigation .ms_lms_course_search_box__popup .ms_lms_course_search_box__search_input.search_button_compact .autocomplete-wrapper input[type=text], body .navigation .ms_lms_course_search_box__popup .ms_lms_course_search_box__search_input.search_button_inside_left .autocomplete-wrapper input[type=text], body .navigation .ms_lms_course_search_box__popup .ms_lms_course_search_box__search_input.search_button_outside .autocomplete-wrapper input[type=text] {

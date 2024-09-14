@@ -17,7 +17,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 			gap-20 w-full text-center text-base text-general-1-primary font-subtitles-16
 			mq450:gap-5 mq850:gap-10 mq1500:flex-wrap"
 >
-	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/vision-prime/web/public/form-builder-background@2x.png')]">
+	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/business-setup/web/public/form-builder-background@2x.png')]">
 		<div class="w-full max-w-[1170px] flex-row flex mr-[5%] justify-between lg:mr-[0px] lg:ml-[20px] mq850:flex-col mq850:gap-[30px] mq850:justify-center mq850:items-center mq650:ml-[0px]">
 			<div
 					class="max-w-[650px] w-full flex flex-col items-start justify-start  w-full mq650:px-[20px] "
@@ -69,7 +69,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 	<img
 			class="w-full h-full absolute !m-[0] top-[0px] right-[0px] bottom-[1px] left-[0px] max-w-full overflow-hidden max-h-full object-contain hidden z-[0]"
 			alt=""
-			src="/wp-content/themes/vision-prime/web/public/transparentgreencreativitymodernartinkcolorsareamazinglybrightluminoustranslucentfreeflowingdryquicklynaturalpatternluxuryabstractartworktrendystyle@2x.png"
+			src="/wp-content/themes/business-setup/web/public/transparentgreencreativitymodernartinkcolorsareamazinglybrightluminoustranslucentfreeflowingdryquicklynaturalpatternluxuryabstractartworktrendystyle@2x.png"
 	/>
 
 	<div
@@ -148,19 +148,19 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 				<img
 						class="absolute h-full w-[29.4%] top-[0%] right-[70.6%] bottom-[0%] left-[0%] max-w-full overflow-hidden max-h-full"
 						alt=""
-						src="/wp-content/themes/vision-prime/web/public/twitter.svg"
+						src="/wp-content/themes/business-setup/web/public/twitter.svg"
 				/>
 
 				<img
 						class="absolute h-full w-[29.4%] top-[0%] right-[35.32%] bottom-[0%] left-[35.28%] max-w-full overflow-hidden max-h-full"
 						alt=""
-						src="/wp-content/themes/vision-prime/web/public/facebook-1.svg"
+						src="/wp-content/themes/business-setup/web/public/facebook-1.svg"
 				/>
 
 				<img
 						class="absolute h-full w-[29.4%] top-[0%] right-[0.04%] bottom-[0%] left-[70.56%] max-w-full overflow-hidden max-h-full"
 						alt=""
-						src="/wp-content/themes/vision-prime/web/public/youtube-1.svg"
+						src="/wp-content/themes/business-setup/web/public/youtube-1.svg"
 				/>
 			</div>
 		</div>
@@ -208,19 +208,19 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 
 			<div class="social-icons flex flex-row gap-4">
 					<a href="<?php echo esc_url( $facebook_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Facebook" src="/wp-content/themes/vision-prime/web/public/link--facebook.svg"/>
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Facebook" src="/wp-content/themes/business-setup/web/public/link--facebook.svg"/>
 				</a>
 				<a href="<?php echo esc_url( $twitter_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Twitter" src="/wp-content/themes/vision-prime/web/public/link--twitter.svg"/>
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Twitter" src="/wp-content/themes/business-setup/web/public/link--twitter.svg"/>
 				</a>
 
 
 				<a href="<?php echo esc_url( $instagram_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Instagram" src="/wp-content/themes/vision-prime/web/public/link--instagram.svg"/>
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Instagram" src="/wp-content/themes/business-setup/web/public/link--instagram.svg"/>
 				</a>
 
 				<a href="<?php echo esc_url( $youtube_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="YouTube" src="/wp-content/themes/vision-prime/web/public/link--pinterest.svg"/>
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="YouTube" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg"/>
 				</a>
 			</div>
 
@@ -238,7 +238,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 				class="w-[1170px] relative max-h-full max-w-full"
 				loading="lazy"
 				alt=""
-				src="/wp-content/themes/vision-prime/web/public/rectangle-691.svg"
+				src="/wp-content/themes/business-setup/web/public/rectangle-691.svg"
 		/>
 
 		<copyright

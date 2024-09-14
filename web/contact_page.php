@@ -13,7 +13,7 @@
 				<div class="h-[840px] w-full absolute !m-[0] top-[100px] right-[10%] bg-general-1-primary z-[2] lg:right-[0px] mq1170:hidden">
 				</div>
 
-				<div class="flex-1 flex flex-col items-center justify-start pt-0 pb-[110px] box-border gap-10 bg-[url('/wp-content/themes/vision-prime/web/public/title2@3x.png')]
+				<div class="flex-1 flex flex-col items-center justify-start pt-0 pb-[110px] box-border gap-10 bg-[url('/wp-content/themes/business-setup/web/public/title2@3x.png')]
 				 bg-cover bg-no-repeat bg-[top] max-w-full z-[3]
 				 lg:px-[20px] lg:pb-[71px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:pb-[46px]
 				  mq450:box-border mq850:gap-10 mq850:box-border">
@@ -179,7 +179,7 @@
 <section class="flex flex-row items-start justify-start py-0 pl-0
 			gap-20 w-full text-center text-base text-general-1-primary font-subtitles-16
 			mq450:gap-5 mq850:gap-10 mq1500:flex-wrap">
-	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/vision-prime/web/public/form-builder-background@2x.png')]">
+	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/business-setup/web/public/form-builder-background@2x.png')]">
 		<div class="w-full max-w-[1170px] flex-row flex mr-[5%] justify-between lg:mr-[0px] lg:ml-[20px] mq850:flex-col mq850:gap-[30px] mq850:justify-center mq850:items-center mq650:ml-[0px]">
 			<div class="max-w-[650px] w-full flex flex-col items-start justify-start  w-full mq650:px-[20px] ">
 				<div class="h-[120px] border-general-1-primary border-solid  border-l-[1px]"></div>

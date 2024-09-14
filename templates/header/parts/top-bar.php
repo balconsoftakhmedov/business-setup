@@ -9,7 +9,7 @@
 						<img
 								class="w-4 h-4 relative"
 								alt=""
-								src="/wp-content/themes/vision-prime/web/public/9-icons--phone.svg"
+								src="/wp-content/themes/business-setup/web/public/9-icons--phone.svg"
 						/>
 
 					</div>
@@ -23,7 +23,7 @@
 						<img
 								class="w-4 h-4 relative object-cover"
 								alt=""
-								src="/wp-content/themes/vision-prime/web/public/9-icons--mail@2x.png"
+								src="/wp-content/themes/business-setup/web/public/9-icons--mail@2x.png"
 						/>
 					</div>
 					<div class="relative leading-[18px] whitespace-nowrap">
@@ -35,7 +35,7 @@
 						<img
 								class="w-4 h-4 relative object-cover"
 								alt=""
-								src="/wp-content/themes/vision-prime/web/public/flag@2x.png"
+								src="/wp-content/themes/business-setup/web/public/flag@2x.png"
 						/>
 					</div>
 					<div class="relative leading-[18px]">
@@ -50,25 +50,25 @@
 					<img
 							class="absolute top-[0px] right-[0px] w-4 h-4 object-cover"
 							alt=""
-							src="/wp-content/themes/vision-prime/web/public/youtube@2x.png"
+							src="/wp-content/themes/business-setup/web/public/youtube@2x.png"
 					/>
 
 					<img
 							class="absolute top-[0px] right-[36px] w-4 h-4 overflow-hidden"
 							alt=""
-							src="/wp-content/themes/vision-prime/web/public/linked-in.svg"
+							src="/wp-content/themes/business-setup/web/public/linked-in.svg"
 					/>
 
 					<img
 							class="absolute top-[0px] right-[71px] w-4 h-4 overflow-hidden"
 							alt=""
-							src="/wp-content/themes/vision-prime/web/public/instagram.svg"
+							src="/wp-content/themes/business-setup/web/public/instagram.svg"
 					/>
 
 					<img
 							class="absolute top-[0px] right-[107px] w-4 h-4"
 							alt=""
-							src="/wp-content/themes/vision-prime/web/public/facebook.svg"
+							src="/wp-content/themes/business-setup/web/public/facebook.svg"
 					/>
 				</div>
 			</div>

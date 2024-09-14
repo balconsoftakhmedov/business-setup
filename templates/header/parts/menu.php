@@ -35,7 +35,7 @@
 							<?php echo $title ?>
 							<?php if ( $has_children ): ?>
 								<img class="inline-block h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
-transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/vision-prime/web/public/feather-iconschevrondown.svg" alt="Submenu Icon"/>
+transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/feather-iconschevrondown.svg" alt="Submenu Icon"/>
 							<?php endif ?>
 						</a>
 						<?php if ( $has_children ): ?>

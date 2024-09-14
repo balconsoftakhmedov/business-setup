@@ -36,51 +36,51 @@ function vision_prime_enqueue_styles() {
 	);
 
 	wp_enqueue_style(
-		'vision-prime-output',
+		'business-setup-output',
 		get_template_directory_uri() . '/web/output.css',
 		array(),
 		filemtime( get_template_directory() . '/web/output.css' )
 	);
 	// Enqueue Google Fonts
 	wp_enqueue_style(
-		'vision-prime-google-fonts-poppins',
+		'business-setup-google-fonts-poppins',
 		'https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap',
 		array(),
 		null
 	);
 	wp_enqueue_style(
-		'vision-prime-google-fonts-merriweather',
+		'business-setup-google-fonts-merriweather',
 		'https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,400&display=swap',
 		array(),
 		null
 	);
 	wp_enqueue_style(
-		'vision-prime-google-fonts-dm-sans',
+		'business-setup-google-fonts-dm-sans',
 		'https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&display=swap',
 		array(),
 		null
 	);
 	wp_enqueue_style(
-		'vision-prime-google-fonts-playfair',
+		'business-setup-google-fonts-playfair',
 		'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap',
 		array(),
 		null
 	);
 	wp_enqueue_style(
-		'vision-prime-google-fonts-montserrat',
+		'business-setup-google-fonts-montserrat',
 		'https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap',
 		array(),
 		null
 	);
 	wp_enqueue_style(
-		'vision-prime-google-fonts-open-sans',
+		'business-setup-google-fonts-open-sans',
 		'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap',
 		array(),
 		null
 	);
 	// Add custom font-face CSS
 	wp_add_inline_style(
-		'vision-prime-output',
+		'business-setup-output',
 		"
         @font-face {
             font-family: 'Eudoxus Sans';

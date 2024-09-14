@@ -7,7 +7,7 @@
 <section class="flex flex-row items-start justify-start py-0 pl-0
 			gap-20 w-full text-center text-base text-general-1-primary font-subtitles-16
 			mq450:gap-5 mq850:gap-10 mq1500:flex-wrap">
-	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/vision-prime/web/public/form-builder-background@2x.png')]">
+	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/business-setup/web/public/form-builder-background@2x.png')]">
 		<div class="w-full max-w-[1170px] flex-row flex mr-[5%] justify-between lg:mr-[0px] lg:ml-[20px] mq850:flex-col mq850:gap-[30px] mq850:justify-center mq850:items-center">
 			<div class="max-w-[650px] w-full flex flex-col items-start justify-start  w-full ">
 				<div class="h-[120px] border-general-1-primary border-solid  border-l-[1px]"></div>
@@ -72,37 +72,37 @@
 </section>
 
 <footer class="self-stretch bg-general-8-secondary flex flex-col items-center justify-start pt-20 px-0 pb-0 box-border relative gap-[58px] max-w-full text-left text-lg text-general-white font-button-dm-sans-16 mq450:pt-[52px] mq450:box-border mq850:gap-[29px]">
-	<img class="w-full h-full absolute !m-[0] top-[0px] right-[0px] bottom-[1px] left-[0px] max-w-full overflow-hidden max-h-full object-contain hidden z-[0]" alt="" src="/wp-content/themes/vision-prime/web/public/transparentgreencreativitymodernartinkcolorsareamazinglybrightluminoustranslucentfreeflowingdryquicklynaturalpatternluxuryabstractartworktrendystyle@2x.png">
+	<img class="w-full h-full absolute !m-[0] top-[0px] right-[0px] bottom-[1px] left-[0px] max-w-full overflow-hidden max-h-full object-contain hidden z-[0]" alt="" src="/wp-content/themes/business-setup/web/public/transparentgreencreativitymodernartinkcolorsareamazinglybrightluminoustranslucentfreeflowingdryquicklynaturalpatternluxuryabstractartworktrendystyle@2x.png">
 
 	<div class="w-[1210px] flex flex-row items-start justify-start flex-wrap content-start py-0 px-5 box-border gap-[30px] max-w-full">
 		<div class="flex-1 flex flex-col items-start justify-start relative gap-[22px] min-w-[277px] max-w-full text-base text-gray-400">
 			<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-				<img class="h-[60px] w-[97.1px] relative" loading="lazy" alt="" src="/wp-content/themes/vision-prime/web/public/union.svg">
+				<img class="h-[60px] w-[97.1px] relative" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/union.svg">
 			</div>
 			<div class="self-stretch flex flex-row items-center justify-center py-0 pl-0 pr-[30px] gap-[30px] mq450:gap-[15px] mq450:flex-wrap">
 
 										<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[101px]">
 
-								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/about/"> About</a></b>
-								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/business-setup-services/"> Business Setup</a></b>
-								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/financial-services/"> Our Services</a></b>
+								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/about/"> About</a></b>
+								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/business-setup-services/"> Business Setup</a></b>
+								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/financial-services/"> Our Services</a></b>
 								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="#"> Resources</a></b>
 						</div>
 																<div class="flex-1 flex flex-col items-start justify-start py-0 pl-0 pr-0.5 box-border gap-2.5 min-w-[180px]">
 
-								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/careers/"> Careers</a></b>
-								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/contact/"> Contact Us</a></b>
-								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/privacy-policy-2/"> Privacy Policy</a></b>
-								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://vision-prime.test/terms-conditions/"> Terms &amp; Conditions</a></b>
+								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/careers/"> Careers</a></b>
+								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/contact/"> Contact Us</a></b>
+								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/privacy-policy-2/"> Privacy Policy</a></b>
+								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="https://business-setup.test/terms-conditions/"> Terms &amp; Conditions</a></b>
 						</div>
 
 			</div>
 			<div class="w-[62.97%] h-[22.05%] absolute !m-[0] top-[86.8%] right-[37.03%] bottom-[-8.85%] left-[0%] overflow-hidden hidden z-[2]">
-				<img class="absolute h-full w-[29.4%] top-[0%] right-[70.6%] bottom-[0%] left-[0%] max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/vision-prime/web/public/twitter.svg">
+				<img class="absolute h-full w-[29.4%] top-[0%] right-[70.6%] bottom-[0%] left-[0%] max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/twitter.svg">
 
-				<img class="absolute h-full w-[29.4%] top-[0%] right-[35.32%] bottom-[0%] left-[35.28%] max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/vision-prime/web/public/facebook-1.svg">
+				<img class="absolute h-full w-[29.4%] top-[0%] right-[35.32%] bottom-[0%] left-[35.28%] max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/facebook-1.svg">
 
-				<img class="absolute h-full w-[29.4%] top-[0%] right-[0.04%] bottom-[0%] left-[70.56%] max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/vision-prime/web/public/youtube-1.svg">
+				<img class="absolute h-full w-[29.4%] top-[0%] right-[0.04%] bottom-[0%] left-[70.56%] max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/youtube-1.svg">
 			</div>
 		</div>
 		<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[277px] max-w-full">
@@ -130,19 +130,19 @@
 
 			<div class="social-icons flex flex-row gap-4">
 					<a href="" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Facebook" src="/wp-content/themes/vision-prime/web/public/link--facebook.svg">
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Facebook" src="/wp-content/themes/business-setup/web/public/link--facebook.svg">
 				</a>
 				<a href="" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Twitter" src="/wp-content/themes/vision-prime/web/public/link--twitter.svg">
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Twitter" src="/wp-content/themes/business-setup/web/public/link--twitter.svg">
 				</a>
 
 
 				<a href="" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Instagram" src="/wp-content/themes/vision-prime/web/public/link--instagram.svg">
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Instagram" src="/wp-content/themes/business-setup/web/public/link--instagram.svg">
 				</a>
 
 				<a href="" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="YouTube" src="/wp-content/themes/vision-prime/web/public/link--pinterest.svg">
+					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="YouTube" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg">
 				</a>
 			</div>
 
@@ -151,7 +151,7 @@
 		</div>
 	</div>
 	<div class="self-stretch flex flex-col items-center justify-start gap-[25px] max-w-full">
-		<img class="w-[1170px] relative max-h-full max-w-full" loading="lazy" alt="" src="/wp-content/themes/vision-prime/web/public/rectangle-691.svg">
+		<img class="w-[1170px] relative max-h-full max-w-full" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/rectangle-691.svg">
 
 		<copyright class="self-stretch flex flex-row items-center justify-center pt-0 px-[375px] pb-[26px] box-border max-w-full text-left text-xs text-gray-400 font-primary-paragraph-paragraph-5 lg:pl-[187px] lg:pr-[187px] lg:box-border mq850:pl-[93px] mq850:pr-[93px] mq850:box-border">
 			<div class="flex-1 flex flex-row items-center justify-center py-0 px-5 box-border gap-0.5 max-w-full mq450:flex-wrap">

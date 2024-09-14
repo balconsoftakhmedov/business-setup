@@ -36,19 +36,19 @@
 	<style>
 		@font-face {
 			font-family: "Eudoxus Sans";
-			src: url("./wp-content/themes/vision-prime/web/public/EudoxusSans-Regular-BF659b6cb1d4714.ttf");
+			src: url("./wp-content/themes/business-setup/web/public/EudoxusSans-Regular-BF659b6cb1d4714.ttf");
 			font-weight: 400;
 		}
 
 		@font-face {
 			font-family: "Eudoxus Sans";
-			src: url("./wp-content/themes/vision-prime/web/public/EudoxusSans-Medium-BF659b6cb1c14cb.ttf");
+			src: url("./wp-content/themes/business-setup/web/public/EudoxusSans-Medium-BF659b6cb1c14cb.ttf");
 			font-weight: 500;
 		}
 
 		@font-face {
 			font-family: "Eudoxus Sans";
-			src: url("./wp-content/themes/vision-prime/web/public/EudoxusSans-Bold-BF659b6cb1408e5.ttf");
+			src: url("./wp-content/themes/business-setup/web/public/EudoxusSans-Bold-BF659b6cb1408e5.ttf");
 			font-weight: 700;
 		}
 	</style>

@@ -32,11 +32,12 @@ module.exports = {
         fadeOut: 'fadeOut 1s ease-out forwards',
       },
       colors: {
+        "text-base-primary" : "#14151A",
         "general-white": "#fff",
         "general-8-secondary": "#000",
         darkslategray: "#333",
         "general-1-secondary": "#0e163d",
-        "general-1-primary": "#a29061",
+        "general-1-primary": "#924FE8",
         'custom-gold': "rgba(162, 144, 97, var(--tw-text-opacity))",
         "general-1-secondary-variant": "#414562",
         "elements-neutral-2": "#bfd4e4",
@@ -55,7 +56,9 @@ module.exports = {
         "general-7-secondary-variant": "#343434",
         darkolivegreen: "#8a7847",
         "general-1-primary-variant": "#92643a",
+
       },
+
       spacing: {},
       fontFamily: {
         montserrat: "Montserrat",

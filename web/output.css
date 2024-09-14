@@ -2327,7 +2327,7 @@ video {
 
 .border-general-1-primary {
   --tw-border-opacity: 1;
-  border-color: rgb(162 144 97 / var(--tw-border-opacity));
+  border-color: rgb(146 79 232 / var(--tw-border-opacity));
 }
 
 .border-general-white {
@@ -2369,7 +2369,7 @@ video {
 
 .bg-general-1-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(162 144 97 / var(--tw-bg-opacity));
+  background-color: rgb(146 79 232 / var(--tw-bg-opacity));
 }
 
 .bg-general-1-primary-variant {
@@ -3301,7 +3301,7 @@ video {
 
 .text-general-1-primary {
   --tw-text-opacity: 1;
-  color: rgb(162 144 97 / var(--tw-text-opacity));
+  color: rgb(146 79 232 / var(--tw-text-opacity));
 }
 
 .text-general-1-secondary {
@@ -4998,7 +4998,7 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
 .hover\:border-general-1-primary:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(162 144 97 / var(--tw-border-opacity));
+  border-color: rgb(146 79 232 / var(--tw-border-opacity));
 }
 
 .hover\:bg-\[transparent\]:hover {
@@ -5043,7 +5043,7 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
 .hover\:text-general-1-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(162 144 97 / var(--tw-text-opacity));
+  color: rgb(146 79 232 / var(--tw-text-opacity));
 }
 
 .hover\:text-general-white:hover {
@@ -5444,10 +5444,6 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
     bottom: -43px;
   }
 
-  .mq950\:top-\[0px\] {
-    top: 0px;
-  }
-
   .mq950\:col-span-1 {
     grid-column: span 1 / span 1;
   }
@@ -5663,10 +5659,6 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
   .mq950\:pr-\[10px\] {
     padding-right: 10px;
-  }
-
-  .mq950\:pt-\[0px\] {
-    padding-top: 0px;
   }
 
   .mq950\:pt-\[83px\] {
@@ -6336,12 +6328,6 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
   .mq350\:gap-\[10px\] {
     gap: 10px;
-  }
-}
-
-@media screen and (min-width: 950px) {
-  .minq950\:hidden {
-    display: none;
   }
 }
 

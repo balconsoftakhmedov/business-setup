@@ -16,7 +16,7 @@
 
 
 					<div class="w-full flex flex-row mb-[10px] mt-[0px]">
-						<div class="w-[50%] h-[120px] border-general-1-primary border-r border-solid "></div>
+						<div class="w-[50%] h-[120px]"></div>
 						<div class="w-[50%] "></div>
 					</div>
 					<div class="w-[1140px] flex flex-row items-start justify-center max-w-full text-center text-general-1-primary font-subtitles-16">
@@ -97,16 +97,10 @@
 		</div>
 	</section>
 
-
-
-
-
 		<section class="self-stretch flex flex-row items-start justify-center pt-0  pb-[180px] box-border max-w-full text-left text-base text-general-1-primary font-subtitles-16  lg:box-border mq850:box-border">
 			<div class="w-[1170px] flex flex-col items-start justify-start gap-[60px] max-w-full lg:gap-[30px] lg:mx-[0px] lg:ml-[0px] px-[20px] mq650:px-[0px]">
 				<div class="self-stretch flex flex-col items-start justify-center py-0  box-border max-w-full text-center mq650:px-[20px]">
-					<div class="h-[120px] relative block left-[50%] ">
-						<div class="h-px w-[120px] !m-[0] top-[-79px]  bg-general-1-primary [transform:_rotate(90deg)] [transform-origin:0_0]"></div>
-					</div>
+					<div class="h-[120px] relative block "></div>
 					<div class="w-full flex flex-col items-center justify-start pt-[22px] px-0 pb-[5px] box-border gap-[21px] max-w-full">
 
 						<div class="self-stretch flex flex-row items-start justify-center py-0 ">
@@ -331,9 +325,7 @@
 
 
 				<div class="w-full max-w-[1170px] flex flex-col items-start justify-center py-0 pl-0 pr-px box-border  text-general-1-primary ml-[5%] mq650:ml-[0px]">
-					<div class="h-[120px] relative block left-[50%] ">
-						<div class="h-px w-[120px] !m-[0] top-[-79px]  bg-general-1-primary [transform:_rotate(90deg)] [transform-origin:0_0]"></div>
-					</div>
+					<div class="h-[120px] relative block  "></div>
 
 					<div class="w-full max-w-[1170px] flex flex-col items-start justify-start pt-[22px] px-0 pb-[5px] box-border gap-[21px]  z-[1]">
 						<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
@@ -356,7 +348,8 @@
 				 lg:grid-cols-[repeat(2,_minmax(277px,_481px))]
 				  mq950:grid-cols-[minmax(277px,_1fr)]
 				  mq950:flex mq950:overflow-x-auto hide-scrollbar minq450:justify-start mq450:grid minq450:min-h-[550px] h-auto  ">
-					<div class="h-[522px] cursor-pointer  hover:scale-110 transition-transform duration-300 ease-in-out flex flex-col items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[url('/wp-content/themes/business-setup/web/public/basic@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
+					<div class="h-[522px] cursor-pointer  hover:scale-110 transition-transform duration-300 ease-in-out flex flex-col items-start justify-start py-[60px] px-[50px] box-border gap-10
+					bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
 						<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
 							Mainland
 						</h2>
@@ -415,7 +408,7 @@
 							</div>
 						</button>
 					</div>
-					<div class=" h-[522px]  flex flex-col cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[url('/wp-content/themes/business-setup/web/public/basic1@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
+					<div class=" h-[522px]  flex flex-col cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
 						<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
 							Free Zone
 						</h2>
@@ -467,7 +460,7 @@
 							</div>
 						</button>
 					</div>
-					<div class="h-[522px]  flex flex-col cursor-pointer hover:scale-110  transition-transform duration-300 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[url('/wp-content/themes/business-setup/web/public/basic2@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
+					<div class="h-[522px]  flex flex-col cursor-pointer hover:scale-110  transition-transform duration-300 ease-in-out items-start justify-start py-[60px] px-[50px] box-border gap-10 bg-[top] max-w-full mq450:gap-5 mq450:pl-5 mq450:pr-5 mq450:box-border mq850:pt-[39px] mq850:pb-[39px] mq850:box-border">
 						<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
 							Offshore
 						</h2>
@@ -539,9 +532,7 @@
 			<div class="self-stretch bg-elements-neutral-4 flex flex-col items-center justify-start pt-[132px] px-5 pb-[100px] box-border gap-[100px] max-w-full z-[6] mt-[-110px] text-general-1-primary lg:gap-[89px] lg:pt-[132px] lg:pb-[65px] lg:box-border mq450:gap-[22px] mq650:px-[0px] mq850:gap-[45px] mq850:pb-[42px] mq850:box-border">
 
 				<div class="max-w-[1170px] w-full flex flex-col items-center justify-center py-0 pl-px pr-0 box-border mq650:px-[20px]">
-					<div class="h-[120px] relative block left-[60px] top-[-25px]  ">
-						<div class="h-px w-[120px] !m-[0] top-[-79px]  bg-general-1-primary [transform:_rotate(90deg)] [transform-origin:0_0]"></div>
-					</div>
+					<div class="h-[120px] relative block "></div>
 					<div class=" flex flex-col items-start justify-start gap-[21px] max-w-full">
 						<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
 							<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[2]">
@@ -679,9 +670,7 @@
 					 pb-[110px] box-border gap-[100px]	z-[4]  w-full">
 
 					<div class="flex-row w-full max-w-[1170px]">
-						<div class="h-[120px] relative block left-[5px] top-[-95px] flex justify-center items-center lg:left-[50px]">
-							<div class="h-px w-[120px] !m-[0] top-[-79px]  bg-general-1-primary [transform:_rotate(90deg)] [transform-origin:0_0]"></div>
-						</div>
+						<div class="h-[120px]"></div>
 						<div class="max-w-[1170px] flex flex-row items-start justify-center w-full ml-[-50px] mb-[60px] lg:ml-[0px]">
 							<div class=" flex flex-col items-center justify-start gap-[31px] w-full mq850:gap-[15px]">
 								<div class="self-stretch flex flex-row items-center justify-center py-0 ">
@@ -787,9 +776,7 @@
 			<div class="w-[1920px] h-[520px] relative bg-general-white hidden max-w-full"></div>
 			<div class="w-full flex flex-row items-start justify-center py-0 pl-0 pr-0.5 box-border max-w-[1170px">
 				<div class=" flex flex-col items-center justify-start gap-[21px] w-full">
-					<div class="flex flex-row items-center justify-start relative w-full top-[58px] lg:top-[-13px]">
-						<div class="h-px w-[120px] absolute !m-[0] top-[-79px] left-[calc(50%_+_0.5px)] bg-general-1-primary [transform:_rotate(90deg)] [transform-origin:0_0] z-[1]"></div>
-					</div>
+					<div class="h-[120px]"></div>
 					<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 mt-[100px] lg:mt-[34px]">
 						<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[2]">
 							Trusted by
@@ -828,7 +815,7 @@
 		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">
 			<div class="w-full flex flex-col items-center justify-start gap-[21px] max-w-full">
 				<div class="flex flex-row items-center justify-start relative w-full top-[58px] ">
-					<div class="h-px w-[120px] absolute !m-[0] top-[-79px] left-[calc(50%_+_0.5px)] bg-general-1-primary [transform:_rotate(90deg)] [transform-origin:0_0] z-[1]"></div>
+					<div class="h-[120px]"></div>
 				</div>
 				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 mt-[100px] ">
 					<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium inline-block min-w-[126px] z-[2]">
@@ -989,13 +976,13 @@
 		<div class="flex-1 bg-general-1-primary flex flex-col items-center justify-start pt-0
 				 pb-[100px] box-border relative gap-[30px] max-w-full
 				 lg:pb-[65px] lg:box-border mq450:pb-[42px] mq450:box-border
-				  mq850:gap-[15px] mq1500:min-w-full mr-[5%]">
+				  mq850:gap-[15px] mq1500:min-w-full">
 			<div class="w-full max-w-[1170px] flex-col ml-[5%] mq950:mx-[0px]">
 
 				<div class="w-[1318px] h-[168px] flex flex-row items-start justify-center max-w-full">
 					<div class="self-stretch w-[182px] flex flex-col items-start justify-start gap-[30px]">
 						<div class="self-stretch flex-1 flex flex-row items-center justify-center ">
-							<div class="h-px w-[120px] relative bg-general-white [transform:_rotate(90deg)] shrink-0 z-[1]"></div>
+							<div class="h-px w-[120px] relative z-[1]"></div>
 						</div>
 						<div class="relative tracking-[0.4em] leading-[18px] uppercase font-medium z-[1]">
 							Testimonials
@@ -1226,7 +1213,7 @@
 			max-w-full text-center text-base text-general-1-primary
 			font-subtitles-16  ">
 		<div class="w-full flex flex-row mb-[-20px] mt-[-21px]">
-			<div class="w-[50%] h-[120px] border-general-1-primary border-r border-solid "></div>
+			<div class="w-[50%] h-[120px]"></div>
 			<div class="w-[50%] "></div>
 		</div>
 		<div class="max-w-[1170px] flex flex-row items-start justify-center w-full">
@@ -1392,7 +1379,7 @@
 			max-w-full text-center text-base text-general-1-primary
 			font-subtitles-16 ">
 			<div class="w-full flex flex-row mb-[-60px] mt-[0px]">
-				<div class="w-[50%] h-[120px] border-general-1-primary border-r border-solid "></div>
+				<div class="w-[50%] h-[120px]"></div>
 				<div class="w-[50%] "></div>
 			</div>
 			<div class="w-[1920px] h-[1778px] relative bg-elements-neutral-4 hidden max-w-full"></div>

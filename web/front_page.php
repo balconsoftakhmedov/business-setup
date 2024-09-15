@@ -993,9 +993,9 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
 					</div>
 					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-						<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+						<h2 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 							Jurisdictions
-						</h1>
+						</h2>
 						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 							We take a white-glove approach to&nbsp;our business setup services
 							in Dubai. We&nbsp;know every client has different needs, and we’re

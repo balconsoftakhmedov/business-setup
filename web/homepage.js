@@ -9,13 +9,13 @@ document.addEventListener("DOMContentLoaded", function () {
 			tabContents.forEach(content => content.classList.add("hidden"));
 
 			// Remove active classes from all buttons
-			tabButtons.forEach(button => button.classList.remove("bg-elements-neutral-4", "border-l-[4px]", "border-solid", "border-general-1-primary", "bg-transparent"));
+			tabButtons.forEach(button => button.classList.remove("bg-background-surface-default", "border-border-base-alpha", "border-solid", "border-[1px]"));
 
 			// Show the selected tab content
 			tabContents[index].classList.remove("hidden");
 
 			// Add active classes to the selected button
-			tabButtons[index].classList.add("bg-elements-neutral-4");
+			tabButtons[index].classList.add("bg-background-surface-default", "border-border-base-alpha", "border-solid", "border-[1px]" ) ;
 		}
 
 		// Add event listeners to all tab buttons

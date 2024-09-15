@@ -736,7 +736,7 @@
 		<div class="self-stretch overflow-hidden flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-5xl mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 			<div class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[50px] gap-y-14 max-w-full mq750:gap-[25px]">
 				<div class="flex-1 flex flex-col items-start justify-start min-w-[224px] max-w-full">
-					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+					<button class="tab-button cursor-pointer py-[30px] px-[31px]  self-stretch  rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -746,7 +746,7 @@
 						</div>
 					</button>
 
-					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+					<button class="tab-button cursor-pointer border-border-base-alpha py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -756,7 +756,7 @@
 						</div>
 					</button>
 
-					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+					<button class="tab-button cursor-pointer  py-[30px] px-[31px]  self-stretch  rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -766,7 +766,7 @@
 						</div>
 					</button>
 
-					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+					<button class="tab-button cursor-pointer  py-[30px] px-[31px]  self-stretch  rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -776,7 +776,7 @@
 						</div>
 					</button>
 
-					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+					<button class="tab-button cursor-pointer  py-[30px] px-[31px]  self-stretch  rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">

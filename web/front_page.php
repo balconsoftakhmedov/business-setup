@@ -3,8 +3,8 @@
 <?php include_once( 'header.php' );
 ?>
 <body>
-<div class="w-full mt-[-90px]">
-<div class="text-general-1-primary hover:bg-general-white">test</div>
+<div class="w-full">
+<div class="text-general-1-primary hover:bg-general-white hidden">test</div>
 	<section
 			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('./public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
 	>

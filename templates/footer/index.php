@@ -64,7 +64,9 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 	</div>
 </section>
 <footer
-		class="self-stretch bg-general-8-secondary flex flex-col items-center justify-start pt-20 px-0 pb-0 box-border relative gap-[58px] max-w-full text-left text-lg text-general-white font-button-dm-sans-16 mq450:pt-[52px] mq450:box-border mq850:gap-[29px]"
+		class="self-stretch  flex flex-col items-center justify-start pt-20 px-0 pb-0
+		box-border relative gap-[58px] max-w-full text-left text-base text-text-accent-purple-accent font-body-s-bold
+		mq450:pt-[52px] mq450:box-border mq850:gap-[29px]"
 >
 	<img
 			class="w-full h-full absolute !m-[0] top-[0px] right-[0px] bottom-[1px] left-[0px] max-w-full overflow-hidden max-h-full object-contain hidden z-[0]"
@@ -75,9 +77,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 	<div
 			class="w-[1210px] flex flex-row items-start justify-start flex-wrap content-start py-0 px-5 box-border gap-[30px] max-w-full"
 	>
-		<div
-				class="flex-1 flex flex-col items-start justify-start relative gap-[22px] min-w-[277px] max-w-full text-base text-gray-400"
-		>
+		<div	class="flex-1 flex flex-col items-start justify-start relative gap-[22px] min-w-[277px] max-w-full text-sm-2 text-text-base-primary font-poppins">
 			<div class="flex flex-row items-center justify-center py-0 px-[3px]">
 
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
@@ -86,7 +86,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 							loading="lazy"
 							alt=""
 							style="width: 120px;height: 32px"
-							src="<?php echo esc_url( $white_logo_image[0] ); ?>"
+							src="<?php echo esc_url( $logo_image[0] ); ?>"
 					/>
 				</a>
 			</div>
@@ -108,7 +108,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 								$url = esc_url( $menu_item->url );
 								?>
 
-								<b class="self-stretch relative leading-[22px] hover:text-general-white hover:[text-decoration:underline]"><a href="<?php echo $url ?>"> <?php echo $title ?></a></b>        <?php
+								<b class="self-stretch relative leading-[22px] hover:text-general-1-primary hover:[text-decoration:underline]"><a href="<?php echo $url ?>"> <?php echo $title ?></a></b>        <?php
 							endforeach;
 							?>
 
@@ -131,7 +131,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 								$url = esc_url( $menu_item->url );
 								?>
 
-								<b class="self-stretch relative leading-[22px]   hover:text-general-white hover:[text-decoration:underline]"><a href="<?php echo $url ?>"> <?php echo $title ?></a></b>        <?php
+								<b class="self-stretch relative leading-[22px]   hover:text-general-1-primary hover:[text-decoration:underline]"><a href="<?php echo $url ?>"> <?php echo $title ?></a></b>        <?php
 							endforeach;
 							?>
 
@@ -172,7 +172,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 			>
 					<a href="tel:+97145677333" class="relative leading-[24px] whitespace-nowrap font-bold hover:[text-decoration:underline]">800-LICENSE (542 3673)</a>
 				<div
-						class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-gray-300"
+						class="text-sm tracking-[-0.1px] leading-[20px] font-medium text-text-base-secondary"
 				>
 					If you are calling from outside the UAE, please contact us on
 				</div>
@@ -184,9 +184,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 					+971 4 567 7333
 				</a>
 
-				<div
-						class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-gray-300"
-				>
+				<div	class="self-stretch relative text-sm tracking-[-0.1px] leading-[20px] font-medium text-text-base-secondary">
 					or email us at
 				</div>
 				<a href="mailto:hello@business-setup-in-dubai-uae.com" class="relative leading-[24px] font-bold whitespace-nowrap hover:[text-decoration:underline]">hello@business-setup-in-dubai-uae.com</a>
@@ -205,24 +203,18 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 			$instagram_url = get_theme_mod( 'ms_lms_starter_socials_instagram', null );
 			$youtube_url   = get_theme_mod( 'ms_lms_starter_socials_youtube', null );
 			?>
-
-			<div class="social-icons flex flex-row gap-4">
-					<a href="<?php echo esc_url( $facebook_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Facebook" src="/wp-content/themes/business-setup/web/public/link--facebook.svg"/>
+			<div class="flex flex-row items-center justify-end gap-numbers-16">
+				<a href="<?php echo esc_url( $facebook_url ); ?>" target="_blank" rel="noopener noreferrer">
+					<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/twitterfill-8.svg">
 				</a>
 				<a href="<?php echo esc_url( $twitter_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Twitter" src="/wp-content/themes/business-setup/web/public/link--twitter.svg"/>
+					<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/instagramfill-8.svg">
 				</a>
-
-
-				<a href="<?php echo esc_url( $instagram_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="Instagram" src="/wp-content/themes/business-setup/web/public/link--instagram.svg"/>
-				</a>
-
-				<a href="<?php echo esc_url( $youtube_url ); ?>" target="_blank" rel="noopener noreferrer">
-					<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" loading="lazy" alt="YouTube" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg"/>
+				<a href="<?php echo esc_url( $twitter_url ); ?>" target="_blank" rel="noopener noreferrer">
+					<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/facebookcirclefill-8.svg">
 				</a>
 			</div>
+
 
 			<b
 					class="self-stretch h-[72px] relative leading-[24px] inline-block"
@@ -232,7 +224,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 		</div>
 	</div>
 	<div
-			class="self-stretch flex flex-col items-center justify-start gap-[25px] max-w-full"
+			class="self-stretch flex flex-col items-center justify-start max-w-full"
 	>
 		<img
 				class="w-[1170px] relative max-h-full max-w-full"
@@ -240,28 +232,10 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 				alt=""
 				src="/wp-content/themes/business-setup/web/public/rectangle-691.svg"
 		/>
+<copyright class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-text-base-tertiary text-center inline-block min-w-[112px]">
+                All right reserved. © 2024
+</copyright>
 
-		<copyright
-				class="self-stretch flex flex-row items-center justify-center pt-0 px-[375px] pb-[26px] box-border max-w-full text-left text-xs text-gray-400 font-primary-paragraph-paragraph-5 lg:pl-[187px] lg:pr-[187px] lg:box-border mq850:pl-[93px] mq850:pr-[93px] mq850:box-border"
-		>
-			<div
-					class="flex-1 flex flex-row items-center justify-center py-0 px-5 box-border gap-0.5 max-w-full mq450:flex-wrap"
-			>
-				<div class="w-11 relative leading-[22px] inline-block">
-					© 2024
-				</div>
-				<div
-						class="relative leading-[22px] text-general-white inline-block min-w-[69px] mr-[3px]"
-				>
-					Business setup
-				</div>
-				<div
-						class="relative leading-[22px]  inline-block min-w-[112px]"
-				>
-					| All rights reserved
-				</div>
-			</div>
-		</copyright>
 	</div>
 </footer>
 <div class="relative z-[11111111111111] stm-f" aria-labelledby="modal-title" role="dialog" aria-modal="true" id="myModal" style="display: none;">

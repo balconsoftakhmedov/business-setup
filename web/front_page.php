@@ -6,7 +6,7 @@
 <div class="w-full">
 <div class="text-general-1-primary hover:bg-general-white hidden">test</div>
 	<section
-			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('./public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
+			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('/wp-content/themes/business-setup/web/public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
 	>
 		<div
 				class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-160-96 px-5 pb-measurements-gap-120 box-border max-w-full mq450:pt-measurements-gap-120 mq450:pb-measurements-gap-120 mq450:box-border mq1050:pt-measurements-gap-120 mq1050:pb-measurements-gap-120 mq1050:box-border"
@@ -209,7 +209,7 @@
 				>
 					<div class="flex flex-row items-start justify-start">
 						<div
-								class="relative rounded-measurements-radius-full bg-[url('./public/avatar7@3x.png')] bg-cover bg-no-repeat bg-[top]"
+								class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar7@3x.png')] bg-cover bg-no-repeat bg-[top]"
 						>
 							<div
 									class="absolute h-[37.5%] w-[37.5%] top-[68.75%] right-[-6.25%] bottom-[-6.25%] left-[68.75%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[2px] border-solid box-border hidden"
@@ -219,7 +219,7 @@
 							></div>
 						</div>
 						<div
-								class="relative rounded-measurements-radius-full bg-[url('./public/avatar8@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
+								class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar8@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
 						>
 							<div
 									class="absolute h-[37.5%] w-[37.5%] top-[68.75%] right-[-6.25%] bottom-[-6.25%] left-[68.75%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[2px] border-solid box-border hidden"
@@ -229,7 +229,7 @@
 							></div>
 						</div>
 						<div
-								class="relative rounded-measurements-radius-full bg-[url('./public/avatar9@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
+								class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar9@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
 						>
 							<div
 									class="absolute h-[37.5%] w-[37.5%] top-[68.75%] right-[-6.25%] bottom-[-6.25%] left-[68.75%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[2px] border-solid box-border hidden"
@@ -239,7 +239,7 @@
 							></div>
 						</div>
 						<div
-								class="relative rounded-measurements-radius-full bg-[url('./public/avatar10@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
+								class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar10@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
 						>
 							<div
 									class="absolute h-[37.5%] w-[37.5%] top-[68.75%] right-[-6.25%] bottom-[-6.25%] left-[68.75%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[2px] border-solid box-border hidden"
@@ -249,7 +249,7 @@
 							></div>
 						</div>
 						<div
-								class="relative rounded-measurements-radius-full bg-[url('./public/avatar11@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
+								class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar11@3x.png')] bg-cover bg-no-repeat bg-[top] ml-[-8px]"
 						>
 							<div
 									class="absolute h-[37.5%] w-[37.5%] top-[68.75%] right-[-6.25%] bottom-[-6.25%] left-[68.75%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[2px] border-solid box-border hidden"
@@ -695,7 +695,7 @@
 					<div class="rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid flex flex-col items-start justify-start py-0.5 px-0 relative z-[1] mq750:flex-1">
 						<div class="self-stretch flex flex-row items-center justify-start py-numbers-2 px-numbers-6 z-[0]">
 							<div class="flex-1 rounded-measurements-radius-sm bg-background-overlay-normal overflow-x-auto flex flex-row items-center justify-start p-numbers-6 gap-numbers-4">
-								<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar12@3x.png')] bg-cover bg-no-repeat bg-[top]">
+								<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar12@3x.png')] bg-cover bg-no-repeat bg-[top]">
 									<div class="absolute h-[37.5%] w-[37.5%] top-[68.75%] right-[-6.25%] bottom-[-6.25%] left-[68.75%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[2px] border-solid box-border hidden"></div>
 									<div class="absolute h-[37.5%] w-[37.5%] top-[-6.25%] right-[-6.25%] bottom-[68.75%] left-[68.75%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[2px] border-solid box-border hidden"></div>
 								</div>
@@ -1186,7 +1186,7 @@
 												<div class="absolute top-[calc(50%_-_8px)] left-[calc(50%_-_8px)] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xs bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border w-full h-full"></div>
 											</div>
 										</div>
-										<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar@3x.png')] bg-cover bg-no-repeat bg-[top]">
 											<div class="absolute h-2/5 w-2/5 top-[67.5%] right-[-7.5%] bottom-[-7.5%] left-[67.5%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 											<div class="absolute h-2/5 w-2/5 top-[-7.5%] right-[-7.5%] bottom-[67.5%] left-[67.5%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 										</div>
@@ -1220,7 +1220,7 @@
 												<img class="absolute top-[calc(50%_-_3px)] left-[calc(50%_-_4px)] w-2 h-1.5" alt="" src="/wp-content/themes/business-setup/web/public/vector.svg">
 											</div>
 										</div>
-										<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar1@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar1@3x.png')] bg-cover bg-no-repeat bg-[top]">
 											<div class="absolute h-2/5 w-2/5 top-[67.5%] right-[-7.5%] bottom-[-7.5%] left-[67.5%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 											<div class="absolute h-2/5 w-2/5 top-[-7.5%] right-[-7.5%] bottom-[67.5%] left-[67.5%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 										</div>
@@ -1254,7 +1254,7 @@
 												<img class="absolute top-[calc(50%_-_3px)] left-[calc(50%_-_4px)] w-2 h-1.5" alt="" src="/wp-content/themes/business-setup/web/public/vector.svg">
 											</div>
 										</div>
-										<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar2@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar2@3x.png')] bg-cover bg-no-repeat bg-[top]">
 											<div class="absolute h-2/5 w-2/5 top-[67.5%] right-[-7.5%] bottom-[-7.5%] left-[67.5%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 											<div class="absolute h-2/5 w-2/5 top-[-7.5%] right-[-7.5%] bottom-[67.5%] left-[67.5%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 										</div>
@@ -1287,7 +1287,7 @@
 												<div class="absolute top-[calc(50%_-_8px)] left-[calc(50%_-_8px)] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xs bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border w-full h-full"></div>
 											</div>
 										</div>
-										<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar3@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar3@3x.png')] bg-cover bg-no-repeat bg-[top]">
 											<div class="absolute h-2/5 w-2/5 top-[67.5%] right-[-7.5%] bottom-[-7.5%] left-[67.5%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 											<div class="absolute h-2/5 w-2/5 top-[-7.5%] right-[-7.5%] bottom-[67.5%] left-[67.5%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 										</div>
@@ -1321,7 +1321,7 @@
 												<img class="absolute top-[calc(50%_-_3px)] left-[calc(50%_-_4px)] w-2 h-1.5" alt="" src="/wp-content/themes/business-setup/web/public/vector.svg">
 											</div>
 										</div>
-										<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar4@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar4@3x.png')] bg-cover bg-no-repeat bg-[top]">
 											<div class="absolute h-2/5 w-2/5 top-[67.5%] right-[-7.5%] bottom-[-7.5%] left-[67.5%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 											<div class="absolute h-2/5 w-2/5 top-[-7.5%] right-[-7.5%] bottom-[67.5%] left-[67.5%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 										</div>
@@ -1390,7 +1390,7 @@
 												<div class="absolute top-[calc(50%_-_8px)] left-[calc(50%_-_8px)] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xs bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border w-full h-full"></div>
 											</div>
 										</div>
-										<div class="relative rounded-measurements-radius-full bg-[url('./public/avatar5@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<div class="relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public/avatar5@3x.png')] bg-cover bg-no-repeat bg-[top]">
 											<div class="absolute h-2/5 w-2/5 top-[67.5%] right-[-7.5%] bottom-[-7.5%] left-[67.5%] rounded-measurements-radius-full bg-background-accent-green-accent border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 											<div class="absolute h-2/5 w-2/5 top-[-7.5%] right-[-7.5%] bottom-[67.5%] left-[67.5%] rounded-measurements-radius-full bg-text-status-destructive border-background-surface-default border-[1.5px] border-solid box-border hidden"></div>
 										</div>
@@ -4284,7 +4284,7 @@
 		</div>
 	</section>
 
-<section class="self-stretch flex flex-col items-center justify-start bg-[url('./public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
+<section class="self-stretch flex flex-col items-center justify-start bg-[url('/wp-content/themes/business-setup/web/public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
         <div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
           <div class="w-[1200px] flex flex-row items-center justify-start flex-wrap content-center py-0 pl-0 pr-1.5 box-border gap-x-[74px] gap-y-20 max-w-full lg:gap-[37px] mq750:gap-[18px]">
             <div class="flex-1 flex flex-col items-start justify-start min-w-[288px] max-w-full">

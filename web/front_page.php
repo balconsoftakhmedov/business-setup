@@ -3128,7 +3128,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="self-stretch flex flex-row items-center justify-between flex-wrap content-center gap-5 justify-between">
+				<div class="self-stretch flex flex-row items-center justify-between flex-wrap content-center gap-5 justify-around">
 					<div class="overflow-hidden flex flex-col items-center justify-center pt-[1.8px] px-0 pb-[1.9px]">
 						<img class="self-stretch h-[36.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/vector-8.svg">
 					</div>

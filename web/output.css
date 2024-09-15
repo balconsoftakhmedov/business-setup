@@ -3745,6 +3745,38 @@ video {
   background-image: url('/public/avatar6@3x.png');
 }
 
+.bg-\[url\(\'\.\/public\/container1\@3x\.png\'\)\] {
+  background-image: url('./public/container1@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container2\@3x\.png\'\)\] {
+  background-image: url('./public/container2@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container3\@3x\.png\'\)\] {
+  background-image: url('./public/container3@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container4\@3x\.png\'\)\] {
+  background-image: url('./public/container4@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container5\@3x\.png\'\)\] {
+  background-image: url('./public/container5@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container6\@3x\.png\'\)\] {
+  background-image: url('./public/container6@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container7\@3x\.png\'\)\] {
+  background-image: url('./public/container7@3x.png');
+}
+
+.bg-\[url\(\'\.\/public\/container\@3x\.png\'\)\] {
+  background-image: url('./public/container@3x.png');
+}
+
 .bg-cover {
   background-size: cover;
 }

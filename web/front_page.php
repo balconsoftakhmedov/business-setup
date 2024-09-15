@@ -803,7 +803,7 @@
 							you&nbsp;have.
 						</div>
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button  onclick="openModal()"   class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
@@ -838,7 +838,7 @@
 							Dubai offers a few different business setup options—Mainland, Free Zone, or Offshore. Deciding which one to go with can be a bit tricky, but no need to stress. We’ll take a close look at your company’s activities and preferences to help you pick the perfect fit for your needs.
 						</div>
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button  onclick="openModal()"   class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
@@ -874,7 +874,7 @@
 							Getting a trade license in Dubai usually only takes a few days, but to avoid any hiccups, it’s best to leave it to us. We’ll handle the paperwork, and select the right trade license for you, and soon your company will be legally ready to operate.
 						</div>
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button  onclick="openModal()"   class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
@@ -910,7 +910,7 @@
 							We’ll handle the business visa Dubai and Emirates ID application process for you and your team, so you can stay focused on your business. Need a license or UAE visa extension down the line? We can take care of that in no time too.
 						</div>
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button  onclick="openModal()"   class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
@@ -947,7 +947,7 @@
 							With Vision Prime by your side, accessing the Dubai financial market becomes very effortless. With more than 10 bank partners, we’ll assist you with business bank account opening in UAE—and manage the trickier aspects like providing guarantees and controlling payments in the Emirates.
 								</div>
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button  onclick="openModal()"   class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">

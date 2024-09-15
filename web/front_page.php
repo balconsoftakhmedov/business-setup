@@ -38,7 +38,7 @@
 						<img
 								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 								alt=""
-								src="./public/tailicon.svg"
+								src="/wp-content/themes/business-setup/web/public/tailicon.svg"
 						/>
 					</div>
 				</div>
@@ -68,7 +68,7 @@
 								class="h-5 w-px relative"
 								loading="lazy"
 								alt=""
-								src="./public/navigation-bar-items.svg"
+								src="/wp-content/themes/business-setup/web/public/navigation-bar-items.svg"
 						/>
 
 						<h3
@@ -80,7 +80,7 @@
 								class="h-5 w-px relative"
 								loading="lazy"
 								alt=""
-								src="./public/navigation-bar-items.svg"
+								src="/wp-content/themes/business-setup/web/public/navigation-bar-items.svg"
 						/>
 
 						<h3
@@ -102,7 +102,7 @@
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
-									src="./public/leadicon.svg"
+									src="/wp-content/themes/business-setup/web/public/leadicon.svg"
 							/>
 
 							<div
@@ -121,7 +121,7 @@
 									<img
 											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
 											alt=""
-											src="./public/leadicon1.svg"
+											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
 									/>
 
 									<div
@@ -136,14 +136,14 @@
 									<img
 											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
 											alt=""
-											src="./public/tailicon1.svg"
+											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
 									/>
 								</div>
 							</div>
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
-									src="./public/tailicon2.svg"
+									src="/wp-content/themes/business-setup/web/public/tailicon2.svg"
 							/>
 						</button>
 						<div
@@ -152,7 +152,7 @@
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
-									src="./public/leadicon2.svg"
+									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
 							/>
 
 							<div
@@ -173,7 +173,7 @@
 									<img
 											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
 											alt=""
-											src="./public/leadicon1.svg"
+											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
 									/>
 
 									<div
@@ -186,14 +186,14 @@
 									<img
 											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
 											alt=""
-											src="./public/tailicon1.svg"
+											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
 									/>
 								</div>
 							</div>
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
-									src="./public/tailicon3.svg"
+									src="/wp-content/themes/business-setup/web/public/tailicon3.svg"
 							/>
 						</div>
 					</div>
@@ -309,7 +309,7 @@
 							class="h-8 w-[22.1px] relative overflow-hidden shrink-0"
 							loading="lazy"
 							alt=""
-							src="./public/burj-alarab.svg"
+							src="/wp-content/themes/business-setup/web/public/burj-alarab.svg"
 					/>
 
 					<div class="relative leading-[13.2px] uppercase font-semibold">
@@ -327,7 +327,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<a
@@ -337,7 +337,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0"
 							alt=""
-							src="./public/arrowdownsline1.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg"
 					/>
 				</div>
 				<div
@@ -346,7 +346,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<a
@@ -356,7 +356,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0"
 							alt=""
-							src="./public/arrowdownsline1.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg"
 					/>
 				</div>
 				<div
@@ -365,7 +365,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<a
@@ -375,7 +375,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0"
 							alt=""
-							src="./public/arrowdownsline1.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg"
 					/>
 				</div>
 				<div
@@ -384,7 +384,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<a
@@ -394,7 +394,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/arrowdownsline.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
 					/>
 				</div>
 				<div
@@ -403,7 +403,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<a
@@ -413,7 +413,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/arrowdownsline.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
 					/>
 				</div>
 				<div
@@ -422,7 +422,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<div
@@ -433,7 +433,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/arrowdownsline.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
 					/>
 				</div>
 				<div
@@ -442,7 +442,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<div
@@ -453,7 +453,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/arrowdownsline.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
 					/>
 				</div>
 				<div
@@ -462,7 +462,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<div
@@ -473,7 +473,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/arrowdownsline.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
 					/>
 				</div>
 			</nav>
@@ -486,7 +486,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/aliensline.svg"
+							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
 					/>
 
 					<div
@@ -497,7 +497,7 @@
 					<img
 							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 							alt=""
-							src="./public/arrowdownsline.svg"
+							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
 					/>
 				</div>
 				<div
@@ -509,7 +509,7 @@
 						<img
 								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 								alt=""
-								src="./public/leadicon3.svg"
+								src="/wp-content/themes/business-setup/web/public/leadicon3.svg"
 						/>
 
 						<div
@@ -530,7 +530,7 @@
 								<img
 										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
 										alt=""
-										src="./public/leadicon1.svg"
+										src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
 								/>
 
 								<div
@@ -541,14 +541,14 @@
 								<img
 										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
 										alt=""
-										src="./public/tailicon1.svg"
+										src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
 								/>
 							</div>
 						</div>
 						<img
 								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
 								alt=""
-								src="./public/tailicon4.svg"
+								src="/wp-content/themes/business-setup/web/public/tailicon4.svg"
 						/>
 					</div>
 				</div>
@@ -559,7 +559,7 @@
 						<img
 								class="h-4 w-4 relative overflow-hidden shrink-0"
 								alt=""
-								src="./public/leadicon-1.svg"
+								src="/wp-content/themes/business-setup/web/public/leadicon-1.svg"
 						/>
 					</div>
 				</div>
@@ -584,7 +584,7 @@
 						<img
 								class="h-6 w-6 relative overflow-hidden shrink-0"
 								alt=""
-								src="./public/icon2.svg"
+								src="/wp-content/themes/business-setup/web/public/icon2.svg"
 						/>
 					</div>
 					<h1
@@ -623,7 +623,7 @@
 						<img
 								class="h-6 w-6 relative overflow-hidden shrink-0"
 								alt=""
-								src="./public/icon-16.svg"
+								src="/wp-content/themes/business-setup/web/public/icon-16.svg"
 						/>
 
 						<div
@@ -638,7 +638,7 @@
 						<img
 								class="h-6 w-6 relative overflow-hidden shrink-0"
 								alt=""
-								src="./public/icon-17.svg"
+								src="/wp-content/themes/business-setup/web/public/icon-17.svg"
 						/>
 
 						<div
@@ -653,7 +653,7 @@
 						<img
 								class="h-6 w-6 relative overflow-hidden shrink-0"
 								alt=""
-								src="./public/icon-33.svg"
+								src="/wp-content/themes/business-setup/web/public/icon-33.svg"
 						/>
 
 						<div
@@ -668,7 +668,7 @@
 						<img
 								class="h-6 w-6 relative overflow-hidden shrink-0"
 								alt=""
-								src="./public/icon-13.svg"
+								src="/wp-content/themes/business-setup/web/public/icon-13.svg"
 						/>
 
 						<div
@@ -686,7 +686,7 @@
 						class="h-[564px] flex-1 relative max-w-full overflow-hidden object-cover"
 						loading="lazy"
 						alt=""
-						src="./public/company-registration-in-dubai--mainland-vs-free-zone-vs-offshore-1@2x.png"
+						src="/wp-content/themes/business-setup/web/public/company-registration-in-dubai--mainland-vs-free-zone-vs-offshore-1@2x.png"
 				/>
 			</div>
 		</div>
@@ -696,14 +696,14 @@
 			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
 				<div class="flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full">
 					<div class="rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0.5 px-[5px]">
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon4.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
 							<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
 								Dedicated Business Setup
 							</div>
 						</div>
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</div>
 					<div class="self-stretch flex flex-col items-center justify-start gap-measurements-gap-24 text-29xl text-text-base-primary">
 						<div class="w-full relative tracking-[-1px] leading-[54px] font-medium inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
@@ -717,7 +717,7 @@
 					</div>
 					<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-background-surface-default mq450:flex-wrap">
 						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4">
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon.svg">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon.svg">
 
 							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
 								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
@@ -726,20 +726,20 @@
 							</div>
 							<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
 								<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
 									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
 										<div class="relative leading-[16px] font-medium">
 											16
 										</div>
 									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
 								</div>
 							</div>
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon2.svg">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon2.svg">
 						</div>
 						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon2.svg">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon2.svg">
 
 							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
 								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
@@ -748,17 +748,17 @@
 							</div>
 							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
 								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
 									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
 										<div class="relative leading-[16px] font-medium">
 											$9.9
 										</div>
 									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
 								</div>
 							</div>
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon3.svg">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 						</div>
 					</div>
 				</div>
@@ -851,7 +851,7 @@
 						</div>
 					</div>
 					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/applefill.svg">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
 							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
@@ -860,17 +860,17 @@
 						</div>
 						<div class="hidden flex-col items-center justify-center">
 							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
 								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
 									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
 										$9.9
 									</div>
 								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
 							</div>
 						</div>
-						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/tailicon13.svg">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon13.svg">
 					</button>
 				</div>
 			</div>

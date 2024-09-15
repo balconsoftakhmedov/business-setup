@@ -2191,6 +2191,10 @@ video {
   min-width: 285px;
 }
 
+.min-w-\[151px\] {
+  min-width: 151px;
+}
+
 .max-w-3xl {
   max-width: 48rem;
 }
@@ -4047,6 +4051,10 @@ video {
 
 .pt-\[5\.9px\] {
   padding-top: 5.9px;
+}
+
+.pb-\[58px\] {
+  padding-bottom: 58px;
 }
 
 .text-left {
@@ -7283,6 +7291,14 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
   .mq750\:pr-\[21px\] {
     padding-right: 21px;
+  }
+
+  .mq750\:pb-\[25px\] {
+    padding-bottom: 25px;
+  }
+
+  .mq750\:pt-\[25px\] {
+    padding-top: 25px;
   }
 
   .mq750\:text-29xl {

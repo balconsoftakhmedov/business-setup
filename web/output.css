@@ -1439,6 +1439,10 @@ video {
   height: 100vh;
 }
 
+.h-\[148px\] {
+  height: 148px;
+}
+
 .max-h-\[1060px\] {
   max-height: 1060px;
 }
@@ -2143,6 +2147,14 @@ video {
   min-width: 94px;
 }
 
+.min-w-\[282px\] {
+  min-width: 282px;
+}
+
+.min-w-\[82px\] {
+  min-width: 82px;
+}
+
 .max-w-3xl {
   max-width: 48rem;
 }
@@ -2622,6 +2634,10 @@ video {
   gap: 8px;
 }
 
+.gap-measurements-gap-28 {
+  gap: 28px;
+}
+
 .gap-x-5 {
   -moz-column-gap: 1.25rem;
        column-gap: 1.25rem;
@@ -2670,6 +2686,11 @@ video {
 
 .gap-y-\[28\.7px\] {
   row-gap: 28.7px;
+}
+
+.gap-x-\[20\.7px\] {
+  -moz-column-gap: 20.7px;
+       column-gap: 20.7px;
 }
 
 .space-x-4 > :not([hidden]) ~ :not([hidden]) {
@@ -4382,6 +4403,11 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-text-accent-purple-accent {
+  --tw-text-opacity: 1;
+  color: rgb(146 79 232 / var(--tw-text-opacity));
 }
 
 .placeholder-white::-moz-placeholder {
@@ -6502,6 +6528,14 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
     padding-top: 120px;
   }
 
+  .mq1050\:pb-measurements-gap-80-48 {
+    padding-bottom: 80px;
+  }
+
+  .mq1050\:pt-measurements-gap-80-48 {
+    padding-top: 80px;
+  }
+
   .mq1050\:text-10xl {
     font-size: 29px;
   }
@@ -7518,6 +7552,14 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
   .mq450\:pt-measurements-gap-120 {
     padding-top: 120px;
+  }
+
+  .mq450\:pb-measurements-gap-80-48 {
+    padding-bottom: 80px;
+  }
+
+  .mq450\:pt-measurements-gap-80-48 {
+    padding-top: 80px;
   }
 
   .mq450\:text-10xl {

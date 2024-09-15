@@ -2500,7 +2500,356 @@
 		</div>
 	</section>
 
+	<section class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
+		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
+			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
+				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+					<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
+						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium">
+								Our Services
+							</div>
+						</div>
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+					</div>
+					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
+						<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+							Register a Company in Dubai
+						</h1>
+						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
+							Simplify Your operations with Our end-to-end Suite of
+							Corporate Services.
+						</div>
+					</div>
+					<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-background-surface-default mq450:flex-wrap">
+						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon.svg">
+
+							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+									Get started
+								</div>
+							</div>
+							<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+								<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+										<div class="relative leading-[16px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon2.svg">
+						</div>
+						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon2.svg">
+
+							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+									Learn more
+								</div>
+							</div>
+							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+										<div class="relative leading-[16px] font-medium">
+											$9.9
+										</div>
+									</div>
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon3.svg">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-numbers-24 max-w-full text-left text-xl text-text-base-primary mq450:pt-measurements-gap-80-48 mq450:pb-measurements-gap-80-48 mq450:box-border mq1050:pt-measurements-gap-80-48 mq1050:pb-measurements-gap-80-48 mq1050:box-border">
+			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full">
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<input class="m-0 w-6 h-6 relative overflow-hidden shrink-0" type="checkbox">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Business Setup and&nbsp;Registration
+						</div>
+						<div class="h-32 relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block">
+							From mainland and free zone company setup to offshore company
+							registration, we provide end-to-end solutions for starting a
+							business in the UAE.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon-61.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							UAE Visas and&nbsp;Passport Services
+						</div>
+						<div class="h-32 relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block">
+							Secure your journey to the UAE with our efficient passport
+							and&nbsp;business visa services in&nbsp;Dubai.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon-71.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Bank Account Opening
+						</div>
+						<div class="h-[156px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block">
+							We make bank account opening in the Emirates with trusted
+							financial institutions incredibly easy, even for foreigners or
+							non-residents with our expert guidance.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon-8.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Trademark and&nbsp;Copyright Registration
+						</div>
+						<div class="relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
+							Protect your intellectual property when starting a business
+							in&nbsp;Dubai with our comprehensive copyright and trademark
+							registration services.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full">
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/icon-9.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Financial, Accounting, and&nbsp;Bookkeeping Services
+						</div>
+						<div class="relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
+							Streamline your financial operations with our expert
+							accounting, payroll, and&nbsp;bookkeeping services in&nbsp;Dubai. Let’s
+							get your financial foundation off the ground.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon3.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Tax Registration and&nbsp;Consultancy
+						</div>
+						<div class="h-[148px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block">
+							Ensure tax compliance with our corporate tax services in UAE,
+							including VAT, direct, excise tax registration, and
+							international tax&nbsp;calculations.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon4.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Auditing and&nbsp;Assurance Services
+						</div>
+						<div class="h-[120px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block">
+							Enhance your business credibility with our comprehensive
+							auditing services in Dubai, including statutory, customs,
+							and&nbsp;internal&nbsp;audits.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon5.svg">
+
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+							Business Support and&nbsp;Advisory Services
+						</div>
+						<div class="h-[148px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block">
+							Receive expert business support for your company, including
+							reporting, legal advice, payment solutions, license,
+							certification, and product development.
+						</div>
+						<div class="rounded-measurements-radius-xs bg-background-overlay-normal flex flex-row items-center justify-start gap-numbers-6 text-center text-base text-text-accent-purple-accent">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon13.svg">
+
+							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium inline-block min-w-[82px]">
+								Read more
+							</div>
+							<div class="self-stretch hidden flex-col items-center justify-center text-sm text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-md bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-[3px]">
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon10.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon10.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-1.svg">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section class="self-stretch flex flex-col items-start justify-start max-w-full text-center text-base text-general-white font-subtitles-16">
 
 		<div class="self-stretch bg-elements-neutral-4 flex flex-col items-center justify-start pt-[132px] px-5 pb-[100px] box-border gap-[100px] max-w-full z-[6] mt-[-110px] text-general-1-primary lg:gap-[89px] lg:pt-[132px] lg:pb-[65px] lg:box-border mq450:gap-[22px] mq650:px-[0px] mq850:gap-[45px] mq850:pb-[42px] mq850:box-border">

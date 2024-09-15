@@ -4284,7 +4284,7 @@
 		</div>
 	</section>
 
-	<section class="self-stretch flex flex-col items-center justify-start bg-[url('/wp-content/themes/business-setup/web/public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
+	<section class="self-stretch flex flex-col items-center justify-start bg-[url('./public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 			<div class="w-[1200px] flex flex-row items-center justify-start flex-wrap content-center py-0 pl-0 pr-1.5 box-border gap-x-[74px] gap-y-20 max-w-full lg:gap-[37px] mq750:gap-[18px]">
 				<div class="flex-1 flex flex-col items-start justify-start min-w-[288px] max-w-full">

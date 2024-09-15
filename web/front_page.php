@@ -2144,8 +2144,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6 max-w-full text-base">
-				<div class="h-[448px] flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
+			<div class="max-w-[1200px] w-full flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6 text-base">
+				<div class="cursor-pointer h-[448px] flex-1 hover:scale-110 transition-transform duration-300 ease-in-out rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Mainland
 					</h3>
@@ -2237,7 +2237,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -2260,7 +2260,7 @@
 						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon12.svg">
 					</button>
 				</div>
-				<div class="flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
+				<div class="cursor-pointer flex-1 hover:scale-110 transition-transform duration-300 ease-in-out rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Free Zone
 					</h3>
@@ -2352,7 +2352,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -2375,7 +2375,7 @@
 						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon12.svg">
 					</button>
 				</div>
-				<div class="flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
+				<div class="hover:scale-110 transition-transform duration-300 ease-in-out flex-1 hover:scale-110 transition-transform duration-300 ease-in-out rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Offshore
 					</h3>
@@ -2467,7 +2467,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">

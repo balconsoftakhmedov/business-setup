@@ -9,20 +9,20 @@ $custom_white_logo_id  = starter_get_option( 'logo_image_white', '' );
 $logo_image = wp_get_attachment_image_src( $custom_logo_id, 'full' );
 $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' );
 ?>
-<section class="self-stretch flex flex-col items-center justify-start bg-[url('./public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
+<section class="self-stretch flex flex-col items-center justify-start bg-[url('/wp-content/themes/business-setup/web/public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
 	<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 		<div class="w-[1200px] flex flex-row items-center justify-start flex-wrap content-center py-0 pl-0 pr-1.5 box-border gap-x-[74px] gap-y-20 max-w-full lg:gap-[37px] mq750:gap-[18px]">
 			<div class="flex-1 flex flex-col items-start justify-start min-w-[288px] max-w-full">
 				<div class="self-stretch flex flex-col items-start justify-start gap-numbers-24">
 					<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon4.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
 							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-text-accent-blue-inverted text-center">
 								Feedback Form
 							</div>
 						</div>
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</button>
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-24">
 						<h1 class="m-0 relative text-29xl tracking-[-1px] leading-[54px] font-medium font-inherit mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px]">
@@ -63,7 +63,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 										*
 									</div>
 								</div>
-								<img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+								<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
 							</div>
 							<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
 								<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
@@ -71,7 +71,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 								</div>
 							</div>
 							<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/informationline.svg">
+								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
 
 								<div class="relative tracking-[-0.1px] leading-[20px]">
 									Helper text
@@ -91,7 +91,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 										*
 									</div>
 								</div>
-								<img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+								<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
 							</div>
 							<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
 								<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
@@ -99,7 +99,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 								</div>
 							</div>
 							<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/informationline.svg">
+								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
 
 								<div class="relative tracking-[-0.1px] leading-[20px]">
 									Helper text
@@ -121,21 +121,21 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 										*
 									</div>
 								</div>
-								<img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+								<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
 							</div>
 							<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
 								<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
 									<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4">
-										<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/flag.svg">
+										<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/flag.svg">
 
 										<div class="flex flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
 											<div class="relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[30px]">
 												UAE
 											</div>
-											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/arrow-4.svg">
+											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
 										</div>
 										<div class="flex flex-row items-center justify-start gap-numbers-4 text-text-base-tertiary">
-											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon11.svg">
+											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon11.svg">
 
 											<div class="flex flex-row items-center justify-start py-0 pl-numbers-4 pr-0">
 												<div class="relative tracking-[-0.1px] leading-[20px] shrink-0">
@@ -152,19 +152,19 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 												</div>
 											</div>
 										</div>
-										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon11.svg">
+										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon11.svg">
 
 										<div class="hidden flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
 											<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
 												EUR
 											</div>
-											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/arrow-4.svg">
+											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
 										</div>
 									</div>
 								</div>
 							</div>
 							<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/informationline.svg">
+								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
 
 								<div class="relative tracking-[-0.1px] leading-[20px]">
 									Helper text
@@ -184,21 +184,21 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 										*
 									</div>
 								</div>
-								<img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+								<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
 							</div>
 							<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
 								<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
 									<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4">
-										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/flag1.svg">
+										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/flag1.svg">
 
 										<div class="hidden flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
 											<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
 												UK
 											</div>
-											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/arrow-4.svg">
+											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
 										</div>
 										<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4">
-											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon11.svg">
+											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon11.svg">
 
 											<div class="flex-1 flex flex-row items-center justify-start py-0 px-1">
 												<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-w-[88px]">
@@ -215,19 +215,19 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 												</div>
 											</div>
 										</div>
-										<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon-2.svg">
+										<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon-2.svg">
 
 										<div class="hidden flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
 											<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
 												EUR
 											</div>
-											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/arrow-4.svg">
+											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
 										</div>
 									</div>
 								</div>
 							</div>
 							<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/informationline.svg">
+								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
 
 								<div class="relative tracking-[-0.1px] leading-[20px]">
 									Helper text
@@ -248,21 +248,21 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 									*
 								</div>
 							</div>
-							<img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+							<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
 						</div>
 						<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start max-w-full">
 							<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border overflow-hidden flex flex-row items-center justify-start py-2 px-[11px] max-w-full">
 								<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4 max-w-full">
-									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/flag1.svg">
+									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/flag1.svg">
 
 									<div class="hidden flex-row items-center justify-start py-0 px-1 gap-numbers-2">
 										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
 											UK
 										</div>
-										<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/arrow-4.svg">
+										<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
 									</div>
 									<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4 max-w-full text-text-base-tertiary">
-										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon11.svg">
+										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon11.svg">
 
 										<div class="flex-1 flex flex-row items-center justify-start py-0 px-1 box-border max-w-full">
 											<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-h-[60px]">
@@ -280,19 +280,19 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 											</div>
 										</div>
 									</div>
-									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon-2.svg">
+									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon-2.svg">
 
 									<div class="hidden flex-row items-center justify-start py-0 px-1 gap-numbers-2">
 										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
 											EUR
 										</div>
-										<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/arrow-4.svg">
+										<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="w-[400px] hidden flex-row items-center justify-start py-numbers-2 px-0 box-border gap-numbers-4 max-w-full text-text-base-tertiary">
-							<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="./public/informationline.svg">
+							<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
 
 							<div class="relative tracking-[-0.1px] leading-[20px]">
 								Helper text
@@ -301,10 +301,10 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 					</div>
 				</div>
 				<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border">
-					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/line-4.svg">
+					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
 				</div>
 				<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
-					<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon12.svg">
+					<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon12.svg">
 
 					<div class="flex flex-row items-center justify-center py-0 px-[3px]">
 						<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center">
@@ -313,17 +313,17 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 					</div>
 					<div class="hidden flex-col items-center justify-center">
 						<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-							<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+							<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
 							<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
 								<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
 									16
 								</div>
 							</div>
-							<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+							<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
 						</div>
 					</div>
-					<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon12.svg">
+					<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon12.svg">
 				</button>
 			</div>
 		</div>

@@ -746,51 +746,46 @@
 						</div>
 					</button>
 
-					<div class="tab-button  cursor-pointer  self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
-						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
-								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Schedule a No-Pressure Consultation</li>
-								</ol>
-							</h3>
-						</div>
-					</div>
-					<div class="tab-button  cursor-pointer self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
-						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Choose the Perfect Jurisdiction</li>
 								</ol>
-							</h3>
+							</div>
 						</div>
-					</div>
-					<div class="tab-button  cursor-pointer self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
-						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					</button>
+
+					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Secure Your Trade License</li>
 								</ol>
-							</h3>
+							</div>
 						</div>
-					</div>
-					<div class="tab-button cursor-pointer  self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
-						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					</button>
+
+					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Obtain Essential Visas and Emirates IDs</li>
 								</ol>
-							</h3>
+							</div>
 						</div>
-					</div>
-					<div class="tab-button  cursor-pointer self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
-						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					</button>
+
+					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Open Your Corporate Bank Account</li>
 								</ol>
-							</h3>
+							</div>
 						</div>
-					</div>
+					</button>
+
 				</div>
 				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
 					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">

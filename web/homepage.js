@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
 			tabContents[index].classList.remove("hidden");
 
 			// Add active classes to the selected button
-			tabButtons[index].classList.add("bg-elements-neutral-4", "border-l-[4px]", "border-solid", "border-general-1-primary");
+			tabButtons[index].classList.add("bg-elements-neutral-4");
 		}
 
 		// Add event listeners to all tab buttons

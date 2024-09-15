@@ -568,7 +568,6 @@
 	</section>
 
 
-
 </div>
 <div class="w-full">
 
@@ -734,112 +733,29 @@
 	</section>
 
 	<section class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-left text-sm text-text-base-secondary font-body-s-bold">
-		<div class="self-stretch hidden flex-col items-start justify-start max-w-full text-center text-text-accent-blue-inverted">
-			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
-				<div class="flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full">
-					<div class="rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0.5 px-[5px]">
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon4.svg">
-
-						<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
-							<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-								Dedicated Business Setup
-							</div>
-						</div>
-						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
-					</div>
-					<div class="self-stretch flex flex-col items-center justify-start gap-measurements-gap-24 text-29xl text-text-base-primary">
-						<div class="w-full relative tracking-[-1px] leading-[54px] font-medium inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
-							Consultants at Your Service
-						</div>
-						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
-							We take a white-glove approach to our business setup services
-							in Dubai. We know every client has different needs, and we’re
-							here to meet you exactly where you are.
-						</div>
-					</div>
-					<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-background-surface-default mq450:flex-wrap">
-						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4">
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon.svg">
-
-							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
-								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-									Get started
-								</div>
-							</div>
-							<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											16
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon2.svg">
-						</div>
-						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon2.svg">
-
-							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
-								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-									Learn more
-								</div>
-							</div>
-							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="self-stretch hidden flex-row items-start justify-start flex-wrap content-start pt-measurements-gap-40 px-measurements-gap-120 pb-0 gap-6 text-base">
-			<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[288px]">
-				We take a white-glove approach to&nbsp;our business setup services in
-				Dubai. We&nbsp;know every client has different needs, and we’re here to
-				meet you exactly where you are.
-			</div>
-			<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[288px]">
-				Our consultants have over a decade of&nbsp;experience, so we've seen it
-				all—the&nbsp;challenges, the&nbsp;opportunities, and&nbsp;the&nbsp;low-hanging fruits
-				that can put you ahead of&nbsp;your competition.
-			</div>
-			<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[288px]">
-				So, how do we help you succeed? Good question. We have many proven
-				tricks up our sleeve.&nbsp; But let’s just try to&nbsp;consolidate our
-				processes into five simple&nbsp;steps.
-			</div>
-		</div>
 		<div class="self-stretch overflow-hidden flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-5xl mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 			<div class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[50px] gap-y-14 max-w-full mq750:gap-[25px]">
 				<div class="flex-1 flex flex-col items-start justify-start min-w-[224px] max-w-full">
-					<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+					<button class="tab-button cursor-pointer border-border-base-alpha border-[1px] border-solid py-[30px] px-[31px] bg-background-surface-default self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Schedule a No-Pressure Consultation</li>
 								</ol>
 							</div>
-							<div class="relative text-base tracking-[-0.2px] leading-[24px] font-body-s-bold text-text-base-secondary text-left hidden max-w-full">
-								Design better and spend less time without restricting
-								creative freedom.
-							</div>
 						</div>
 					</button>
-					<div class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
+
+					<div class="tab-button  cursor-pointer  self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
+							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+								<ol class="m-0 font-inherit text-inherit pl-8">
+									<li>Schedule a No-Pressure Consultation</li>
+								</ol>
+							</h3>
+						</div>
+					</div>
+					<div class="tab-button  cursor-pointer self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
 							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -848,7 +764,7 @@
 							</h3>
 						</div>
 					</div>
-					<div class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
+					<div class="tab-button  cursor-pointer self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
 							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -857,7 +773,7 @@
 							</h3>
 						</div>
 					</div>
-					<div class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
+					<div class="tab-button cursor-pointer  self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
 							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -866,7 +782,7 @@
 							</h3>
 						</div>
 					</div>
-					<div class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
+					<div class="tab-button  cursor-pointer self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start max-w-full">
 							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
@@ -876,7 +792,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
 					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
 						1.
 					</div>
@@ -915,204 +831,157 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon13.svg">
 					</button>
 				</div>
-			</div>
-		</div>
-	</section>
-
-
-
-
-	<section class="self-stretch flex flex-row items-start justify-center pt-0  pb-[180px] box-border max-w-full text-left text-base text-general-1-primary font-subtitles-16  lg:box-border mq850:box-border">
-		<div class="w-[1170px] flex flex-col items-start justify-start gap-[60px] max-w-full lg:gap-[30px] lg:mx-[0px] lg:ml-[0px] px-[20px] mq650:px-[0px]">
-			<div class="self-stretch flex flex-col items-start justify-center py-0  box-border max-w-full text-center mq650:px-[20px]">
-				<div class="h-[120px] relative block "></div>
-				<div class="w-full flex flex-col items-center justify-start pt-[22px] px-0 pb-[5px] box-border gap-[21px] max-w-full">
-
-
-				</div>
-			</div>
-
-
-			<div class="self-stretch flex flex-row items-start justify-center gap-[60px] max-w-full text-lg text-general-1-secondary-variant font-button-dm-sans-16 lg:gap-[30px] lg:flex-wrap ">
-				<div class="max-w-[440px] flex flex-col items-start justify-start gap-[10px] min-w-[440px] w-full lg:flex-1 mq450:gap-[30px] mq850:min-w-full mq650:px-[20px]">
-					<div class="self-stretch flex flex-col items-start justify-start gap-[30px] max-w-full">
-						<button class="tab-button cursor-pointer py-[28px] mq650:pl-[1px] mq650:whitespace-normal px-7 self-stretch box-border flex flex-row items-start justify-start whitespace-nowrap max-w-full bg-elements-neutral-4 border-l-[4px] border-solid border-general-1-primary">
-							<b class="flex-1 relative text-lg leading-[24px] inline-block font-button-dm-sans-16 text-general-1-secondary-variant text-left max-w-full">
-								<ol class="m-0 font-inherit text-inherit pl-6">
-									<li>Schedule a No-Pressure Consultation</li>
-								</ol>
-							</b>
-						</button>
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						2.
 					</div>
-					<div class="self-stretch flex flex-col items-start justify-start gap-[30px] max-w-full">
-						<button class="tab-button cursor-pointer py-[28px] mq650:pl-[1px] mq650:whitespace-normal px-7 self-stretch box-border flex flex-row items-start justify-start whitespace-nowrap max-w-full">
-							<b class="flex-1 relative text-lg leading-[24px] inline-block font-button-dm-sans-16 text-general-1-secondary-variant text-left max-w-full">
-								<ol class="m-0 font-inherit text-inherit pl-6">
-									<li>Choose the Perfect Jurisdiction</li>
-								</ol>
-							</b>
-						</button>
-					</div>
-					<div class="self-stretch flex flex-col items-start justify-start gap-[30px] max-w-full">
-						<button class="tab-button cursor-pointer py-[28px] mq650:pl-[1px] mq650:whitespace-normal px-7 self-stretch box-border flex flex-row items-start justify-start whitespace-nowrap max-w-full">
-							<b class="flex-1 relative text-lg leading-[24px] inline-block font-button-dm-sans-16 text-general-1-secondary-variant text-left max-w-full">
-								<ol class="m-0 font-inherit text-inherit pl-6">
-									<li>Secure Your Trade License</li>
-								</ol>
-							</b>
-						</button>
-					</div>
-					<div class="self-stretch flex flex-col items-start justify-start gap-[30px] max-w-full">
-						<button class="tab-button cursor-pointer py-[28px] mq650:pl-[1px] mq650:whitespace-normal px-7 self-stretch box-border flex flex-row items-start justify-start whitespace-nowrap max-w-full">
-							<b class="flex-1 relative text-lg leading-[24px] inline-block font-button-dm-sans-16 text-general-1-secondary-variant text-left max-w-full">
-								<ol class="m-0 font-inherit text-inherit pl-6">
-									<li>Obtain Essential Visas and Emirates IDs</li>
-								</ol>
-							</b>
-						</button>
-					</div>
-
-					<div class="self-stretch flex flex-col items-start justify-start gap-[30px] max-w-full">
-						<button class="tab-button cursor-pointer py-[28px] mq650:pl-[1px] mq650:whitespace-normal px-7 self-stretch box-border flex flex-row items-start justify-start whitespace-nowrap max-w-full">
-							<b class="flex-1 relative text-lg leading-[24px] inline-block font-button-dm-sans-16 text-general-1-secondary-variant text-left max-w-full">
-								<ol class="m-0 font-inherit text-inherit pl-6">
-									<li>Open Your Corporate Bank Account</li>
-								</ol>
-							</b>
-						</button>
-					</div>
-				</div>
-				<div class="tab-content flex-1 bg-elements-neutral-4 flex flex-col items-start justify-start p-[60px] box-border gap-[31px] min-w-[435px] max-w-full text-center text-[78px] text-general-1-primary mq450:pt-[39px] mq450:pb-[39px] mq450:box-border mq650:px-[20px] mq850:gap-[15px] mq850:pl-[30px] mq850:pr-[30px] mq850:box-border mq850:min-w-full">
-					<div class="self-stretch flex flex-row items-start justify-start gap-6 max-w-full mq850:flex-wrap mq650:flex-nowrap">
-						<b class="w-[84px] relative tracking-[-0.01em] leading-[84px] inline-block shrink-0 mq450:text-[47px] mq450:leading-[50px] mq850:text-[62px] mq850:leading-[67px] mq650:w-[30px]">1</b>
-						<div class="flex-1 flex flex-col items-start justify-start pt-1.5 px-0 pb-0 box-border min-w-[287px] max-w-full text-left text-11xl text-general-1-secondary">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.01em] leading-[36px] font-bold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-								Schedule a No-Pressure Consultation
-							</h3>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Choose the Perfect Jurisdiction
+						</h3>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Dubai offers a few different business setup options—Mainland, Free Zone, or Offshore. Deciding which one to go with can be a bit tricky, but no need to stress. We’ll take a close look at your company’s activities and preferences to help you pick the perfect fit for your needs.
 						</div>
 					</div>
-					<div class="self-stretch relative text-base leading-[26px] font-body-b3-merriweather-14 text-general-9-secondary-variant text-left">
-						Let’s kick things off with a 20-minute free friendly chat to get
-						a clear understanding of your business goals (no strings
-						attached). Our business setup consultants will guide you through
-						the company formation process and answer any questions you have.
-					</div>
-					<button class="cursor-pointer border-general-1-primary border-[2px] border-solid py-[18px]
-							px-[38px] bg-[transparent] overflow-hidden flex flex-row items-start
-							hover:bg-custom-gold justify-start hover:text-general-white text-general-1-primary ">
-						<div onclick="openModal()" class="relative text-base tracking-[0.4em] leading-[18px] uppercase font-medium
-								font-subtitles-16 text-center
-								 hover:text-general-white
-								 whitespace-nowrap">
-							Start now
-						</div>
-					</button>
-				</div>
-				<div class="tab-content flex-1 bg-elements-neutral-4 flex flex-col items-start justify-start p-[60px] box-border gap-[31px] min-w-[435px] max-w-full text-center text-[78px] text-general-1-primary mq450:pt-[39px] mq450:pb-[39px] mq450:box-border mq650:px-[20px] mq850:gap-[15px] mq850:pl-[30px] mq850:pr-[30px] mq850:box-border mq850:min-w-full hidden">
-					<div class="self-stretch flex flex-row items-start justify-start gap-6 max-w-full mq850:flex-wrap mq650:flex-nowrap">
-						<b class="w-[84px] relative tracking-[-0.01em] leading-[84px] inline-block shrink-0 mq450:text-[47px] mq450:leading-[50px] mq850:text-[62px] mq850:leading-[67px] mq650:px-[20px]  mq650:w-[30px]">2</b>
-						<div class="flex-1 flex flex-col items-start justify-start pt-1.5 px-0 pb-0 box-border min-w-[287px] max-w-full text-left text-11xl text-general-1-secondary">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.01em] leading-[36px] font-bold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-								Choose the Perfect Jurisdiction
+					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
-							</h3>
+						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+								Start now
+							</div>
 						</div>
-					</div>
-					<div class="self-stretch relative text-base leading-[26px] font-body-b3-merriweather-14 text-general-9-secondary-variant text-left">
-						Dubai offers a few different business setup options—Mainland, Free Zone, or Offshore. Deciding which one to go with can be a bit tricky, but no need to stress. We’ll take a close look at your company’s activities
-						and preferences to help you pick the perfect fit for your needs.
-					</div>
-					<button onclick="openModal()" class="cursor-pointer border-general-1-primary border-[2px] border-solid py-[18px]
-							px-[38px] bg-[transparent] overflow-hidden flex flex-row items-start
-							hover:bg-custom-gold justify-start hover:text-general-white text-general-1-primary ">
-						<div class="relative text-base tracking-[0.4em] leading-[18px] uppercase font-medium
-								font-subtitles-16 text-center
-								 hover:text-general-white
-								 whitespace-nowrap">
-							Start now
+						<div class="hidden flex-col items-center justify-center">
+							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
+
+								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
+										$9.9
+									</div>
+								</div>
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
+							</div>
 						</div>
-					</button>
-				</div>
-				<div class="tab-content flex-1 bg-elements-neutral-4 flex flex-col items-start justify-start p-[60px] box-border gap-[31px] min-w-[435px] max-w-full text-center text-[78px] text-general-1-primary mq450:pt-[39px] mq450:pb-[39px] mq450:box-border mq650:px-[20px] mq850:gap-[15px] mq850:pl-[30px] mq850:pr-[30px] mq850:box-border mq850:min-w-full hidden">
-					<div class="self-stretch flex flex-row items-start justify-start gap-6 max-w-full mq850:flex-wrap mq650:flex-nowrap">
-						<b class="w-[84px] relative tracking-[-0.01em] leading-[84px] inline-block shrink-0 mq450:text-[47px] mq450:leading-[50px] mq850:text-[62px] mq850:leading-[67px]  mq650:w-[30px]">3</b>
-						<div class="flex-1 flex flex-col items-start justify-start pt-1.5 px-0 pb-0 box-border min-w-[287px] max-w-full text-left text-11xl text-general-1-secondary">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.01em] leading-[36px] font-bold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-								Secure Your Trade License
-							</h3>
-						</div>
-					</div>
-					<div class="self-stretch relative text-base leading-[26px] font-body-b3-merriweather-14 text-general-9-secondary-variant text-left">
-						Getting a trade license in Dubai usually only takes a few days, but to avoid any hiccups, it’s best to leave it to us. We’ll handle the paperwork, and select the right trade license for you, and soon your company
-						will be legally ready to operate. .
-					</div>
-					<button onclick="openModal()" class="cursor-pointer border-general-1-primary border-[2px] border-solid py-[18px]
-							px-[38px] bg-[transparent] overflow-hidden flex flex-row items-start
-							hover:bg-custom-gold justify-start hover:text-general-white text-general-1-primary ">
-						<div class="relative text-base tracking-[0.4em] leading-[18px] uppercase font-medium
-								font-subtitles-16 text-center
-								 hover:text-general-white
-								 whitespace-nowrap">
-							Start now
-						</div>
+						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon13.svg">
 					</button>
 				</div>
 
-				<div class="tab-content flex-1 bg-elements-neutral-4 flex flex-col items-start justify-start p-[60px] box-border gap-[31px] min-w-[435px] max-w-full text-center text-[78px] text-general-1-primary mq450:pt-[39px] mq450:pb-[39px] mq450:box-border mq650:px-[20px] mq850:gap-[15px] mq850:pl-[30px] mq850:pr-[30px] mq850:box-border mq850:min-w-full hidden">
-					<div class="self-stretch flex flex-row items-start justify-start gap-6 max-w-full mq850:flex-wrap mq650:flex-nowrap">
-						<b class="w-[84px] relative tracking-[-0.01em] leading-[84px] inline-block shrink-0 mq450:text-[47px] mq450:leading-[50px] mq850:text-[62px] mq850:leading-[67px]  mq650:w-[30px]">4</b>
-						<div class="flex-1 flex flex-col items-start justify-start pt-1.5 px-0 pb-0 box-border min-w-[287px] max-w-full text-left text-11xl text-general-1-secondary">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.01em] leading-[36px] font-bold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-								Obtain Essential Visas and Emirates IDs
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						3.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Secure Your Trade License
+						</h3>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Getting a trade license in Dubai usually only takes a few days, but to avoid any hiccups, it’s best to leave it to us. We’ll handle the paperwork, and select the right trade license for you, and soon your company will be legally ready to operate.
+						</div>
+					</div>
+					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
-							</h3>
+						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+								Start now
+							</div>
 						</div>
-					</div>
-					<div class="self-stretch relative text-base leading-[26px] font-body-b3-merriweather-14 text-general-9-secondary-variant text-left">
-						We’ll handle the business visa Dubai and Emirates ID application process for you and your team, so you can stay focused on your business. Need a license or UAE visa extension down the line? We can take care of
-						that in no time too.
-					</div>
-					<button onclick="openModal()" class="cursor-pointer border-general-1-primary border-[2px] border-solid py-[18px]
-							px-[38px] bg-[transparent] overflow-hidden flex flex-row items-start
-							hover:bg-custom-gold justify-start hover:text-general-white text-general-1-primary ">
-						<div class="relative text-base tracking-[0.4em] leading-[18px] uppercase font-medium
-								font-subtitles-16 text-center
-								 hover:text-general-white
-								 whitespace-nowrap">
-							Start now
+						<div class="hidden flex-col items-center justify-center">
+							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
+
+								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
+										$9.9
+									</div>
+								</div>
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
+							</div>
 						</div>
+						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon13.svg">
 					</button>
 				</div>
 
-				<div class="tab-content flex-1 bg-elements-neutral-4 flex flex-col items-start justify-start p-[60px] box-border gap-[31px] min-w-[435px] max-w-full text-center text-[78px] text-general-1-primary mq450:pt-[39px] mq450:pb-[39px] mq450:box-border mq650:px-[20px] mq850:gap-[15px] mq850:pl-[30px] mq850:pr-[30px] mq850:box-border mq850:min-w-full hidden">
-					<div class="self-stretch flex flex-row items-start justify-start gap-6 max-w-full mq850:flex-wrap mq650:flex-nowrap">
-						<b class="w-[84px] relative tracking-[-0.01em] leading-[84px] inline-block shrink-0 mq450:text-[47px] mq450:leading-[50px] mq850:text-[62px] mq850:leading-[67px]  mq650:w-[30px]">5</b>
-						<div class="flex-1 flex flex-col items-start justify-start pt-1.5 px-0 pb-0 box-border min-w-[287px] max-w-full text-left text-11xl text-general-1-secondary">
-							<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.01em] leading-[36px] font-bold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-								Open Your Corporate Bank Account
-							</h3>
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						4.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Obtain Essential Visas and Emirates IDs
+						</h3>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							We’ll handle the business visa Dubai and Emirates ID application process for you and your team, so you can stay focused on your business. Need a license or UAE visa extension down the line? We can take care of that in no time too.
 						</div>
 					</div>
-					<div class="self-stretch relative text-base leading-[26px] font-body-b3-merriweather-14 text-general-9-secondary-variant text-left">
-						With Business Setup by your side, accessing the Dubai financial market becomes very effortless. With more than 10 bank partners, we’ll assist you with business bank account opening in UAE—and manage the trickier
-						aspects like providing guarantees and controlling payments in the Emirates.
-					</div>
-					<button onclick="openModal()" class="cursor-pointer border-general-1-primary border-[2px] border-solid py-[18px]
-							px-[38px] bg-[transparent] overflow-hidden flex flex-row items-start
-							hover:bg-custom-gold justify-start hover:text-general-white text-general-1-primary ">
-						<div class="relative text-base tracking-[0.4em] leading-[18px] uppercase font-medium
-								font-subtitles-16 text-center
-								 hover:text-general-white
-								 whitespace-nowrap">
-							Start now
+					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
+
+						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+								Start now
+							</div>
 						</div>
+						<div class="hidden flex-col items-center justify-center">
+							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
+
+								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
+										$9.9
+									</div>
+								</div>
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
+							</div>
+						</div>
+						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon13.svg">
 					</button>
 				</div>
+
+
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						5.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Open Your Corporate Bank Account
+						</h3>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							With Vision Prime by your side, accessing the Dubai financial market becomes very effortless. With more than 10 bank partners, we’ll assist you with business bank account opening in UAE—and manage the trickier aspects like providing guarantees and controlling payments in the Emirates.
+								</div>
+					</div>
+					<button class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
+
+						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+								Start now
+							</div>
+						</div>
+						<div class="hidden flex-col items-center justify-center">
+							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
+
+								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
+										$9.9
+									</div>
+								</div>
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
+							</div>
+						</div>
+						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon13.svg">
+					</button>
+				</div>
+
 
 
 			</div>
 		</div>
 	</section>
+
 
 
 	<section class="self-stretch flex flex-col items-start justify-start max-w-full text-center text-base text-general-white font-subtitles-16">

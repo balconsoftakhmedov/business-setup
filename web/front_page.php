@@ -3151,23 +3151,76 @@
 			</div>
 		</div>
 	</section>
-	<section class="self-stretch bg-elements-neutral-4 flex flex-col items-center justify-start pt-[22px] px-5 pb-[171px] box-border gap-[68px] max-w-full z-[3] text-center text-base text-general-1-primary font-subtitles-16  lg:pt-5 lg:pb-[111px] ">
-		<div class="w-[1920px] h-[870px] relative bg-elements-neutral-4 hidden max-w-full"></div>
-		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">
-			<div class="w-full flex flex-col items-center justify-start gap-[21px] max-w-full">
-				<div class="flex flex-row items-center justify-start relative w-full top-[58px] ">
-					<div class="h-[120px]"></div>
-				</div>
-				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 mt-[100px] ">
-					<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium inline-block min-w-[126px] z-[2]">
-						Our Team
-					</div>
-				</div>
-				<div class="flex flex-row items-start justify-start relative text-41xl text-general-8-secondary font-heading-1-72">
+	<section class="self-stretch bg-elements-neutral-4 flex flex-col
+	 items-center justify-start pt-[22px] px-5 pb-[171px] box-border
+	  gap-[68px] max-w-full z-[3] text-center text-base
+	  font-subtitles-16  lg:pt-5 lg:pb-[111px] ">
 
-					<h2 class="m-0 w-full relative text-inherit leading-[66px] font-normal font-inherit inline-block z-[2] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
+		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">
+			<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+				<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
+					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
+
+					<div class="flex flex-row items-center justify-center py-0 px-[3px]">
+						<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-text-accent-blue-inverted text-center inline-block min-w-[66px]">
+							Our Team
+						</div>
+					</div>
+					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+				</button>
+				<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
+					<h2 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 						Meet the Experts
 					</h2>
+					<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
+						We are the Top Business Setup Consultants in the UAE.
+					</div>
+				</div>
+				<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-sm text-background-surface-default mq450:flex-wrap">
+					<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4">
+						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon.svg">
+
+						<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+							<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+								Get started
+							</div>
+						</div>
+						<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+									<div class="relative leading-[16px] font-medium">
+										16
+									</div>
+								</div>
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+							</div>
+						</div>
+						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon2.svg">
+					</div>
+					<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
+						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon2.svg">
+
+						<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+							<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+								Learn more
+							</div>
+						</div>
+						<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+							<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+									<div class="relative leading-[16px] font-medium">
+										$9.9
+									</div>
+								</div>
+								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+							</div>
+						</div>
+						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon3.svg">
+					</div>
 				</div>
 			</div>
 		</div>

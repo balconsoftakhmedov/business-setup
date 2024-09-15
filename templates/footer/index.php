@@ -329,57 +329,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 		</div>
 	</div>
 </section>
-<section
-		class="flex flex-row items-start justify-start py-0 pl-0
-			gap-20 w-full text-center text-base text-general-1-primary font-subtitles-16
-			mq450:gap-5 mq850:gap-10 mq1500:flex-wrap"
->
-	<div class="ml-[5%] lg:ml-[0px] w-full bg-cover bg-no-repeat flex flex-row self-stretch items-center justify-center bg-[url('/wp-content/themes/business-setup/web/public/form-builder-background@2x.png')]">
-		<div class="w-full max-w-[1170px] flex-row flex mr-[5%] justify-between lg:mr-[0px] lg:ml-[20px] mq850:flex-col mq850:gap-[30px] mq850:justify-center mq850:items-center mq650:ml-[0px]">
-			<div
-					class="max-w-[650px] w-full flex flex-col items-start justify-start  w-full mq650:px-[20px] "
-			>
-				<div class="h-[120px] border-general-1-primary border-solid  border-l-[1px]"></div>
-				<div
-						class="max-w-full h-[200px] flex flex-col items-start justify-start relative gap-[21px] w-full z-[1]"
-				>
 
-					<div
-							class="max-w-full !m-[0] absolute top-[22px] left-[0px] flex flex-col items-start justify-start gap-[21px] w-full"
-					>
-						<div
-								class="relative tracking-[0.4em] leading-[36px] uppercase font-medium"
-						>
-							Feedback Form
-						</div>
-						<h2
-								class="m-0 self-stretch relative text-35xl text-left  leading-[60px] font-normal font-heading-1-72 text-general-white mq450:text-13xl mq450:leading-[36px] mq850:text-24xl mq850:leading-[48px]"
-						>
-							Let’s Discuss Your Project
-						</h2>
-					</div>
-				</div>
-				<div
-						class="self-stretch relative leading-[30px] font-paragraph-16 text-general-white text-left z-[1]"
-				>
-					By contacting us you can make a direct appointment with our agents
-					in London or arrange your visit to our “Sales Office” and “Meeting
-					Room” in the Emirate of Dubai. Our investors always have access to
-					the support and assistance service for in-depth information
-					on the investments and the conditions we can offer. It is also
-					possible to book guided visits to construction sites or to buildings
-					that have already been completed.
-				</div>
-			</div>
-			<div
-					class="max-w-[440px] w-full flex flex-row items-start justify-start relative  text-left text-gray-200 font-paragraph-16 mq650:justify-center"
-			>
-				<?php echo do_shortcode( '[contact-form-7 id="b2b5601" title="Untitled"]' ); ?>
-
-			</div>
-		</div>
-	</div>
-</section>
 <footer
 		class="self-stretch  flex flex-col items-center justify-start pt-20 px-0 pb-0
 		box-border relative gap-[58px] max-w-full text-left text-base text-text-accent-purple-accent font-body-s-bold

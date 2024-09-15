@@ -3894,7 +3894,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button  onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -4013,7 +4013,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button  onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -4041,7 +4041,6 @@
 	</section>
 
 
-
 	<section class="self-stretch bg-elements-neutral-4 flex
 			flex-col items-center justify-start
 			pt-0 px-5 pb-[100px] box-border gap-20
@@ -4053,19 +4052,25 @@
 		</div>
 		<div class="w-[1920px] h-[1778px] relative bg-elements-neutral-4 hidden max-w-full"></div>
 		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">
-			<div class="w-full flex flex-row items-start justify-start max-w-full z-[1]">
 
-				<div class="flex-1 flex flex-col items-center justify-start pt-[22px] px-0  box-border gap-[21px] max-w-full">
-					<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
-						<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[1]">
-							Got a Questions?
+			<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+				<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
+					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
+
+					<div class="flex flex-row items-center justify-center py-0 px-[3px]">
+						<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-text-accent-blue-inverted text-center inline-block min-w-[66px]">
+							Have a question?
 						</div>
 					</div>
-					<div class="flex flex-row items-center justify-start relative text-41xl text-general-8-secondary font-heading-1-72">
-						<h2 class="m-0 w-full relative text-inherit leading-[66px] font-normal font-inherit inline-block z-[1] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
-							Frequently Asked Questions
-						</h2>
-					</div>
+					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+				</button>
+				<div class="">
+					<h2 class="m-0 w-full  text-center text-29xl text-text-base-primary font-body-s-bold
+					relative tracking-[-1px] leading-[54px] font-medium  inline-block
+					max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+						Frequently asked questions
+					</h2>
+
 				</div>
 			</div>
 		</div>

@@ -251,6 +251,9 @@ module.exports = {
 			mq350: {
 				raw: "screen and (max-width: 350px)",
 			},
+			md:{
+				raw: "screen and (max-width: 950px)",
+			},
 			minq950: {
 				raw: "screen and (min-width: 950px)",
 			},

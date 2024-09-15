@@ -3,7 +3,8 @@
 <?php include_once( 'header.php' );
 ?>
 <body>
-<div class="w-full relative flex flex-col items-start justify-start leading-[normal] tracking-[normal]">
+<div class="w-full">
+
 	<section
 			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('./public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
 	>
@@ -567,103 +568,6 @@
 		</header>
 	</section>
 
-
-</div>
-<div class="w-full">
-
-
-	<section class="self-stretch flex flex-col items-center justify-between pt-0 px-0 box-border max-w-full text-left text-base text-general-white font-heading-1-72 lg:pb-[71px] lg:box-border mq850:pb-[46px] mq850:box-border">
-		<div class="w-full flex flex-row items-start justify-start relative max-w-full">
-
-			<div class="flex-1 flex flex-col items-center justify-start pt-0 pb-[110px] box-border gap-10
-				bg-[url('/wp-content/themes/business-setup/web/public/title2@3x.png')] bg-cover bg-no-repeat
-				bg-[top] max-w-full z-[3] lg:pl-[20px] lg:pr-[20px] lg:pb-[71px] lg:box-border
-				mq650:pl-5 mq650:pr-5 mq650:pb-[46px]
-				 mq850:gap-10 mq850:box-border">
-				<div class="w-full max-w-[1170px]  gap-6 flex flex-col items-center lg:ml-[0px]">
-
-
-					<div class="w-full flex flex-row mb-[10px] mt-[0px]">
-						<div class="w-[50%] h-[120px]"></div>
-						<div class="w-[50%] "></div>
-					</div>
-					<div class="w-[1140px] flex flex-row items-start justify-center max-w-full text-center text-general-1-primary font-subtitles-16">
-						<div class="relative tracking-[0.4em] leading-[18px] uppercase font-medium">
-							Experience
-						</div>
-					</div>
-					<h1 class="m-0 animate-fadeInOut w-[1140px] relative text-53xl leading-[80px] font-normal font-inherit text-center inline-block max-w-full mq450:text-24xl mq450:leading-[50px] mq850:text-39xl mq850:leading-[64px]">
-						Effortless Business Setup in Dubai and the UAE
-					</h1>
-
-
-					<div class="w-[1140px] flex flex-row items-start justify-center max-w-full text-5xl font-button-dm-sans-16">
-						<div class="m-0 relative text-inherit tracking-[-0.01em] leading-[36px] font-bold font-inherit mq450:text-lgi mq450:leading-[28px]">
-							Focus on running your business in Dubai, and let us handle the heavy lifting.
-						</div>
-					</div>
-					<div class="flex flex-row items-start justify-center gap-[30px] max-w-full text-5xl mq1500:flex-wrap mq650:flex-col mq950:flex-col">
-						<div class="overflow-hidden flex flex-row items-start justify-center gap-[15px] mq370:gap-[1px] max-w-full mq850:flex-wrap">
-							<img decoding="async" class="h-12 w-12 relative object-cover" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blackboldcontent-edit@2x.png">
-
-							<div class="flex flex-col items-start justify-start pt-[9px] px-0 pb-0">
-								<div class="m-0 relative text-inherit leading-[30px] font-normal font-inherit mq450:text-lgi mq450:leading-[24px] ">
-									Company registration
-								</div>
-							</div>
-							<div class="flex flex-col items-start justify-start pt-3 px-0 pb-0">
-								<img decoding="async" class="w-6 h-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconschevronright.svg">
-							</div>
-						</div>
-						<div class="overflow-hidden flex flex-row items-start justify-center gap-[15px] mq370:gap-[1px] max-w-full mq850:flex-wrap">
-							<img decoding="async" class="h-12 w-12 relative object-cover" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blackboldwallet@2x.png">
-							<div class="flex flex-col items-start justify-start pt-[9px] px-0 pb-0">
-								<div class="m-0 relative text-inherit leading-[30px] font-normal font-inherit mq450:text-lgi mq450:leading-[24px]">
-									Accounting outsourcing
-								</div>
-							</div>
-							<div class="flex flex-col items-start justify-start pt-3 px-0 pb-0">
-								<img decoding="async" class="w-6 h-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconschevronright.svg">
-							</div>
-						</div>
-						<div class="overflow-hidden flex flex-row items-start justify-center gap-[15px] mq370:gap-[1px] max-w-full mq850:flex-wrap">
-							<img decoding="async" class="h-12 w-12 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blackboldbank.svg">
-							<div class="flex flex-col items-start justify-start pt-[9px] px-0 pb-0">
-								<div class="m-0 relative text-inherit leading-[30px] font-normal font-inherit mq450:text-lgi mq450:leading-[24px]">
-									Bank account opening
-								</div>
-							</div>
-							<div class="flex flex-col items-start justify-start pt-3 px-0 pb-0">
-								<img decoding="async" class="w-6 h-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconschevronright.svg">
-							</div>
-						</div>
-					</div>
-					<div class="w-[1139.5px] flex flex-row items-start justify-center max-w-full mq950:mt-[8px]">
-						<button onclick="openModal()" class="cursor-pointer border-transparent py-[21px] px-10 bg-general-1-primary overflow-hidden flex flex-row items-start justify-start
-						 whitespace-nowrap hover:bg-elements-neutral-4 hover:text-general-1-primary hover:border-general-1-primary border-solid border-[2px]
-						 text-general-white 					hover:text-general-1-primary">
-							<div class="relative text-base tracking-[0.4em] leading-[18px] uppercase font-medium hover:border-general-1-primary
-							font-subtitles-16 text-center hover:text-general-1-primary  whitespace-nowrap">
-								Start now
-							</div>
-						</button>
-
-					</div>
-					<div class="w-[1140px] flex flex-row items-start justify-center flex-wrap content-start gap-[30px] max-w-full font-body-b3-merriweather-14">
-						<div class="flex-1 relative leading-[26px] inline-block min-w-[361px] max-w-full lg:min-w-full">
-							We totally get it. New company formation in UAE—especially in&nbsp;Dubai, can feel highly, highly overwhelming. Let no one tell you otherwise—it’s a stress you don’t want to take on alone. That’s why Vision
-							Prime
-							is here to handle the heavy lifting for&nbsp;you.
-						</div>
-						<div class="flex-1 relative leading-[26px] inline-block min-w-[361px] max-w-full lg:min-w-full">
-							Whether you’re setting up a mainland, free zone, or offshore company, Business Setup is ready to guide you through every step with&nbsp;personalized, high-touch services.
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</section>
 
 	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-left text-41xl text-text-base-primary font-body-s-bold">
 		<div class="self-stretch flex flex-row items-center justify-center flex-wrap content-center py-numbers-80 px-measurements-gap-120-24 box-border gap-x-[42px] gap-y-12 max-w-full mq450:pl-numbers-80 mq450:pr-numbers-80 mq450:box-border mq750:gap-[21px] mq750:py-numbers-80 mq750:px-measurements-gap-120-24 mq750:box-border">

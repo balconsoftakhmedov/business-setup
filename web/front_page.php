@@ -12,7 +12,7 @@
 				class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-160-96 px-5 pb-measurements-gap-120 box-border max-w-full mq450:pt-measurements-gap-120 mq450:pb-measurements-gap-120 mq450:box-border mq1050:pt-measurements-gap-120 mq1050:pb-measurements-gap-120 mq1050:box-border"
 		>
 			<div
-					class="w-[1200px] flex flex-col items-center justify-start gap-numbers-40 max-w-full mq750:gap-numbers-40"
+					class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-numbers-40 mq750:gap-numbers-40"
 			>
 				<div
 						class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 pl-[3px] pr-[5px] gap-numbers-4 text-text-accent-blue-inverted"
@@ -46,8 +46,7 @@
 				<div
 						class="self-stretch flex flex-col items-center justify-start py-0 px-[163px] box-border gap-numbers-24 max-w-full text-53xl lg:pl-[81px] lg:pr-[81px] lg:box-border mq750:pl-10 mq750:pr-10 mq750:box-border"
 				>
-					<h1
-							class="m-0 relative text-inherit tracking-[-2.2px] leading-[78px] font-medium font-inherit inline-block max-w-[840px] mq450:text-[43px] mq450:leading-[47px] mq1050:text-[58px] mq1050:leading-[62px] mq1050:max-w-full"
+					<h1 class="m-0 animate-fadeInOut relative text-inherit tracking-[-2.2px] leading-[78px] font-medium font-inherit inline-block max-w-[840px] mq450:text-[43px] mq450:leading-[47px] mq1050:text-[58px] mq1050:leading-[62px] mq1050:max-w-full"
 					>
 						Effortless Business Setup in Dubai and the UAE
 					</h1>
@@ -109,7 +108,7 @@
 							<div
 									class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
 							>
-								<div
+								<div onclick="openModal()"
 										class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center"
 								>
 									Start now
@@ -638,7 +637,7 @@
 
 	<section class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-left text-sm text-text-base-secondary font-body-s-bold">
 		<div class="self-stretch overflow-hidden flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-5xl mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
-			<div class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[50px] gap-y-14 max-w-full mq750:gap-[25px]">
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[50px] gap-y-14 mq750:gap-[25px]">
 				<div class="flex-1 flex flex-col items-start justify-start min-w-[224px] max-w-full">
 					<button class="tab-button cursor-pointer py-[30px] px-[31px]  self-stretch  rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
@@ -886,7 +885,7 @@
 	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
 		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
 			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
-				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+				<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
 					<div class=" h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
@@ -957,7 +956,7 @@
 			</div>
 		</div>
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-numbers-24 max-w-full text-left text-text-base-primary mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
-			<div class="w-[1200px] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden hidden flex-row items-center justify-center flex-wrap content-center py-[38px] px-[39px] gap-measurements-gap-32-24 max-w-full">
+			<div class="max-w-[1200px] w-full  shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden hidden flex-row items-center justify-center flex-wrap content-center py-[38px] px-[39px] gap-measurements-gap-32-24 ">
 				<div class="flex-1 flex flex-row items-start justify-start p-measurements-gap-2 box-border gap-measurements-gap-20 min-w-[224px] max-w-full mq750:flex-wrap">
 					<div class="rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid flex flex-col items-start justify-start py-0.5 px-0 relative z-[1] mq750:flex-1">
 						<div class="self-stretch flex flex-row items-center justify-start py-numbers-2 px-numbers-6 z-[0]">
@@ -2407,7 +2406,7 @@
 	<section class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
 		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
 			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
-				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+				<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
 					<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
@@ -2477,7 +2476,7 @@
 			</div>
 		</div>
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-numbers-24 max-w-full text-left text-xl text-text-base-primary mq450:pt-measurements-gap-80-48 mq450:pb-measurements-gap-80-48 mq450:box-border mq1050:pt-measurements-gap-80-48 mq1050:pb-measurements-gap-80-48 mq1050:box-border">
-			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full">
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 ">
 				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon-61.svg">
 
@@ -2614,7 +2613,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full">
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 ">
 				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<img class="w-6 h-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/icon-9.svg">
 
@@ -2759,7 +2758,7 @@
 	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
 		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
 			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
-				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+				<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40 mq750:gap-measurements-gap-40">
 					<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
@@ -2830,7 +2829,7 @@
 			</div>
 		</div>
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-numbers-64 max-w-full text-base text-text-accent-purple-accent mq450:gap-numbers-64 mq450:pt-measurements-gap-80-48 mq450:pb-measurements-gap-80-48 mq450:box-border mq750:gap-numbers-64">
-			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 max-w-full">
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5">
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
 					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:300]"
@@ -2890,7 +2889,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 max-w-full">
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 ">
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
 					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
@@ -2956,7 +2955,7 @@
 
 	<section class="self-stretch bg-background-surface-neutral overflow-hidden flex flex-col items-start justify-start max-w-full text-center text-lg text-text-base-secondary font-body-s-bold">
 		<div class="self-stretch flex flex-col items-center justify-start pt-0 px-5 pb-measurements-gap-80-48 box-border max-w-full mq450:pb-measurements-gap-80-48 mq450:box-border">
-			<div class="w-[1200px] flex flex-col items-center justify-start gap-numbers-48 max-w-full mq750:gap-numbers-48">
+			<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-numbers-48  mq750:gap-numbers-48">
 				<div class="w-72 relative tracking-[-0.2px] leading-[26px] font-medium hidden">
 					Trusted by the biggest companies
 				</div>
@@ -3060,8 +3059,8 @@
 	  gap-[68px] max-w-full z-[3] text-center text-base
 	  font-subtitles-16 ">
 
-		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">
-			<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+		<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center">
+			<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40  mq750:gap-measurements-gap-40">
 				<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
 					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
@@ -3124,7 +3123,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="w-[1170px] grid grid-cols-4 gap-[30px] max-w-full z-[1] text-left
+		<div class="max-w-[1200px] w-full  grid grid-cols-4 gap-[30px] z-[1] text-left
 		 text-smi text-general-white font-button-dm-sans-16
 		  lg:justify-center lg:grid-cols-2 mq450:grid-cols-2 mq650:gap-[5px] mq350:grid-cols-1  mq350:gap-[10px]">
 			<div class=" rounded-measurements-radius-xxxl h-[375px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden flex
@@ -3271,7 +3270,7 @@
 				 pb-[100px] box-border relative gap-[30px] max-w-full
 				 lg:pb-[65px] lg:box-border mq450:pb-[42px] mq450:box-border
 				  mq850:gap-[15px] mq1500:min-w-full">
-			<div class="w-full max-w-[1170px] flex-col ml-[5%] mq950:mx-[0px]">
+			<div class="w-full max-w-[1200px] flex-col ml-[5%] mq950:mx-[0px]">
 
 				<div class="w-[1318px] h-[168px] flex flex-row items-start justify-center max-w-full">
 					<div class="self-stretch w-[182px] flex flex-col items-start justify-start gap-[30px]">
@@ -3507,7 +3506,7 @@
 	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
 		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
 			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
-				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+				<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40 mq750:gap-measurements-gap-40">
 					<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
@@ -3576,7 +3575,7 @@
 			</div>
 		</div>
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-left text-base text-text-base-primary mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
-			<div class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6 max-w-full">
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6">
 				<div class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Light
@@ -3955,9 +3954,9 @@
 			<div class="w-[50%] "></div>
 		</div>
 		<div class="w-[1920px] h-[1778px] relative bg-elements-neutral-4 hidden max-w-full"></div>
-		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">
+		<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center">
 
-			<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+			<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40  mq750:gap-measurements-gap-40">
 				<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
 					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
@@ -3978,7 +3977,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="max-w-[1170px] flex flex-row items-start justify-center flex-wrap content-start gap-5 w-full
+		<div class="max-w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-5 w-full
 				 text-left text-lg text-general-8-secondary
 				 font-body-s-bold">
 			<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[374px] max-w-full mq450:min-w-full">

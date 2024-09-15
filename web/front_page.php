@@ -2930,9 +2930,9 @@
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
 					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:300]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:300]'">
-									<span class="supports-[counter-set]:sr-only">300</span>+
-								</b>
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:300]'">
+						<span class="supports-[counter-set]:sr-only">300</span>+
+					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						customers
 					</div>
@@ -2944,8 +2944,8 @@
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]
 					 transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:91]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:91]'">
-									<span class="supports-[counter-set]:sr-only">91</span>%
-								</b>
+						<span class="supports-[counter-set]:sr-only">91</span>%
+					</b>
 
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						of customers recommend us
@@ -2957,9 +2957,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:3]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:3]'">
-									<span class="supports-[counter-set]:sr-only">3</span>
-								</b>
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:3]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:3]'">
+						<span class="supports-[counter-set]:sr-only">3</span>
+					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						years of financial responsibility
 					</div>
@@ -2970,9 +2971,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:2]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:2]'">
-									<span class="supports-[counter-set]:sr-only">2</span>
-								</b>
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:2]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:2]'">
+						<span class="supports-[counter-set]:sr-only">2</span>
+					</b>
 
 
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
@@ -2987,9 +2989,10 @@
 			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 max-w-full">
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
-									<span class="supports-[counter-set]:sr-only">15</span>
-								</b>
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
+						<span class="supports-[counter-set]:sr-only">15</span>
+					</b>
 
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						service areas
@@ -3001,9 +3004,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-				<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:10]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:10]'">
-									<span class="supports-[counter-set]:sr-only">10</span>
-								</b>
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:10]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:10]'">
+						<span class="supports-[counter-set]:sr-only">10</span>
+					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						partner banks
 					</div>
@@ -3014,10 +3018,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
-									<span class="supports-[counter-set]:sr-only">15</span>
-								</b>
-
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
+						<span class="supports-[counter-set]:sr-only">15</span>
+					</b>
 
 
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
@@ -3029,9 +3033,10 @@
 					</div>
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:1000]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:1000]'">
-									<span class="supports-[counter-set]:sr-only">1000</span>+
-								</b>
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:1000]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:1000]'">
+						<span class="supports-[counter-set]:sr-only">1000</span>+
+					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						transactions through payment agents
 					</div>
@@ -3045,47 +3050,107 @@
 	</section>
 
 
+	<section class="self-stretch bg-background-surface-neutral overflow-hidden flex flex-col items-start justify-start max-w-full text-center text-lg text-text-base-secondary font-body-s-bold">
+		<div class="self-stretch flex flex-col items-center justify-start pt-0 px-5 pb-measurements-gap-80-48 box-border max-w-full mq450:pb-measurements-gap-80-48 mq450:box-border">
+			<div class="w-[1200px] flex flex-col items-center justify-start gap-numbers-48 max-w-full mq750:gap-numbers-48">
+				<div class="w-72 relative tracking-[-0.2px] leading-[26px] font-medium hidden">
+					Trusted by the biggest companies
+				</div>
+				<div class="self-stretch flex flex-col items-start justify-start max-w-full text-sm text-text-accent-blue-inverted">
+					<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
+						<div class="w-[960px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+							<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
+								<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
 
+								<div class="flex flex-row items-center justify-center py-0 px-[3px]">
+									<div class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium">
+										Trusted by
+									</div>
+								</div>
+								<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+							</div>
+							<div class="self-stretch flex flex-col items-center justify-start py-0 px-[84px] gap-measurements-gap-24 text-29xl text-text-base-primary mq750:pl-[21px] mq750:pr-[21px] mq750:box-border mq1050:pl-[42px] mq1050:pr-[42px] mq1050:box-border">
+								<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+									The Global Industry Leaders
+								</h1>
+								<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
+									We take a white-glove approach to&nbsp;our business setup
+									services in Dubai. We&nbsp;know every client has different
+									needs, and we’re here to meet you exactly where you are.
+								</div>
+							</div>
+							<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-background-surface-default mq450:flex-wrap">
+								<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4">
+									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon.svg">
 
-	<section class="self-stretch bg-general-white flex flex-col items-center justify-start pt-[22px] pb-[89px] pl-[22px]
-			pr-5 box-border gap-[40px] min-h-[520px] max-w-full text-center text-base text-general-1-primary font-subtitles-16  mq850:pt-5 mq850:pb-[58px] ">
-		<div class="w-[1920px] h-[520px] relative bg-general-white hidden max-w-full"></div>
-		<div class="w-full flex flex-row items-start justify-center py-0 pl-0 pr-0.5 box-border max-w-[1170px">
-			<div class=" flex flex-col items-center justify-start gap-[21px] w-full">
-				<div class="h-[120px]"></div>
-				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 mt-[100px] lg:mt-[34px]">
-					<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[2]">
-						Trusted by
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											Get started
+										</div>
+									</div>
+									<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+										<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+											<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+											<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+												<div class="relative leading-[16px] font-medium">
+													16
+												</div>
+											</div>
+											<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+										</div>
+									</div>
+									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon2.svg">
+								</div>
+								<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
+									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon2.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+											Learn more
+										</div>
+									</div>
+									<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+										<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
+											<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+											<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+												<div class="relative leading-[16px] font-medium">
+													$9.9
+												</div>
+											</div>
+											<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+										</div>
+									</div>
+									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon3.svg">
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class="flex flex-row items-start justify-start relative text-41xl text-general-8-secondary font-heading-1-72">
-
-					<h2 class="m-0 w-full relative text-inherit leading-[66px] font-normal font-inherit inline-block z-[2] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]"> The Global Industry Leaders</h2>
+				<div class="self-stretch flex flex-row items-center justify-between flex-wrap content-center gap-5 justify-between">
+					<div class="overflow-hidden flex flex-col items-center justify-center pt-[1.8px] px-0 pb-[1.9px]">
+						<img class="self-stretch h-[36.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/vector-8.svg">
+					</div>
+					<div class="overflow-hidden flex flex-col items-center justify-center py-[4.6px] px-0">
+						<img class="self-stretch h-[30.8px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/union.svg">
+					</div>
+					<div class="overflow-hidden flex flex-col items-center justify-center pt-[3.4px] px-0 pb-[3.3px]">
+						<img class="self-stretch h-[33.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/vector-9.svg">
+					</div>
+					<div class="overflow-hidden flex flex-col items-center justify-center pt-[5.9px] px-0 pb-[5.8px]">
+						<img class="self-stretch h-[28.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/vector-10.svg">
+					</div>
+					<div class="overflow-hidden flex flex-col items-center justify-center py-[6.3px] px-0">
+						<img class="self-stretch h-[27.4px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/vector-11.svg">
+					</div>
+					<div class="overflow-hidden flex flex-col items-center justify-center py-[6.7px] px-0">
+						<img class="self-stretch h-[26.6px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="./public/union-1.svg">
+					</div>
 				</div>
-			</div>
-		</div>
-		<div class="w-full flex flex-col items-start justify-start gap-[49px] max-w-[1170px] text-lg text-general-1-secondary-variant font-button-dm-sans-16 mq850:gap-6">
-			<div class="self-stretch flex flex-row items-start justify-center py-0 pl-5 pr-[21px] box-border max-w-full">
-
-			</div>
-			<div class="self-stretch overflow-hidden flex flex-row items-start justify-between opacity-[0.5] gap-5 z-[1] lg:flex-wrap lg:justify-center">
-				<img class="self-stretch  relative max-h-full overflow-hidden shrink-0 " loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/company/Framer.png">
-
-				<img class="self-stretch  relative max-h-full overflow-hidden shrink-0 " loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/company/Google.png">
-
-				<img class="self-stretch relative max-h-full overflow-hidden shrink-0 " loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/company/Airbnb.png">
-
-				<img class="self-stretch relative max-h-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/company/Figma.png">
-
-				<img class="self-stretch  relative max-h-full overflow-hidden shrink-0 " loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/company/Discord.png">
-
-				<img class="self-stretch relative max-h-full overflow-hidden shrink-0 " loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/company/Dropbox.png">
-
-
 			</div>
 		</div>
 	</section>
-
 	<section class="self-stretch bg-elements-neutral-4 flex flex-col items-center justify-start pt-[22px] px-5 pb-[171px] box-border gap-[68px] max-w-full z-[3] text-center text-base text-general-1-primary font-subtitles-16  lg:pt-5 lg:pb-[111px] ">
 		<div class="w-[1920px] h-[870px] relative bg-elements-neutral-4 hidden max-w-full"></div>
 		<div class="w-[1170px] flex flex-row items-start justify-center max-w-full">

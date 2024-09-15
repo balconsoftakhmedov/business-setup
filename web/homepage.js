@@ -140,31 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	//	const nextButtonOne = document.getElementById('nextm');
 	//	const prevButtonOne = document.getElementById('prevp');
 		let index = 0;
-		if (nextButton) {
-			nextButton.addEventListener('click', () => {
-				index = (index + 1) % slides.length;
-				showSlide(index);
-			});
-		}
-		if (prevButton) {
-			prevButton.addEventListener('click', () => {
 
-				index = (index - 1 + slides.length) % slides.length;
-				showSlide(index);
-			});
-		}
-		if (nextButtonOne) {
-			nextButtonOne.addEventListener('click', () => {
-			index = (index + 1) % slides.length;
-				showSlide(index);
-			});
-		}
-		if (prevButtonOne) {
-			prevButtonOne.addEventListener('click', () => {
-				index = (index - 1 + slides.length) % slides.length;
-				showSlide(index);
-			});
-		}
 
 		function showSlide(idx) {
 			slides.forEach((slide, i) => {

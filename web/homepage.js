@@ -45,6 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 			// Toggle bg-general-white class based on content visibility
 			accordionItem.classList.toggle("bg-general-white", !content.classList.contains("hidden"));
+			accordionItem.classList.toggle("stm-open", !content.classList.contains("hidden"));
 
 			// Close other accordion items
 			accordionHeaders.forEach(item => {

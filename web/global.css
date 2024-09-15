@@ -571,7 +571,17 @@ nav .parent > ul.sub-menu:before {
 	line-height: 10px;
 	font-size: 10px
 }
+.stm-open .stm-minus{
+	display: block;
+}
+.stm-open .stm-plus{
+	display: none;
+}
 
+.stm-open h3{
+	--tw-text-opacity: 1;
+	color: rgb(83 20 163 / var(--tw-text-opacity))
+}
 .navigation .navigation-menu .mobile-switcher {
 	display: none !important;
 	padding: 12px 10px;

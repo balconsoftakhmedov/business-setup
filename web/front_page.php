@@ -4076,19 +4076,20 @@
 		</div>
 		<div class="max-w-[1170px] flex flex-row items-start justify-center flex-wrap content-start gap-5 w-full
 				 text-left text-lg text-general-8-secondary
-				 font-button-dm-sans-16">
+				 font-body-s-bold">
 			<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[374px] max-w-full mq450:min-w-full">
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
 
 							What is the minimum investment to start a business in UAE?
 
 
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The minimum investment to start a business in the UAE varies significantly based on several factors.
 						</p>
@@ -4107,14 +4108,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much is a Dubai business visa?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The cost of a Dubai business visa varies depending on several factors:
 						</p>
@@ -4131,14 +4133,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How is an LLC formed in the UAE?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<ol class="list-decimal ml-5">
 							<li>Choose a Business Activity: determine the specific activities your LLC will undertake. Then, choose a location and reserve a business name.</li>
 							<li>Appoint a Local Sponsor: a UAE national must hold a 51% share, though profit-sharing arrangements can vary.</li>
@@ -4152,14 +4155,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How long is the business visa valid for in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The validity of a Dubai business visa depends on the type of visa:
 						</p>
@@ -4174,14 +4178,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can you own a 100% business in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Yes, you can now own 100% of a business in Dubai.
 						</p>
@@ -4196,14 +4201,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Which business is easy to start in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Dubai is a great place to start a business, with plenty of opportunities for entrepreneurs. Here are a few business sectors that are relatively easy to dive into:
 						</p>
@@ -4224,14 +4230,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Is Dubai startup-friendly?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Dubai is definitely a hotspot for startups.
 						</p>
@@ -4251,14 +4258,15 @@
 						</p>
 					</div>
 				</div>
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Is Dubai tax-free for business owners?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Dubai is well-known for its tax-friendly environment, which is a major draw for entrepreneurs and investors alike.
 						</p>
@@ -4276,14 +4284,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How to make money in Dubai as a foreigner?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Dubai offers a multitude of opportunities for foreigners to earn money. Here are some popular avenues:
 						</p>
@@ -4302,14 +4311,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Why do entrepreneurs go to Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Dubai has become a magnet for entrepreneurs for several compelling reasons:
 						</p>
@@ -4333,14 +4343,15 @@
 			</div>
 			<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[374px] max-w-full mq450:min-w-full">
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							What is the cheapest way to set up a business in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Setting up a business in a free zone is usually the most budget-friendly option in Dubai. Free zones offer various packages with different perks and cost structures.
 						</p>
@@ -4367,14 +4378,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I open a company in the UAE without a residence visa?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Yes, you can open a company in Dubai and conduct business without a residence visa.
 						</p>
@@ -4398,14 +4410,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much is a business permit in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The cost of a business permit in Dubai can vary widely based on several factors:
 						</p>
@@ -4425,14 +4438,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I start a business in Dubai without a sponsor?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Yes, You Can Start a Business in Dubai Without a Sponsor.
 						</p>
@@ -4453,14 +4467,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I start a business in Dubai without an office?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Yes, You Can Start a Business in Dubai Without a Physical Office.
 						</p>
@@ -4480,14 +4495,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Is home business allowed in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The Dubai government sees the potential in small and medium enterprises (SMEs) and has introduced home business licenses to support entrepreneurs. This means you can legally run a business right from your
 							home.
@@ -4498,14 +4514,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much does it cost to register a company in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The cost to register a company in Dubai can vary quite a bit depending on several factors:
 						</p>
@@ -4530,14 +4547,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much does it cost to put a company in a free zone in Dubai?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							The cost of setting up a company in a Dubai-free zone can vary quite a bit. It depends on factors like the specific free zone, the type of license you need, office space requirements, and any extra services
 							you choose.
@@ -4567,14 +4585,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I open a company in Dubai remotely?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Yes, you can open a company in Dubai remotely.
 						</p>
@@ -4597,14 +4616,15 @@
 					</div>
 				</div>
 
-				<div class="accordion-item self-stretch border-general-1-primary border-[2px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class="flex-1 font-bold relative leading-[24px] inline-block min-w-[314px] mq650:min-w-[50px] max-w-full">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I move to Dubai and start a business?
 						</h3>
-						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300" alt="" src="/wp-content/themes/business-setup/web/public/f-a-q-answers-two.svg">
+												<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
-					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-general-9-secondary-variant">
+					<div class="accordion-content hidden self-stretch relative text-sm leading-[24px]  text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary">
 						<p class="m-0">
 							Dubai has become a hotspot for entrepreneurs from all over the globe thanks to its business-friendly environment, tax perks, and prime location.
 						</p>

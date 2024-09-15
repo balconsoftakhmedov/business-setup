@@ -3,8 +3,8 @@
 <?php include_once( 'header.php' );
 ?>
 <body>
-<div class="w-full">
-
+<div class="w-full mt-[-90px]">
+<div class="text-general-1-primary hover:bg-general-white">test</div>
 	<section
 			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('./public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
 	>
@@ -302,10 +302,8 @@
 		</div>
 
 	</section>
-
-
-	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-left text-41xl text-text-base-primary font-body-s-bold">
-		<div class="self-stretch flex flex-row items-center justify-center flex-wrap content-center py-numbers-80 px-measurements-gap-120-24 box-border gap-x-[42px] gap-y-12 max-w-full mq450:pl-numbers-80 mq450:pr-numbers-80 mq450:box-border mq750:gap-[21px] mq750:py-numbers-80 mq750:px-measurements-gap-120-24 mq750:box-border">
+		<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-center max-w-full text-left text-41xl text-text-base-primary font-body-s-bold">
+		<div class="flex flex-row max-w-[1200px] w-full items-center justify-center flex-wrap content-center py-numbers-80  box-border gap-x-[42px] gap-y-12 mq450:pl-numbers-80 mq450:pr-numbers-80 mq450:box-border mq750:gap-[21px] mq750:py-numbers-80  mq750:box-border">
 			<div class="flex-1 flex flex-col items-start justify-start gap-numbers-48 min-w-[320px] max-w-full mq750:gap-numbers-48">
 				<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-40 mq750:gap-measurements-gap-40">
 					<div class="w-16 h-16 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border hidden flex-row items-center justify-center py-[18px] px-[19px]">

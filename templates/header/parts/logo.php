@@ -27,7 +27,7 @@ $customizer_logo_height = get_theme_mod( 'ms_lms_starter_logo_height' ) ? get_th
 			class="h-[60px] w-[140px] relative"
 			loading="lazy"
 			alt=""
-			src="<?php echo esc_url( $logo_image[0] ); ?>"
+			src="<?php echo esc_url( $white_logo_image[0] ); ?>"
 			style="width: 140px;"
 	/>
 <?php endif; ?>

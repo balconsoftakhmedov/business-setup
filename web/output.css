@@ -1151,6 +1151,10 @@ video {
   margin-top: 60px;
 }
 
+.mt-\[-90px\] {
+  margin-top: -90px;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -6177,6 +6181,11 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 }
 
 .hover\:bg-general-white:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }

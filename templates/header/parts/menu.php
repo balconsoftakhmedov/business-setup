@@ -1,8 +1,8 @@
 <div class="header-placeholder hidden h-[90px] mq950:block "></div>
 <header
-		class="stm-h self-stretch bg-general-white er-back-tr coltr
+		class="stm-h self-stretch  er-back-tr coltr
 		flex flex-row items-center justify-center py-[15px] box-border
-		top-[0] z-[11111] sticky mq950:fixed mq780: max-w-full gap-5 text-right text-base text-general-8-secondary font-subtitles-16  lg:box-border  mq450:box-border mq850:box-border"
+		top-[0] z-[11111] sticky mq950:fixed mq780: max-w-full gap-5 text-right text-base text-white font-subtitles-16  lg:box-border  mq450:box-border mq850:box-border"
 >
 	<div class="max-w-[1200px] flex flex-row items-end justify-between w-full mq650:pl-[20px] mq650:pr-[10px]
 	mq950:pl-[20px] items-center mq950:pr-[10px]
@@ -31,19 +31,19 @@
 					?>
 
 					<div class="relative flex flex-col items-end justify-start gap-1.5 <?php if ($has_children ): ?> group <?php endif ; ?> ">
-						<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap  hover:text-general-1-primary" href="<?php echo $url ?>">
+						<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="<?php echo $url ?>">
 							<?php echo $title ?>
 							<?php if ( $has_children ): ?>
 								<img class="inline-block h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
-transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/feather-iconschevrondown.svg" alt="Submenu Icon"/>
+transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg" alt="Submenu Icon"/>
 							<?php endif ?>
 						</a>
 						<?php if ( $has_children ): ?>
-							<div class="absolute right-[0px] hidden mt-2 bg-white shadow-lg rounded-md w-48 group-hover:block z-10 w-full text-left min-h-[100px] top-[8px] er-back-tr">
+							<div class="absolute right-[0px] hidden mt-2 bg-general-1-primary shadow-lg rounded-md w-48 group-hover:block z-10 w-full text-left min-h-[100px] top-[8px] er-back-tr">
 								<ul class="py-2">
 									<?php foreach ( $menu_item_parents[ $menu_item->ID ] as $child ): ?>
 										<li>
-											<a href="<?php echo esc_url( $child->url ); ?>" class="block px-4 py-2  hover:bg-elements-neutral-4">
+											<a href="<?php echo esc_url( $child->url ); ?>" class="block px-4 py-2  hover:bg-general-white hover:text-general-1-primary">
 												<?php echo esc_html( $child->title ); ?>
 											</a>
 										</li>

@@ -2575,7 +2575,7 @@
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-numbers-24 max-w-full text-left text-xl text-text-base-primary mq450:pt-measurements-gap-80-48 mq450:pb-measurements-gap-80-48 mq450:box-border mq1050:pt-measurements-gap-80-48 mq1050:pb-measurements-gap-80-48 mq1050:box-border">
 			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full">
 				<div class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] px-[31px] gap-measurements-gap-28 min-w-[282px] mq450:pt-5 mq450:pb-5 mq450:box-border">
-					<input class="m-0 w-6 h-6 relative overflow-hidden shrink-0" type="checkbox">
+					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="./public/icon-61.svg">
 
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
@@ -2850,255 +2850,201 @@
 			</div>
 		</div>
 	</section>
-	<section class="self-stretch flex flex-col items-start justify-start max-w-full text-center text-base text-general-white font-subtitles-16">
 
-		<div class="self-stretch bg-elements-neutral-4 flex flex-col items-center justify-start pt-[132px] px-5 pb-[100px] box-border gap-[100px] max-w-full z-[6] mt-[-110px] text-general-1-primary lg:gap-[89px] lg:pt-[132px] lg:pb-[65px] lg:box-border mq450:gap-[22px] mq650:px-[0px] mq850:gap-[45px] mq850:pb-[42px] mq850:box-border">
 
-			<div class="max-w-[1170px] w-full flex flex-col items-center justify-center py-0 pl-px pr-0 box-border mq650:px-[20px]">
-				<div class="h-[120px] relative block "></div>
-				<div class=" flex flex-col items-start justify-start gap-[21px] max-w-full">
-					<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
-						<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[2]">
-							Our Services
+	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
+		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
+			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
+				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+					<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon4.svg">
+
+						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[101px]">
+								In the numbers
+							</div>
+						</div>
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon5.svg">
+					</div>
+					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
+						<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+							Why Business set up Dubai
+						</h1>
+						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
+							We take a white-glove approach to&nbsp;our business setup services
+							in Dubai. We&nbsp;know every client has different needs, and we’re
+							here to meet you exactly where you are.
 						</div>
 					</div>
-					<div class="flex flex-row items-start justify-start relative text-41xl text-general-1-secondary font-heading-1-72">
+					<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-background-surface-default mq450:flex-wrap">
+						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon.svg">
 
-						<h2 class="m-0 max-w-[781px] w-full relative text-inherit leading-[66px] font-normal font-inherit
-						 inline-block z-[2] mq450:text-17xl mq450:leading-[40px] mq450:w-auto mq850:text-29xl mq850:leading-[53px] break-words">
-							Register a Company in Dubai
-						</h2>
+							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+									Get started
+								</div>
+							</div>
+							<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+								<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
 
-					</div>
-				</div>
-			</div>
-			<div class="w-[1170px] flex flex-row items-start justify-start flex-wrap content-start gap-x-[30px] gap-y-[28.7px] mq650:gap-y-[0px] min-h-[830px] max-w-full text-left text-lg text-general-1-secondary font-button-dm-sans-16">
-				<div class="h-[388px] mq950:h-[310px] flex-1 overflow-hidden mq650:h-auto hover:bg-general-white cursor-pointer flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border mq650:pt-[20px]">
-					<img decoding="async" class="w-12 h-12 relative" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightcontent-edit.svg">
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+										<div class="relative leading-[16px] font-medium">
+											16
+										</div>
+									</div>
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon2.svg">
+						</div>
+						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon2.svg">
 
-					<div class="self-stretch overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Business Setup and&nbsp;Registration</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							From mainland and free zone company setup to offshore company
-							registration, we provide end-to-end solutions for starting a
-							business in&nbsp;the&nbsp;UAE.
+							<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
+								<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+									Learn more
+								</div>
+							</div>
+							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
+								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon1.svg">
+
+									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
+										<div class="relative leading-[16px] font-medium">
+											$9.9
+										</div>
+									</div>
+									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon1.svg">
+								</div>
+							</div>
+							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/tailicon3.svg">
 						</div>
 					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[388px] mq950:h-[310px]  mq650:h-auto flex-1 hover:bg-general-white cursor-pointer overflow-hidden flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightcertificate.svg">
-
-					<div class="self-stretch flex-1 overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">UAE Visas and Passport Services</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							Secure your journey to the UAE with our efficient passport
-							and&nbsp;business visa services in&nbsp;Dubai.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[388px] mq950:h-[310px]  mq650:h-auto flex-1 hover:bg-general-white cursor-pointer overflow-hidden flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightbank.svg">
-
-					<div class="self-stretch flex-1 overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Bank Account Opening</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							We make bank account opening in the Emirates with trusted
-							financial institutions incredibly easy, even for foreigners
-							or&nbsp;non-residents with our expert guidance.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[388px] mq950:h-[310px]  flex-1 overflow-hidden mq650:h-auto hover:bg-general-white cursor-pointer flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklighttrademark-copyright-restricted.svg">
-
-					<div class="self-stretch overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Trademark and Copyright Registration</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							Protect your intellectual property when starting a&nbsp;business in
-							Dubai with our comprehensive copyright and&nbsp;trademark
-							registration services.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[388px]  mq950:h-[310px] flex-1 overflow-hidden mq650:h-auto hover:bg-general-white cursor-pointer flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightwallet.svg">
-
-					<div class="self-stretch overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Financial, Accounting, and Bookkeeping Services</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							Streamline your financial operations with our expert
-							accounting, payroll, and bookkeeping services in Dubai. Let’s
-							get your financial foundation off the ground.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[412px] mq950:h-[310px]  mq650:h-auto flex-1 hover:bg-general-white cursor-pointer overflow-hidden flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightwork.svg">
-
-					<div class="self-stretch flex-1 overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Tax Registration and&nbsp;Consultancy</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							Ensure tax compliance with our corporate tax services in UAE,
-							including VAT, direct, excise tax registration, and
-							international tax calculations.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[412px] mq950:h-[310px]  mq650:h-auto  flex-1 hover:bg-general-white cursor-pointer overflow-hidden flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative object-cover" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightaudit--assurance@2x.png">
-
-					<div class="self-stretch flex-1 overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Auditing and Assurance Services</b>
-						<div class="self-stretch relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray">
-							Enhance your business credibility with our comprehensive
-							auditing services in Dubai, including statutory, customs,
-							and&nbsp;internal audits.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
-				</div>
-				<div class="h-[412px]  mq950:h-[310px] mq650:h-auto  flex-1 hover:bg-general-white cursor-pointer overflow-hidden flex flex-col items-start justify-start p-[25px] box-border gap-[30px] min-w-[256px] mq450:gap-[15px] mq450:pt-[20px] mq450:pb-5 mq450:box-border">
-					<img decoding="async" class="w-12 h-12 relative overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/iconsiconly-blacklightlifebuoy-help.svg">
-
-					<div class="self-stretch flex-1 overflow-hidden flex flex-col items-center justify-start gap-3.5">
-						<b class="self-stretch relative leading-[24px]">Business Support and&nbsp;Advisory Services</b>
-						<div class="self-stretch h-36 relative text-sm leading-[24px] font-body-b3-merriweather-14 text-dimgray inline-block">
-							Receive expert business support for your company, including
-							reporting, legal advice, payment solutions, license,
-							certification, and&nbsp;product development.
-						</div>
-					</div>
-					<a href="#" class="self-stretch relative text-base leading-[24px] font-bold text-general-1-primary hover:[text-decoration:underline]">Read more</a>
 				</div>
 			</div>
 		</div>
-	</section>
+		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-numbers-64 max-w-full text-base text-text-accent-purple-accent mq450:gap-numbers-64 mq450:pt-measurements-gap-80-48 mq450:pb-measurements-gap-80-48 mq450:box-border mq750:gap-numbers-64">
+			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 max-w-full">
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-
-	<section class="self-stretch flex flex-row items-start justify-start
-			flex-wrap content-start pt-0 px-0 pb-[110px] box-border max-w-full
-			[row-gap:20px] text-center text-base text-general-1-primary font-subtitles-16
-			lg:pb-[71px] lg:box-border mq450:pb-[46px] mq450:box-border ">
-
-		<div class="flex-1 flex flex-row items-center justify-center relative min-w-[1176px] max-w-full mq1500:min-w-full">
-
-			<div class="flex-1 flex flex-col items-center justify-center pt-8
-					 pb-[110px] box-border gap-[100px]	z-[4]  w-full">
-
-				<div class="flex-row w-full max-w-[1170px]">
-					<div class="h-[120px]"></div>
-					<div class="max-w-[1170px] flex flex-row items-start justify-center w-full ml-[-50px] mb-[60px] lg:ml-[0px]">
-						<div class=" flex flex-col items-center justify-start gap-[31px] w-full mq850:gap-[15px]">
-							<div class="self-stretch flex flex-row items-center justify-center py-0 ">
-								<div class="flex flex-row items-center justify-start relative">
-
-									<h2 class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[1]">
-										By the Numbers
-									</h2>
-								</div>
-							</div>
-							<h2 class="m-0 self-stretch relative text-41xl leading-[66px] font-normal font-heading-1-72
-								z-[1] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] text-base-primary">
-								Why Business set up Dubai
-							</h2>
-						</div>
-					</div>
-					<div class="max-w-[1170px] flex flex-col items-start justify-start gap-[60px] w-full text-left text-41xl
-							font-button-dm-sans-16 lg:gap-[30px] lg:pl-[20px]">
-						<div class="self-stretch flex flex-row items-start justify-center gap-10 lg:flex-wrap mq850:gap-5  mq650:justify-start mq650:pr-[20px]">
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] ">
-
-
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:300]"
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:300]"
 								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:300]'">
 									<span class="supports-[counter-set]:sr-only">300</span>+
 								</b>
-
-								<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary inline-block min-w-[94px]">
-									customers
-								</div>
-							</div>
-
-
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] text-center ">
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:90]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:90]'">
-									<span class="supports-[counter-set]:sr-only">90</span>%
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						customers
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]
+					 transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:91]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:91]'">
+									<span class="supports-[counter-set]:sr-only">91</span>%
 								</b>
-								<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
-									of customers recommend us
-								</div>
-							</div>
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] text-center">
 
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:3]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:3]'">
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						of customers recommend us
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
+
+<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:3]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:3]'">
 									<span class="supports-[counter-set]:sr-only">3</span>
 								</b>
-								<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
-									years of financial responsibility
-								</div>
-							</div>
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] text-center ">
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						years of financial responsibility
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:2]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:2]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:2]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:2]'">
 									<span class="supports-[counter-set]:sr-only">2</span>
 								</b>
-								<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
-									regions, single provider
-								</div>
-							</div>
-						</div>
-						<div class="self-stretch flex flex-row items-start justify-center gap-10 lg:flex-wrap mq850:gap-5 mq650:justify-start mq650:pr-[20px]">
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] ">
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
+
+
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						regions, single provider
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+			</div>
+			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 max-w-full">
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
+
+<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
 									<span class="supports-[counter-set]:sr-only">15</span>
 								</b>
-								<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary inline-block min-w-[115px]">
-									service areas
-								</div>
-							</div>
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] ">
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:10]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:10]'">
+
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						service areas
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
+
+				<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:10]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:10]'">
 									<span class="supports-[counter-set]:sr-only">10</span>
 								</b>
-								<div class="relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary inline-block min-w-[125px]">
-									partner banks
-								</div>
-							</div>
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] ">
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						partner banks
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
+
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
 									<span class="supports-[counter-set]:sr-only">15</span>
 								</b>
-								<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
-									accounting programs
-								</div>
-							</div>
-							<div class="flex-1 flex flex-col items-start justify-start gap-2.5 min-w-[166px] mq850:min-w-[60px] mq650:min-w-[166px] text-center ">
-								<b class="relative tracking-[-0.03em] leading-[66px] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:1000]"
-								   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:1000]'">
+
+
+
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						accounting programs
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
+				</div>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:1000]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:1000]'">
 									<span class="supports-[counter-set]:sr-only">1000</span>+
 								</b>
-								<div class="self-stretch relative text-lg leading-[30px] font-body-b3-merriweather-14 text-base-primary text-left">
-									transactions through payment agents
-								</div>
-							</div>
-						</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
+						transactions through payment agents
+					</div>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+
+
 
 
 	<section class="self-stretch bg-general-white flex flex-col items-center justify-start pt-[22px] pb-[89px] pl-[22px]

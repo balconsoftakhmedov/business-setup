@@ -2155,6 +2155,10 @@ video {
   min-width: 82px;
 }
 
+.min-w-\[285px\] {
+  min-width: 285px;
+}
+
 .max-w-3xl {
   max-width: 48rem;
 }
@@ -2638,6 +2642,10 @@ video {
   gap: 28px;
 }
 
+.gap-numbers-64 {
+  gap: 64px;
+}
+
 .gap-x-5 {
   -moz-column-gap: 1.25rem;
        column-gap: 1.25rem;
@@ -2691,6 +2699,15 @@ video {
 .gap-x-\[20\.7px\] {
   -moz-column-gap: 20.7px;
        column-gap: 20.7px;
+}
+
+.gap-x-\[16\.7px\] {
+  -moz-column-gap: 16.7px;
+       column-gap: 16.7px;
+}
+
+.gap-y-5 {
+  row-gap: 1.25rem;
 }
 
 .space-x-4 > :not([hidden]) ~ :not([hidden]) {
@@ -4564,6 +4581,10 @@ video {
 
 .\[--num\:90\] {
   --num: 90;
+}
+
+.\[--num\:91\] {
+  --num: 91;
 }
 
 .\[backdrop-filter\:blur\(10px\)\] {

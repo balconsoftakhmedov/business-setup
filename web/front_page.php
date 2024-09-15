@@ -791,7 +791,7 @@
 					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
 						1.
 					</div>
-					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl ">
 						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 							Schedule a No-Pressure Consultation
 						</h3>
@@ -2210,28 +2210,28 @@
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
@@ -2325,28 +2325,28 @@
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
@@ -2443,28 +2443,28 @@
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
@@ -3673,7 +3673,7 @@
 		</div>
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-left text-base text-text-base-primary mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 			<div class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6 max-w-full">
-				<div class="flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
+				<div class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Light
 					</h3>
@@ -3698,7 +3698,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider1.svg">
 
-					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 min-h-[315px]">
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
 							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
@@ -3749,28 +3749,28 @@
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
@@ -3779,7 +3779,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -3802,7 +3802,7 @@
 						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon12.svg">
 					</button>
 				</div>
-				<div class="flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
+				<div class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Standard
 					</h3>
@@ -3827,65 +3827,65 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider1.svg">
 
-					<div class="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[58px] gap-numbers-16">
+					<div class="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[58px] gap-numbers-16 min-h-[315px]">
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12 mq450:flex-wrap">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[174px]">
 								Complete company registration across selected jurisdictions
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px]">
 								Dedicated consultant
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px]">
 								100% Ownership
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12 mq450:flex-wrap">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[174px]">
 								Virtual and physical office space acquisition
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px]">
 								Limited visa quota
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
@@ -3894,7 +3894,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button  onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -3917,7 +3917,11 @@
 						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="./public/tailicon12.svg">
 					</button>
 				</div>
-				<div class="flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
+				<div class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 rounded-measurements-radius-xxxl bg-background-surface-default
+				 border-border-base-alpha border-[1px] border-solid
+				  box-border flex flex-col items-start justify-start
+				   py-[38px] px-[39px] gap-numbers-16 min-w-[342px]
+				    max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border mq950:max-w-[430px] mq950:mr-auto mq950:ml-auto">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Pro
 					</h3>
@@ -3942,65 +3946,65 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider1.svg">
 
-					<div class="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[58px] gap-numbers-16">
+					<div class="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[58px] gap-numbers-16 min-h-[315px]">
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px]">
 								All-inclusive package
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Premium office space arrangements
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12 mq450:flex-wrap">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[174px]">
 								Assistance in tax, legal, and general business consultations
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px]">
 								Complete documentation support
 							</div>
 						</div>
 						<div class="self-stretch flex flex-row items-start justify-start gap-numbers-12 mq450:flex-wrap">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="flex-1 relative tracking-[-0.2px] leading-[24px] inline-block min-w-[151px]">
 								Extensive visa allocation and&nbsp;expedited processing
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
 							</div>
 						</div>
 						<div class="self-stretch hidden flex-row items-start justify-start gap-numbers-12">
-							<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="./public/checkline-5.svg">
+							<img class="h-6 w-6 relative overflow-hidden shrink-0" loading="lazy" alt="" src="./public/checkline.svg">
 
 							<div class="relative tracking-[-0.2px] leading-[24px]">
 								Label
@@ -4009,7 +4013,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="./public/divider-1.svg">
 
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button  onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="./public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -4037,169 +4041,6 @@
 	</section>
 
 
-	<section class="self-stretch bg-general-white flex flex-col items-center justify-start pt-[22px] px-5 pb-[100px] box-border gap-[60px]
-			max-w-full text-center text-base text-general-1-primary
-			font-subtitles-16  ">
-		<div class="w-full flex flex-row mb-[-20px] mt-[-21px]">
-			<div class="w-[50%] h-[120px]"></div>
-			<div class="w-[50%] "></div>
-		</div>
-		<div class="max-w-[1170px] flex flex-row items-start justify-center w-full">
-
-			<div class="w-full flex flex-col items-center justify-start gap-[21px] max-w-full">
-				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
-					<div class="relative tracking-[0.4em] leading-[36px] uppercase font-medium z-[2]">
-						Our Packages
-					</div>
-				</div>
-				<div class="flex flex-row items-start justify-start relative text-41xl text-general-8-secondary font-heading-1-72">
-
-					<h2 class="m-0 w-full relative text-inherit leading-[66px] font-normal font-inherit inline-block z-[2] mq450:text-17xl mq450:leading-[40px] mq850:text-29xl mq850:leading-[53px]">
-						Business Setup Services in Dubai
-					</h2>
-				</div>
-			</div>
-		</div>
-		<div class="max-w-[1170px] w-full grid  grid-cols-3 lg:grid-cols-3 mq1050:grid-cols-1 gap-[30px] text-11xl
-		 mq950:grid-cols-2 mq650:grid-cols-1">
-			<!-- Light Plan -->
-			<div class="cursor-pointer  hover:scale-110 bg-general-white transition-transform duration-300 ease-in-out  border-general-1-primary border-[2px] border-solid box-border flex flex-col items-center justify-start py-[47px] px-[38px] mq650:px-[10px] mq650:py-[30px] gap-[30px] min-w-[277px]">
-				<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-					Light
-				</h2>
-				<div class="self-stretch flex flex-col items-start justify-start gap-[18px] text-left text-sm text-general-8-secondary font-body-b3-merriweather-14">
-					<div class="self-stretch flex flex-row items-center justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Dedicated Consultant
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">100% Ownership</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Trade license application support
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-center justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Virtual office arrangements
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4 mq450:flex-wrap">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="h-12 flex-1 relative tracking-[-0.11px] leading-[24px] inline-block min-w-[162px]">
-							Basic corporate bank opening support
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Minimal visa allocation
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Simplified bank opening process
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Standard Plan -->
-			<div class="cursor-pointer hover:scale-110 bg-general-white transition-transform duration-300 ease-in-out  border-general-1-primary border-[2px] border-solid box-border flex flex-col items-center justify-start py-[47px] px-[38px] mq650:px-[10px] mq650:py-[30px] gap-[30px] min-w-[277px]"
-				 style="
-    /* padding-left: 10px; */
-">
-				<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-					Standard
-				</h2>
-				<div class="self-stretch flex flex-col items-start justify-start gap-[18px] text-left text-sm text-general-8-secondary font-body-b3-merriweather-14">
-					<div class="self-stretch flex flex-row items-start justify-center gap-4 mq450:flex-wrap">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px] inline-block min-w-[162px]">
-							Complete company registration across selected jurisdictions
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="relative leading-[24px]">Dedicated consultant</div>
-					</div>
-					<div class="self-stretch flex flex-row items-center justify-start py-px px-0 gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">100% Ownership</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4 mq450:flex-wrap">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px] inline-block min-w-[162px]">
-							Virtual and physical office space acquisition
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Limited visa quota
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Pro Plan -->
-			<div class="cursor-pointer hover:scale-110 bg-general-white
-			transition-transform duration-300 ease-in-out  border-general-1-primary border-[2px]
-			 border-solid box-border flex flex-col mq950:col-span-1
-			  mq950:col-start-1 mq950:col-end-3 mq950:mx-auto
-			  mq950:max-w-[350px]
-			   mq450:col-auto
-
-			   items-center justify-start py-[47px] px-[38px]
-			  mq650:px-[10px] mq650:py-[30px] gap-[30px] min-w-[277px]">
-				<h2 class="m-0 self-stretch relative text-inherit leading-[36px] font-semibold font-inherit mq450:text-lg mq450:leading-[22px] mq850:text-5xl mq850:leading-[29px]">
-					Pro
-				</h2>
-				<div class="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[60px] gap-[18px] text-left text-sm text-general-8-secondary font-body-b3-merriweather-14">
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							All-inclusive package
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="relative leading-[24px]">
-							Premium office space arrangements
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4 mq450:flex-wrap">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px] inline-block min-w-[162px]">
-							Assistance in tax, legal, and&nbsp;general business consultations
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px]">
-							Complete documentation support
-						</div>
-					</div>
-					<div class="self-stretch flex flex-row items-start justify-start gap-4 mq450:flex-wrap">
-						<img decoding="async" class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="/wp-content/themes/business-setup/web/public/feather-iconscheck-6.svg">
-						<div class="flex-1 relative leading-[24px] inline-block min-w-[140px]">
-							Extensive visa allocation and&nbsp;expedited processing
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-		</div>
-
-	</section>
 
 	<section class="self-stretch bg-elements-neutral-4 flex
 			flex-col items-center justify-start

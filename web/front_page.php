@@ -2144,7 +2144,9 @@
 					</div>
 				</div>
 			</div>
-			<div class="max-w-[1200px] w-full flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6 text-base">
+			<div class="max-w-[1200px] w-full flex flex-row items-start justify-start
+			flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6 text-base">
+
 				<div class="cursor-pointer h-[448px] flex-1 hover:scale-110 transition-transform duration-300 ease-in-out rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
 					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Mainland

@@ -2804,8 +2804,8 @@
 			</div>
 		</div>
 	</section>
-	<section class="self-stretch bg-elements-neutral-4 flex flex-col
-	 items-center justify-start pt-[22px] px-5 pb-[100px] box-border
+	<section class="self-stretch bg-background-surface-default flex flex-col
+	 items-center justify-start py-[80px] px-5 box-border
 	  gap-[68px] max-w-full z-[3] text-center text-base
 	  font-subtitles-16 ">
 

@@ -558,10 +558,6 @@ video {
   width: 100%;
 }
 
-.visible {
-  visibility: visible;
-}
-
 .fixed {
   position: fixed;
 }
@@ -2591,6 +2587,10 @@ video {
   max-width: 100%;
 }
 
+.max-w-\[1440px\] {
+  max-width: 1440px;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -3571,10 +3571,6 @@ video {
 
 .bg-\[url\(\'\/wp-content\/themes\/business-setup\/web\/public\/\/avatar6\@3x\.png\'\)\] {
   background-image: url('/wp-content/themes/business-setup/web/public//avatar6@3x.png');
-}
-
-.bg-\[url\(\'\/wp-content\/themes\/business-setup\/web\/public\/\/avatar7\@3x\.png\'\)\] {
-  background-image: url('/wp-content/themes/business-setup/web/public//avatar7@3x.png');
 }
 
 .bg-\[url\(\'\/wp-content\/themes\/business-setup\/web\/public\/avatar10\@3x\.png\'\)\] {
@@ -5927,18 +5923,20 @@ nav .parent > ul.sub-menu:before {
   display: none;
 }
 
+/* Container that holds the slider */
+
 .slider-wrapper {
   overflow: hidden;
   position: relative;
   width: 100%;
 }
 
-/* Slider itself that holds all the slides */
+/* The slider that holds all the slides */
 
 .slider {
   display: flex;
   transition: transform 0.5s ease-out;
-  /* Smooth slide transition */
+  /* Smooth sliding transition */
   width: 100%;
   /* Adjust based on the number of slides */
 }

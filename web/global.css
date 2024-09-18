@@ -592,6 +592,26 @@ nav .parent > ul.sub-menu:before {
 	display: none;
 }
 
+/* Container that holds the slider */
+.slider-wrapper {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+/* The slider that holds all the slides */
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-out; /* Smooth sliding transition */
+    width: 100%; /* Adjust based on the number of slides */
+}
+
+/* Each individual slide */
+.slide {
+    min-width: 100%;
+    flex: 1;
+    box-sizing: border-box;
+}
 
 .stm-open h3 {
 	--tw-text-opacity: 1;

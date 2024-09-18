@@ -2998,14 +2998,23 @@
 	</section>
 
 
-	<section class="self-stretch bg-background-surface-neutral flex flex-row items-start justify-start max-w-full text-center text-sm text-text-base-primary font-body-s-bold">
-		<div class="flex-1 flex flex-row items-start justify-center pt-0 px-0 pb-measurements-gap-80-48 box-border max-w-full lg:gap-numbers-64 mq750:gap-numbers-64 mq750:pb-measurements-gap-80-48 mq750:box-border mq1050:pb-measurements-gap-80-48 mq1050:box-border">
-			<div class="w-[1200px] flex flex-col items-start justify-start py-0 px-[204px] box-border gap-numbers-40 max-w-full lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:gap-numbers-40 mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-				<div class="ml-[-324px] flex flex-col items-start justify-start max-w-[182%] text-text-accent-blue-inverted">
-					<div class="w-[1440px] flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border">
-						<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+	<section class="self-stretch bg-background-surface-neutral flex
+	 flex-row items-center justify-center max-w-full text-center text-sm
+	 text-text-base-primary font-body-s-bold">
+		<div class="flex-1 flex flex-row items-center justify-center
+		pt-0 px-0 pb-measurements-gap-80-48 box-border max-w-full lg:gap-numbers-64
+		mq750:gap-numbers-64 mq750:pb-measurements-gap-80-48 mq750:box-border
+		 mq1050:pb-measurements-gap-80-48 mq1050:box-border">
+			<div class="max-w-[1200px] flex flex-col items-center justify-center py-0
+			 box-border gap-numbers-40 max-w-full lg:pl-[102px]
+			lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border
+			mq750:gap-numbers-40 mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
+				<div class="flex flex-col items-start justify-center text-text-accent-blue-inverted">
+					<div class="max-w-[1440px] flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border">
+						<div class="max-w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 w-full mq750:gap-measurements-gap-40">
 							<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
-								<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public//leadicon4.svg">
+								<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
+									 alt="" src="/wp-content/themes/business-setup/web/public//leadicon4.svg">
 
 								<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
 									<div class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium">
@@ -3042,7 +3051,8 @@
 				<div class="m-0 w-full relative text-11xl tracking-[-0.5px] leading-[36px] font-medium font-inherit text-text-accent-purple-accent inline-block max-w-[792px] mq450:text-lg mq450:leading-[22px] mq1050:text-5xl mq1050:leading-[29px] mq1050:max-w-full">
 					Idea to thriving reality
 				</div>
-				<div class="w-full">
+				 <div class="slider-wrapper">
+                <div class="slider">
 					<!-- Slide 1 -->
 					<div class="w-full slide">
 						<div class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
@@ -3104,6 +3114,7 @@
 
 					<!-- Add more slides as needed -->
 				</div>
+				 </div>
 
 				<!-- Navigation Buttons -->
 				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">

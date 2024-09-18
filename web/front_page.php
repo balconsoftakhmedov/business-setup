@@ -3054,7 +3054,8 @@
 				 <div class="slider-wrapper">
                 <div class="slider">
 					<!-- Slide 1 -->
-					<div class="w-full slide">
+
+					<div class="w-full slide flex flex-col items-center gap-[30px]">
 						<div class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
 							Their expert guidance turned my business idea into a&nbsp;thriving
 							reality. From getting the right licenses to&nbsp;opening a bank
@@ -3083,7 +3084,7 @@
 						</div>
 					</div>
 					<!-- Slide 2 -->
-					<div class="w-full slide">
+					<div class="w-full slide flex flex-col items-center gap-[30px]">
 						<div class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
 							Their expert guidance turned my business idea into a&nbsp;thriving
 							reality. From getting the right licenses to&nbsp;opening a bank

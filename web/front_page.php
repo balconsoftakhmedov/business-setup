@@ -2876,10 +2876,10 @@
 		<div class="max-w-[1200px] w-full  grid grid-cols-4 gap-[30px] z-[1]    text-left text-5xl text-background-surface-default
 		  lg:justify-center lg:grid-cols-2 mq450:grid-cols-2 mq650:gap-[5px] mq350:grid-cols-1  mq350:gap-[10px]">
 			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden flex
-			flex-col items-start justify-end py-[25px] pl-[25px] pr-5 box-border
-			 gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info@3x.png')]
+			flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
+			 bg-[url('/wp-content/themes/business-setup/web/public/member-info@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] transition-transform duration-300 ease-in-out hover:scale-105
-			 hover:bg-opacity-75 mq450:px-[5px] mq450:py-[5px]">
+			 hover:bg-opacity-75 mq450:px-[15px] mq450:py-[15px]">
 			 <h3
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >
@@ -2917,8 +2917,8 @@
 			</div>
 			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px]  mq350:h-[350px] transition-transform duration-300
 			ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
-			justify-end py-[25px] pl-[25px] pr-5 box-border gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info1@3x.png')]
-			 bg-cover bg-no-repeat bg-[top] mq450:px-[5px] mq450:py-[5px]">
+			justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('/wp-content/themes/business-setup/web/public/member-info1@3x.png')]
+			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
 			 <h3
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >
@@ -2953,8 +2953,9 @@
 			</div>
 			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px] transition-transform duration-300
 			 ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
-			 justify-end py-[25px] pl-[25px] pr-5 box-border gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info2@3x.png')]
-			 bg-cover bg-no-repeat bg-[top] mq450:px-[5px] mq450:py-[5px]">
+			 justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
+			 bg-[url('/wp-content/themes/business-setup/web/public/member-info2@3x.png')]
+			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
 
 				   <h3
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
@@ -2990,9 +2991,11 @@
 
 			</div>
 			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden  transition-transform duration-300
-			 ease-in-out hover:scale-105 hover:bg-opacity-75 flex flex-col items-start justify-end pt-[200px] pb-[25px]
-			 pl-[25px] pr-5 gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info3@3x.png')]
-			  bg-cover bg-no-repeat bg-[top] mq450:px-[5px] mq450:py-[5px]">
+			 ease-in-out hover:scale-105 hover:bg-opacity-75 flex flex-col items-start justify-end
+			  py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
+
+			  bg-[url('/wp-content/themes/business-setup/web/public/member-info3@3x.png')]
+			  bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
 				<h3
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >

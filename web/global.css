@@ -16,42 +16,45 @@ body {
 }
 
 .error404
-    .navigation .navigation-menu.active .menu {
+.navigation .navigation-menu.active .menu {
 
-        background-color: transparent;
+	background-color: transparent;
 
-    }
+}
 
-.error404 .er-back-tr{
-		 background-color: transparent;
+.error404 .er-back-tr {
+	background-color: transparent;
 	color: #ffffff;
 }
 
 .error404
 .navigation .navigation-menu .mobile-switcher span {
 
-    background-color: #fff;
+	background-color: #fff;
 
 }
+
 .error404
 .coltr li a:hover {
-    --tw-bg-opacity: 1;
-    background-color: lightskyblue;
+	--tw-bg-opacity: 1;
+	background-color: lightskyblue;
 }
 
 .error404
 .coltr ul {
-    --tw-bg-opacity: 1;
-    background-color: transparent;
+	--tw-bg-opacity: 1;
+	background-color: transparent;
 }
+
 . /* Custom class to remove border */
 .cf7-no-border {
 	border: none;
 }
 
-.st-wrap{
+.st-wrap {
 	text-wrap: wrap;
 }
+
 /* Custom class to remove outline */
 .cf7-no-outline {
 	outline: none;
@@ -191,59 +194,68 @@ body .intl-tel-input.separate-dial-code .selected-flag {
 	background-color: #fff;
 	display: table;
 }
+
 body .elementor-element:where(.e-con-full,.elementor-widget) {
-    gap: 0px;
+	gap: 0px;
 }
+
 body .elementor-element {
 	padding: 0px;
 }
 
 .cf7-custom-button:hover {
-    background-color: transparent;
-    box-shadow: inset 0 0 0 2px #ffffff; /* White border effect inside */
-    color: #ffffff;
+	background-color: transparent;
+	box-shadow: inset 0 0 0 2px #ffffff; /* White border effect inside */
+	color: #ffffff;
 
 }
+
 body .wpcf7
 form.wpcf7-form {
-    --tw-bg-opacity: 1;
-    background-color: rgb(162 144 97 / var(--tw-bg-opacity));
+	--tw-bg-opacity: 1;
+	background-color: rgb(162 144 97 / var(--tw-bg-opacity));
 	margin-bottom: 0px;
 }
+
 body .stm-f .wpcf7 form .wpcf7-response-output {
-	  bottom: 20px;
+	bottom: 20px;
 
 }
+
 body .stm-f {
-		z-index: 10000000000000;
+	z-index: 10000000000000;
 }
+
 body .stm-f
-select.wpcf7-form-control.wpcf7-select{
-        color: #999999;
+select.wpcf7-form-control.wpcf7-select {
+	color: #999999;
 }
-body .wpcf7 form  .wpcf7-response-output {
-       color: #dc3232 !important;
-    border: unset;
-    border-color: unset !important;
-    padding-top: 0px;
-    margin: 0px;
-    position: absolute;
-    bottom: 10px;
-    text-align: left;
-    padding-left: 50px;
+
+body .wpcf7 form .wpcf7-response-output {
+	color: #dc3232 !important;
+	border: unset;
+	border-color: unset !important;
+	padding-top: 0px;
+	margin: 0px;
+	position: absolute;
+	bottom: 10px;
+	text-align: left;
+	padding-left: 50px;
 }
+
 body .wpcf7 form
 .wpcf7-not-valid-tip {
-    color: #dc3232;
-    font-size: 1em;
-    font-weight: normal;
-    display: block;
-    position: absolute;
+	color: #dc3232;
+	font-size: 1em;
+	font-weight: normal;
+	display: block;
+	position: absolute;
 
 }
+
 .cursor-pointer.hover:scale-110 {
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-	 transition-duration: 300ms;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 300ms;
 }
 
 @property --num {
@@ -571,17 +583,21 @@ nav .parent > ul.sub-menu:before {
 	line-height: 10px;
 	font-size: 10px
 }
-.stm-open .stm-minus{
+
+.stm-open .stm-minus {
 	display: block;
 }
-.stm-open .stm-plus{
+
+.stm-open .stm-plus {
 	display: none;
 }
 
-.stm-open h3{
+
+.stm-open h3 {
 	--tw-text-opacity: 1;
 	color: rgb(83 20 163 / var(--tw-text-opacity))
 }
+
 .navigation .navigation-menu .mobile-switcher {
 	display: none !important;
 	padding: 12px 10px;
@@ -879,6 +895,7 @@ nav .parent > ul.sub-menu:before {
 		padding-bottom: 25px;
 	}
 }
+
 @media (max-width: 782px) {
 	.admin-bar .stm-h {
 		margin-top: 46px;
@@ -972,18 +989,20 @@ body .navigation .ms_lms_course_search_box__popup_button {
 	height: 50px;
 	border-radius: 50%
 }
-input.wpcf7-form-control.wpcf7-phonetext.wpcf7-text.wpcf7-validates-as-phonetext {
-    width: 100%;
-}
-@media (max-width: 950px) {
-  .hide-scrollbar {
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* IE and Edge */
-  }
 
-  .hide-scrollbar::-webkit-scrollbar {
-    display: none; /* Chrome, Safari, and WebKit browsers */
-  }
+input.wpcf7-form-control.wpcf7-phonetext.wpcf7-text.wpcf7-validates-as-phonetext {
+	width: 100%;
+}
+
+@media (max-width: 950px) {
+	.hide-scrollbar {
+		scrollbar-width: none; /* Firefox */
+		-ms-overflow-style: none; /* IE and Edge */
+	}
+
+	.hide-scrollbar::-webkit-scrollbar {
+		display: none; /* Chrome, Safari, and WebKit browsers */
+	}
 }
 
 @media (max-width: 767px) {
@@ -1395,18 +1414,18 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 }
 
 @media (max-width: 1200px) {
-    .navigation .navigation-menu .menu {
-        display: none;
-        width: auto;
-        visibility: hidden;
-        box-shadow: 0 4px 10px -2px rgba(0, 0, 0, .15);
-        opacity: 0;
-        z-index: 2;
-    }
+	.navigation .navigation-menu .menu {
+		display: none;
+		width: auto;
+		visibility: hidden;
+		box-shadow: 0 4px 10px -2px rgba(0, 0, 0, .15);
+		opacity: 0;
+		z-index: 2;
+	}
 }
 
 @media screen and (max-width: 600px) {
-  body   #wpadminbar {
-        position: fixed;
-    }
+	body #wpadminbar {
+		position: fixed;
+	}
 }

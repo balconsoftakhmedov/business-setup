@@ -178,6 +178,42 @@ document.addEventListener('DOMContentLoaded', () => {
 	});
 });
 
+document.addEventListener('DOMContentLoaded', () => {
+    // Get the slider container and all slides
+    const slides = document.querySelectorAll('.slide');
+    const slider = document.querySelector('.slider');
+
+    // Initialize current slide index
+    let currentSlide = 0;
+
+    // Function to show the slide at index n
+    function showSlide(n) {
+        // Ensure index is within bounds
+        if (n >= slides.length) currentSlide = 0;
+        if (n < 0) currentSlide = slides.length - 1;
+
+        // Slide the slider horizontally by setting the transform property
+        slider.style.transform = `translateX(${-currentSlide * 100}%)`;
+    }
+
+    // Add event listeners to the navigation buttons
+    document.getElementById('prevBtn').addEventListener('click', () => {
+        currentSlide--;
+        showSlide(currentSlide);
+    });
+
+    document.getElementById('nextBtn').addEventListener('click', () => {
+        currentSlide++;
+        showSlide(currentSlide);
+    });
+
+    // Initial slide setup
+    showSlide(currentSlide);
+});
+
+
+
+
 
 
 

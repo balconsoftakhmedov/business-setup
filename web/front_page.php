@@ -2873,140 +2873,157 @@
 				</div>
 			</div>
 		</div>
-		<div class="max-w-[1200px] w-full  grid grid-cols-4 gap-[30px] z-[1] text-left
-		 text-smi text-general-white font-button-dm-sans-16
+		<div class="max-w-[1200px] w-full  grid grid-cols-4 gap-[30px] z-[1]    text-left text-5xl text-background-surface-default
 		  lg:justify-center lg:grid-cols-2 mq450:grid-cols-2 mq650:gap-[5px] mq350:grid-cols-1  mq350:gap-[10px]">
-			<div class=" rounded-measurements-radius-xxxl h-[375px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden flex
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden flex
 			flex-col items-start justify-end py-[25px] pl-[25px] pr-5 box-border
 			 gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] transition-transform duration-300 ease-in-out hover:scale-105
 			 hover:bg-opacity-75 mq450:px-[5px] mq450:py-[5px]">
-				<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.01em]
-				 leading-[30px] font-bold font-inherit mq450:text-lgi mq450:leading-[18px] mq650:text-base 	">
-					Arsen
-				</h3>
-				<div class="relative leading-[22px] font-body-b3-merriweather-14 mq650:text-xs mq650:leading-[12px]">
-					Co-founder / Business Consultant
-				</div>
-				<div class="flex flex-row items-center justify-center pt-0 px-0 pb-2.5 text-gray-100">
-					<div class="relative leading-[18px] font-medium">
-						5 years of experience
-					</div>
-				</div>
-				<div class="overflow-hidden flex flex-row items-center justify-start gap-2.5">
+			 <h3
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Mr. Arsen
+              </h3>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Founder
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  loading="lazy"
+                  alt=""
+                  src="./public/twitterfill.svg"
+                />
 
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px] transition-transform duration-300 ease-in-out hover:scale-110" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/link--facebook.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px] transition-transform duration-300 ease-in-out hover:scale-110" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/link--twitter.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px] transition-transform duration-300 ease-in-out hover:scale-110" alt="" src="/wp-content/themes/business-setup/web/public/link--instagram.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px] transition-transform duration-300 ease-in-out hover:scale-110" alt="" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg">
-					</a>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  loading="lazy"
+                  alt=""
+                  src="./public/instagramfill.svg"
+                />
 
-				</div>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  loading="lazy"
+                  alt=""
+                  src="./public/facebookcirclefill.svg"
+                />
+              </div>
 			</div>
-			<div class=" rounded-measurements-radius-xxxl h-[375px] mq450:h-[250px]  mq350:h-[350px] transition-transform duration-300
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px]  mq350:h-[350px] transition-transform duration-300
 			ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
 			justify-end py-[25px] pl-[25px] pr-5 box-border gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info1@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] mq450:px-[5px] mq450:py-[5px]">
-				<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.01em]
-				leading-[30px] font-bold font-inherit mq450:text-lgi mq450:leading-[18px] mq650:text-base">
-					Elena
-				</h3>
-				<div class="relative leading-[22px] font-body-b3-merriweather-14  mq650:text-xs mq650:leading-[12px]">
-					Founder &amp; CEO
-				</div>
-				<div class="flex flex-row items-center justify-center pt-0 px-0 pb-2.5 text-gray-100">
-					<div class="relative leading-[18px] font-medium">
-						5 years of experience
-					</div>
-				</div>
-				<div class="overflow-hidden flex flex-row items-center justify-start gap-2.5">
+			 <h3
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Elena
+              </h3>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Founder & CEO
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/twitterfill.svg"
+                />
 
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--facebook.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--twitter.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--instagram.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg">
-					</a>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/instagramfill.svg"
+                />
 
-				</div>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/facebookcirclefill.svg"
+                />
+              </div>
 			</div>
-			<div class=" rounded-measurements-radius-xxxl h-[375px] mq450:h-[250px] mq350:h-[350px] transition-transform duration-300
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px] transition-transform duration-300
 			 ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
 			 justify-end py-[25px] pl-[25px] pr-5 box-border gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info2@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] mq450:px-[5px] mq450:py-[5px]">
-				<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.01em] leading-[30px]
-				 font-bold font-inherit mq450:text-lgi mq450:leading-[18px] mq650:text-base">
-					Samuel
-				</h3>
-				<div class="relative leading-[22px] font-body-b3-merriweather-14  mq650:text-xs mq650:leading-[12px]">
-					Co-founder / Business Consultant
-				</div>
-				<div class="flex flex-row items-center justify-center pt-0 px-0 pb-2.5 text-gray-100">
-					<div class="relative leading-[18px] font-medium">
-						5 years of experience
-					</div>
-				</div>
-				<div class="overflow-hidden flex flex-row items-center justify-start gap-2.5">
 
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--facebook.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--twitter.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--instagram.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg">
-					</a>
+				   <h3
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Mr. Javlon
+              </h3>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Managing Partner
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/twitterfill.svg"
+                />
 
-				</div>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/instagramfill.svg"
+                />
+
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/facebookcirclefill.svg"
+                />
+              </div>
+
 			</div>
-			<div class=" rounded-measurements-radius-xxxl h-[375px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden  transition-transform duration-300
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden  transition-transform duration-300
 			 ease-in-out hover:scale-105 hover:bg-opacity-75 flex flex-col items-start justify-end pt-[200px] pb-[25px]
 			 pl-[25px] pr-5 gap-[5px] bg-[url('/wp-content/themes/business-setup/web/public/member-info3@3x.png')]
 			  bg-cover bg-no-repeat bg-[top] mq450:px-[5px] mq450:py-[5px]">
-				<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.01em] leading-[30px]
-				 font-bold font-inherit mq450:text-lgi mq450:leading-[18px] mq650:text-base">
-					Jaiden
-				</h3>
-				<div class="relative leading-[22px] font-body-b3-merriweather-14  mq650:text-xs mq650:leading-[12px]">
-					CEO / Head of Business Consultancy
-				</div>
-				<div class="flex flex-row items-center justify-center pt-0 px-0 pb-2.5 text-gray-100">
-					<div class="relative leading-[18px] font-medium">
-						5 years of experience
-					</div>
-				</div>
-				<div class="overflow-hidden flex flex-row items-center justify-start gap-2.5">
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--facebook.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--twitter.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--instagram.svg">
-					</a>
-					<a href="#">
-						<img class="h-[33px] w-[33px] relative rounded min-h-[33px]" alt="" src="/wp-content/themes/business-setup/web/public/link--pinterest.svg">
-					</a>
+				<h3
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Jaiden
+              </h3>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Head of Consulting
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/twitterfill.svg"
+                />
 
-				</div>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/instagramfill.svg"
+                />
+
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="./public/facebookcirclefill.svg"
+                />
+              </div>
 			</div>
 		</div>
 

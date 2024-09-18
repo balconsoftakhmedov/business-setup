@@ -558,6 +558,18 @@ video {
   width: 100%;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 .fixed {
   position: fixed;
 }
@@ -2495,6 +2507,10 @@ video {
   max-width: 1320px;
 }
 
+.max-w-\[1440px\] {
+  max-width: 1440px;
+}
+
 .max-w-\[182\%\] {
   max-width: 182%;
 }
@@ -2585,10 +2601,6 @@ video {
 
 .max-w-full {
   max-width: 100%;
-}
-
-.max-w-\[1440px\] {
-  max-width: 1440px;
 }
 
 .flex-1 {
@@ -3669,6 +3681,10 @@ video {
   background-image: url('/wp-content/themes/business-setup/web/public/title2@3x.png');
 }
 
+.bg-\[url\(\'\/wp-content\/themes\/vision-prime\/web\/public\/numbers-title-container\@3x\.png\'\)\] {
+  background-image: url('/wp-content/themes/vision-prime/web/public/numbers-title-container@3x.png');
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -4238,6 +4254,11 @@ video {
   padding-bottom: 1px;
 }
 
+.py-\[80px\] {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
 .pb-0 {
   padding-bottom: 0px;
 }
@@ -4648,6 +4669,14 @@ video {
 
 .pt-px {
   padding-top: 1px;
+}
+
+.pt-\[80px\] {
+  padding-top: 80px;
+}
+
+.pb-\[80px\] {
+  padding-bottom: 80px;
 }
 
 .text-left {
@@ -8457,6 +8486,36 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
   .mq450\:py-measurements-gap-80-48 {
     padding-top: 80px;
     padding-bottom: 80px;
+  }
+
+  .mq450\:px-\[15px\] {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .mq450\:py-\[15px\] {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .mq450\:px-\[10px\] {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .mq450\:px-\[7px\] {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  .mq450\:px-\[6px\] {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .mq450\:py-\[10px\] {
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 
   .mq450\:pb-5 {

@@ -2566,10 +2566,14 @@
 			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5">
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:300]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:300]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl
+					mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s]
+					ease-out [counter-set:_num_var(--num)]
+					supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:300]'">
 						<span class="supports-[counter-set]:sr-only">300</span>+
 					</b>
+
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
 						customers
 					</div>
@@ -3130,6 +3134,8 @@
 			</div>
 
 	</section>
+
+
 
 	<section class="self-stretch bg-background-surface-neutral flex flex-row items-center justify-center pt-0 px-5 pb-measurements-gap-80 box-border max-w-full text-left text-sm text-text-base-secondary font-body-s-bold lg:gap-measurements-gap-80 mq750:gap-measurements-gap-80">
 		<div class="w-[1062px] flex flex-row items-center justify-center max-w-full [row-gap:20px] mq1050:flex-wrap">

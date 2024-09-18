@@ -2584,7 +2584,7 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]
-					 transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:91]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:91]'">
+					 transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)]" x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:91]'">
 						<span class="supports-[counter-set]:sr-only">91</span>%
 					</b>
 
@@ -2598,8 +2598,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:3]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:3]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px]
+					 mq1050:text-10xl mq1050:leading-[34px] transition-[_--num]
+					  duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:3]'">
 						<span class="supports-[counter-set]:sr-only">3</span>
 					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
@@ -2612,8 +2614,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:2]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:2]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl
+					 mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num]
+					 duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:2]'">
 						<span class="supports-[counter-set]:sr-only">2</span>
 					</b>
 
@@ -2630,8 +2634,11 @@
 			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center flex-wrap content-start gap-x-[16.7px] gap-y-5 ">
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px]
+					mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]
+					transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)]
+					supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:15]'">
 						<span class="supports-[counter-set]:sr-only">15</span>
 					</b>
 
@@ -2645,8 +2652,11 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:10]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:10]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl
+					 mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]
+					 transition-[_--num] duration-[3s] ease-out
+					  [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:10]'">
 						<span class="supports-[counter-set]:sr-only">10</span>
 					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">
@@ -2659,8 +2669,10 @@
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
 
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:15]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:15]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px]
+					 mq1050:text-10xl mq1050:leading-[34px] transition-[_--num]
+					  duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:15]'">
 						<span class="supports-[counter-set]:sr-only">15</span>
 					</b>
 
@@ -2674,8 +2686,8 @@
 					</div>
 				</div>
 				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[285px]">
-					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)] [--num:1000]"
-					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown &amp;&amp; '[--num:1000]'">
+					<b class="self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px] transition-[_--num] duration-[3s] ease-out [counter-set:_num_var(--num)] supports-[counter-set]:before:content-[counter(num)]"
+					   x-data="{ shown: false }" x-intersect="shown = true" :class="shown && '[--num:1000]'">
 						<span class="supports-[counter-set]:sr-only">1000</span>+
 					</b>
 					<div class="self-stretch relative tracking-[-0.2px] leading-[24px] font-medium text-text-base-primary">

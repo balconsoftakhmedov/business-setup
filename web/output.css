@@ -5944,6 +5944,10 @@ nav .parent > ul.sub-menu:before {
   color: white;
 }
 
+.stm-bg-hover:hover .stm-bg {
+  background-color: #924FE8;
+}
+
 /* Container that holds the slider */
 
 .slider-wrapper {

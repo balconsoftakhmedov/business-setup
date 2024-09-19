@@ -5,6 +5,12 @@
 <body>
 <div class="w-full">
 	<div class="text-general-1-primary hover:bg-general-white hidden">test</div>
+
+	<?php
+	include_once ('menu.php');
+
+	?>
+	?>
 	<section
 			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('/wp-content/themes/business-setup/web/public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
 	>

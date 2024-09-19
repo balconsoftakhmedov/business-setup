@@ -103,8 +103,12 @@
 							class="self-stretch flex flex-row items-start justify-center py-0 px-[551px] gap-measurements-gap-16 lg:pl-[275px] lg:pr-[275px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[137px] mq750:pr-[137px] mq750:box-border"
 					>
 						<button
-								class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4"
-						>
+								class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent
+								flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+								 rounded-measurements-radius-xl overflow-hidden flex
+								  flex-row items-center justify-center gap-numbers-4
+								  hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default">
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -115,7 +119,8 @@
 									class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
 							>
 								<div onclick="openModal()"
-									 class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center"
+									 class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px]
+									 text-center"
 								>
 									Start now
 								</div>

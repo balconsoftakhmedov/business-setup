@@ -591,7 +591,9 @@ nav .parent > ul.sub-menu:before {
 .stm-open .stm-plus {
 	display: none;
 }
-
+.stm-hover:hover .stm-white {
+	color: white;
+}
 /* Container that holds the slider */
 .slider-wrapper {
     overflow: hidden;

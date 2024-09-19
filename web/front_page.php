@@ -2100,7 +2100,7 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class=" stm-bg-hover  cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
+					<button onclick="openModal()" class=" stm-bg-hover  cursor-pointer border py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -4579,7 +4579,7 @@
 					<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border">
 						<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
+					<button class="cursor-pointer border py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon12.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">

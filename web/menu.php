@@ -12,9 +12,12 @@
 			</a>
 
 		</div>
-		<div class="flex flex-row items-center justify-center py-5 px-0 box-border gap-[30px] max-w-full mq1024:hidden mq850:gap-5">
+		<div class="flex text-center text-sm text-background-surface-default font-body-s-bold flex-row items-center justify-center
+		py-5 px-0 box-border gap-[30px]
+		max-w-full mq1024:hidden mq850:gap-5">
 			<div class="relative flex flex-col items-end justify-start gap-1.5  group  ">
-				<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/business-setup-services/">
+
+				<a class="[text-decoration:none] relative tracking-[-0.1px] leading-[20px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/business-setup-services/">
 					Business Setup Services <img class="inline-block h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
 transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg" alt="Submenu Icon">
 				</a>
@@ -33,22 +36,22 @@ transform transition-transform duration-300 group-hover:rotate-180" src="/wp-con
 			</div>
 
 			<div class="relative flex flex-col items-end justify-start gap-1.5  ">
-				<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/financial-services/">
+				<a class="[text-decoration:none] relative tracking-[-0.1px] leading-[20px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/financial-services/">
 					Financial Services </a>
 			</div>
 
 			<div class="relative flex flex-col items-end justify-start gap-1.5  ">
-				<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/complex-business-support/">
+				<a class="[text-decoration:none] relative tracking-[-0.1px] leading-[20px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/complex-business-support/">
 					Complex Business Support </a>
 			</div>
 
 			<div class="relative flex flex-col items-end justify-start gap-1.5  ">
-				<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/about/">
+				<a class="[text-decoration:none] relative tracking-[-0.1px] leading-[20px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/about/">
 					About </a>
 			</div>
 
 			<div class="relative flex flex-col items-end justify-start gap-1.5  ">
-				<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/contact/">
+				<a class="[text-decoration:none] relative tracking-[-0.1px] leading-[20px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/contact/">
 					Contact </a>
 			</div>
 		</div>

@@ -23,7 +23,9 @@
 					// Group menu items by their parent IDs
 					$menu_item_parents[ $menu_item->menu_item_parent ][] = $menu_item;
 				}
-				echo '<div class="flex flex-row items-center justify-center py-5 px-0 box-border gap-[30px] max-w-full mq1024:hidden mq850:gap-5">';
+				echo '<div class="flex text-center text-sm text-background-surface-default font-body-s-bold flex-row items-center justify-center
+		py-5 px-0 box-border gap-[30px]
+		max-w-full mq1024:hidden mq850:gap-5">';
 				foreach ( $menu_item_parents[0] as $menu_item ) { // Start with the top-level items
 					$title        = esc_html( $menu_item->title );
 					$url          = esc_url( $menu_item->url );
@@ -31,7 +33,7 @@
 					?>
 
 					<div class="relative flex flex-col items-end justify-start gap-1.5 <?php if ($has_children ): ?> group <?php endif ; ?> ">
-						<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px] uppercase font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="<?php echo $url ?>">
+						<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="<?php echo $url ?>">
 							<?php echo $title ?>
 							<?php if ( $has_children ): ?>
 								<img class="inline-block h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]

@@ -10,9 +10,9 @@
 	include_once ('menu.php');
 
 	?>
-	?>
+
 	<section
-			class="self-stretch overflow-hidden flex flex-col items-start justify-start relative bg-[url('/wp-content/themes/business-setup/web/public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
+			class="self-stretch mt-[-100px] overflow-hidden flex flex-col items-start justify-start relative bg-[url('/wp-content/themes/business-setup/web/public/hero@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-sm text-background-surface-default font-body-s-bold"
 	>
 		<div
 				class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-160-96 px-5 pb-measurements-gap-120 box-border max-w-full mq450:pt-measurements-gap-120 mq450:pb-measurements-gap-120 mq450:box-border mq1050:pt-measurements-gap-120 mq1050:pb-measurements-gap-120 mq1050:box-border"

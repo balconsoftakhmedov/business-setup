@@ -103,25 +103,23 @@
 							class="self-stretch flex flex-row items-start justify-center py-0 px-[551px] gap-measurements-gap-16 lg:pl-[275px] lg:pr-[275px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[137px] mq750:pr-[137px] mq750:box-border"
 					>
 						<button
-								class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent
+								class="cursor-pointer  py-numbers-10 px-numbers-12 bg-text-accent-purple-accent
 								flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
 								 rounded-measurements-radius-xl overflow-hidden flex
 								  flex-row items-center justify-center gap-numbers-4
 								  hover:text-general-1-primary hover:bg-general-white font-medium
-								  font-body-s-bold text-background-surface-default">
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
 									src="/wp-content/themes/business-setup/web/public/leadicon.svg"
 							/>
 
-							<div
-									class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
-							>
+							<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
 								<div onclick="openModal()"
 									 class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px]
-									 text-center"
-								>
+									 text-center">
 									Start now
 								</div>
 							</div>
@@ -451,11 +449,17 @@
 							you&nbsp;have.
 						</div>
 					</div>
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button onclick="openModal()" class="cursor-pointer [border:none]
+					py-numbers-6 px-numbers-10 bg-text-accent-purple-accent
+					 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg
+					 overflow-hidden flex flex-row items-center justify-center gap-numbers-2
+						  hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold  text-center inline-block min-w-[66px]">
 								Start now
 							</div>
 						</div>
@@ -487,11 +491,17 @@
 							needs.
 						</div>
 					</div>
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6
+					px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					rounded-measurements-radius-lg overflow-hidden flex flex-row items-center
+					justify-center gap-numbers-2   hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold
+							 text-center inline-block min-w-[66px]">
 								Start now
 							</div>
 						</div>
@@ -523,11 +533,18 @@
 							Getting a trade license in Dubai usually only takes a few days, but to avoid any hiccups, it’s best to leave it to us. We’ll handle the paperwork, and select the right trade license for you, and soon your company will be legally ready to operate.
 						</div>
 					</div>
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6
+					px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					rounded-measurements-radius-lg overflow-hidden
+					flex flex-row items-center justify-center gap-numbers-2
+					 hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px]
+							ont-medium font-body-s-bold text-center inline-block min-w-[66px]">
 								Start now
 							</div>
 						</div>
@@ -559,11 +576,18 @@
 							We’ll handle the business visa Dubai and Emirates ID application process for you and your team, so you can stay focused on your business. Need a license or UAE visa extension down the line? We can take care of that in no time too.
 						</div>
 					</div>
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6
+					 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					 rounded-measurements-radius-lg overflow-hidden
+					 flex flex-row items-center justify-center gap-numbers-2
+						  hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px]
+							font-medium font-body-s-bold text-center inline-block min-w-[66px]">
 								Start now
 							</div>
 						</div>
@@ -597,11 +621,18 @@
 							the Emirates.
 						</div>
 					</div>
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6 px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-lg overflow-hidden flex flex-row items-center justify-center gap-numbers-2">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-6
+					px-numbers-10 bg-text-accent-purple-accent shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					rounded-measurements-radius-lg overflow-hidden flex flex-row
+					items-center justify-center gap-numbers-2
+					  hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/applefill.svg">
 
 						<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[66px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px]
+							 font-medium font-body-s-bold text-center inline-block min-w-[66px]">
 								Start now
 							</div>
 						</div>
@@ -1888,11 +1919,20 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none]
+					 py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					  rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center
+					     hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary  gap-numbers-4
+  hover:text-general-1-primary hover:bg-general-white font-medium
+								  font-body-s-bold text-background-surface-default border
+								  hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[64px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium
+							font-body-s-bold text-center inline-block min-w-[64px]">
 								Avail now
 							</div>
 						</div>
@@ -2003,11 +2043,14 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch
+					 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					  rounded-measurements-radius-xl
+					  overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[64px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center inline-block min-w-[64px]">
 								Avail now
 							</div>
 						</div>
@@ -2121,11 +2164,11 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center inline-block min-w-[64px]">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center inline-block min-w-[64px]">
 								Avail now
 							</div>
 						</div>
@@ -3439,11 +3482,11 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center">
 								Buy now
 							</div>
 						</div>
@@ -3554,11 +3597,11 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center">
 								Buy now
 							</div>
 						</div>
@@ -3673,11 +3716,11 @@
 					</div>
 					<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/divider-1.svg">
 
-					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button onclick="openModal()" class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon18.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center">
 								Buy now
 							</div>
 						</div>
@@ -4604,11 +4647,11 @@
 					<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border">
 						<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
 					</div>
-					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4">
+					<button class="cursor-pointer [border:none] py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon12.svg">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center">
+							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center">
 								Submit
 							</div>
 						</div>

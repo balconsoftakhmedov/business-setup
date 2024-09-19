@@ -3329,6 +3329,10 @@ video {
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
 }
 
+.border-custom-gold {
+  border-color: rgba(162, 144, 97, var(--tw-text-opacity));
+}
+
 .border-opacity-50 {
   --tw-border-opacity: 0.5;
 }
@@ -6822,6 +6826,14 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
   --tw-scale-x: 1.1;
   --tw-scale-y: 1.1;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.hover\:border-\[1px\]:hover {
+  border-width: 1px;
+}
+
+.hover\:border-\[2px\]:hover {
+  border-width: 2px;
 }
 
 .hover\:border-solid:hover {

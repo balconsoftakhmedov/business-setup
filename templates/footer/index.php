@@ -47,6 +47,7 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 					</div>
 				</div>
 			</div>
+			<!--
 			<div class="w-[568px] rounded-measurements-radius-xxxl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-measurements-gap-24 min-w-[320px] max-w-full text-sm text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
 				<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-16 max-w-full">
 					<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
@@ -326,6 +327,9 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 					<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon12.svg">
 				</button>
 			</div>
+		!-->
+
+			<?php echo do_shortcode( '[contact-form-7 id="c84e357" title="Contact footer"]' ); ?>
 		</div>
 	</div>
 </section>
@@ -483,11 +487,12 @@ $white_logo_image = wp_get_attachment_image_src( $custom_white_logo_id, 'full' )
 			</div>
 
 
-			<b
-					class="self-stretch h-[72px] relative leading-[24px] inline-block"
-			>Office 105, Level 1, Emaar Square – Building 4, Sheikh Mohammed
-				Bin Rashid Boulevard Downtown Dubai, United Arab Emirates</b
-			>
+			<b class="self-stretch h-[72px] relative leading-[24px] inline-block" >
+				<a class="hover:[text-decoration:underline]" href="https://www.google.com/maps/search/Office+105,+Level+1,+Emaar+Square+%E2%80%93+Building+4,+Sheikh+Mohammed+Bin+Rashid+Boulevard+Downtown+Dubai,+United+Arab+Emirates/@25.0756584,54.8978306,103733m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D">
+				Office 105, Level 1, Emaar Square – Building 4, Sheikh Mohammed
+				Bin Rashid Boulevard Downtown Dubai, United Arab Emirates
+			</a>
+			</b>
 		</div>
 	</div>
 	<div

@@ -4704,7 +4704,7 @@ video {
 }
 
 .font-paragraph-16 {
-  font-family: 'Open Sans';
+  font-family: 'Inter';
 }
 
 .font-poppins {
@@ -4712,7 +4712,7 @@ video {
 }
 
 .font-primary-paragraph-paragraph-5 {
-  font-family: 'Eudoxus Sans';
+  font-family: 'Inter';
 }
 
 .font-sans {
@@ -5184,6 +5184,11 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+.outline-none {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
 .outline {
   outline-style: solid;
 }
@@ -5479,6 +5484,11 @@ body {
   min-width: 115px;
 }
 
+.stm_menu-sticky{
+  position: sticky;
+  background-color: rgba(146, 79, 232, 0.3);
+}
+
 .cf7-custom-button {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -5487,7 +5497,7 @@ body {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Inter';
   text-align: center;
   min-width: 91px;
   display: inline-block;
@@ -5508,6 +5518,7 @@ body {
   /* White background */
   color: #000000;
   /* Black text color */
+  border-radius: 10px;
 }
 
 .cf7-custom-input::-moz-placeholder {
@@ -5558,8 +5569,6 @@ body .elementor-element {
 
 body .wpcf7
 form.wpcf7-form {
-  --tw-bg-opacity: 1;
-  background-color: rgb(162 144 97 / var(--tw-bg-opacity));
   margin-bottom: 0px;
 }
 
@@ -5574,6 +5583,21 @@ body .stm-f {
 body .stm-f
 select.wpcf7-form-control.wpcf7-select {
   color: #999999;
+  border-radius: 10px;
+}
+
+body .cf7-custom-button {
+  border-radius: 10px;
+  background-color: transparent;
+  border: 1px solid;
+  width: 100%;
+  line-height: 10px;
+}
+
+body .cf7-custom-button:hover {
+  background-color: #fff;
+  border-color: #924FE8;
+  color: #924FE8;
 }
 
 body .wpcf7 form .wpcf7-response-output {
@@ -5934,6 +5958,36 @@ nav .parent > ul.sub-menu:before {
 
 .stm-open .stm-minus {
   display: block;
+}
+
+.cf7-no-focus-border:focus {
+  outline: none;
+  border: none;
+}
+
+.stm-p-no{
+  width: 100%;
+}
+
+.stm-p-no br{
+  display: none;
+}
+
+.stm-p-no input{
+  width: 100%;
+}
+
+.stm-p-no p {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+
+.stm-p-no p textarea {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
 }
 
 .stm-open .stm-plus {

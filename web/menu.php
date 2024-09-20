@@ -1,4 +1,4 @@
-<header class="stm-h self-stretch  er-back-tr coltr
+<header class="stm-h stm_menu-sticky self-stretch  er-back-tr coltr
 		flex flex-row items-center justify-center py-[15px] box-border
 		top-[0] z-[11111] sticky mq950:fixed mq780: max-w-full gap-5 text-right text-base text-white font-subtitles-16  lg:box-border  mq450:box-border mq850:box-border">
 	<div class="max-w-[1200px] flex flex-row items-end justify-between w-full mq650:pl-[20px] mq650:pr-[10px]

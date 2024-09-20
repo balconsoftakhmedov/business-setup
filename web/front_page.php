@@ -4288,7 +4288,7 @@
 	<section class="self-stretch flex flex-col items-center justify-start bg-[url('./public/feedback-form@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full z-[2] text-left text-base text-background-surface-default font-body-s-bold">
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 			<div class="w-[1200px] flex flex-row items-center justify-start flex-wrap content-center py-0 pl-0 pr-1.5 box-border gap-x-[74px] gap-y-20 max-w-full lg:gap-[37px] mq750:gap-[18px]">
-				<div class="flex-1 flex flex-col items-start justify-start min-w-[288px] max-w-full">
+				<div class="flex-1 flex flex-col items-start justify-start min-w-[288px] max-w-full  h-full">
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-24">
 						<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
 							<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon4.svg">
@@ -4323,6 +4323,7 @@
 						</div>
 					</div>
 				</div>
+<!--
 				<div class="w-[568px] rounded-measurements-radius-xxxl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-measurements-gap-24 min-w-[320px] max-w-full text-sm text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
 					<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-16 max-w-full">
 						<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
@@ -4579,29 +4580,217 @@
 					<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border">
 						<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
 					</div>
-					<button class="cursor-pointer border py-numbers-10 px-5 bg-text-accent-purple-accent self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 hover:text-general-1-primary hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary ">
-						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon12.svg">
+					<button class="cursor-pointer border py-numbers-10 px-5
+					bg-text-accent-purple-accent self-stretch
+					shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					rounded-measurements-radius-xl overflow-hidden
+					flex flex-row items-center justify-center
+					gap-numbers-4 hover:text-general-1-primary
+					 hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border
+					  hover:border-solid hover:border-[1px] border-general-1-primary ">
 
 						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
 							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center">
 								Submit
 							</div>
 						</div>
-						<div class="hidden flex-col items-center justify-center">
-							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
-										16
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
-						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon12.svg">
 					</button>
+
 				</div>
+			!-->
+				<div class="wpcf7 js" id="wpcf7-f784-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true">One or more fields have an error. Please check and try again.</p> <ul><li id="wpcf7-f784-o1-ve-your-name">Please fill out this field.</li><li id="wpcf7-f784-o1-ve-your-email">Please fill out this field.</li><li id="wpcf7-f784-o1-ve-your-phone">Please fill out this field.</li><li id="wpcf7-f784-o1-ve-your-message">Please fill out this field.</li></ul></div>
+<form action="/#wpcf7-f784-o1" method="post" class="wpcf7-form invalid" aria-label="Contact form" novalidate="novalidate" data-status="invalid">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="784">
+<input type="hidden" name="_wpcf7_version" value="5.9.8">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f784-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<!-- Start of the form -->
+<div class="w-[568px] rounded-measurements-radius-xxxl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-measurements-gap-24 min-w-[320px] max-w-full text-sm text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
+	<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-16 max-w-full">
+ <!-- First row: Full name and Email -->
+		<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
+ <!-- Full name field -->
+			<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
+ <!-- Label -->
+				<div class="self-stretch flex flex-row items-start justify-start">
+					<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+							<p>Full name
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
+							<p>(optional)
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
+							<p>*
+							</p>
+						</div>
+					</div>
+					<p><img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+					</p>
+				</div>
+ <!-- Input -->
+				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-no-focus-border w-full border-none outline-none bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Enter your full name" value="" type="text" name="your-name" aria-describedby="wpcf7-f784-o1-ve-your-name"></span>
+						</p>
+					</div>
+				</div>
+			</div>
+ <!-- Email field -->
+			<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
+ <!-- Label -->
+				<div class="self-stretch flex flex-row items-start justify-start">
+					<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+							<p>Email
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
+							<p>(optional)
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
+							<p>*
+							</p>
+						</div>
+					</div>
+					<p><img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+					</p>
+				</div>
+ <!-- Input -->
+				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Type your email" value="" type="email" name="your-email" aria-describedby="wpcf7-f784-o1-ve-your-email"><span class="wpcf7-not-valid-tip" aria-hidden="true">Please fill out this field.</span></span>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+ <!-- Second row: Phone number and Service Required -->
+		<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
+ <!-- Phone number field -->
+			<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
+ <!-- Label -->
+				<div class="self-stretch flex flex-row items-start justify-start">
+					<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+							<p>Phone number
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
+							<p>(optional)
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
+							<p>*
+							</p>
+						</div>
+					</div>
+					<p><img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+					</p>
+				</div>
+ <!-- Input -->
+				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel w-full cf7-no-border cf7-no-outline bg-transparent flex flex-row items-center justify-start py-0 px-1 box-border text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Your phone number" value="" type="tel" name="your-phone" aria-describedby="wpcf7-f784-o1-ve-your-phone"><span class="wpcf7-not-valid-tip" aria-hidden="true">Please fill out this field.</span></span>
+						</p>
+					</div>
+				</div>
+			</div>
+ <!-- Service Required field -->
+			<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
+ <!-- Label -->
+				<div class="self-stretch flex flex-row items-start justify-start">
+					<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+							<p>Service Required
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
+							<p>(optional)
+							</p>
+						</div>
+						<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
+							<p>*
+							</p>
+						</div>
+					</div>
+					<p><img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+					</p>
+				</div>
+ <!-- Select -->
+				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-service"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-between py-0 px-1 box-border text-sm text-text-base-tertiary" aria-required="true" aria-invalid="false" name="your-service"><option value="Please select">Please select</option><option value="Business Setup Services">Business Setup Services</option><option value="Financial Services">Financial Services</option><option value="Complex Business Support">Complex Business Support</option></select></span>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+ <!-- Message field -->
+		<div class="self-stretch h-28 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[144px] max-w-full">
+ <!-- Label -->
+			<div class="self-stretch flex flex-row items-start justify-start">
+				<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
+					<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
+						<p>How can we help?
+						</p>
+					</div>
+					<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
+						<p>(optional)
+						</p>
+					</div>
+					<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
+						<p>*
+						</p>
+					</div>
+				</div>
+				<p><img class="h-6 w-6 relative hidden" alt="" src="./public/tooltip-trigger.svg">
+				</p>
+			</div>
+ <!-- Textarea -->
+			<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start max-w-full h-full">
+				<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border overflow-hidden flex flex-row items-center justify-start py-2 px-[11px] max-w-full stm-p-no">
+					<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Type your message" name="your-message" aria-describedby="wpcf7-f784-o1-ve-your-message"></textarea><span class="wpcf7-not-valid-tip" aria-hidden="true">Please fill out this field.</span></span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+ <!-- Divider -->
+	<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border mt-[30px]">
+		<p><img class="w-[300px] self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
+		</p>
+	</div>
+ <!-- Submit button -->
+	<div class="stm-p-no">
+		<p><button class="cursor-pointer border py-numbers-10 px-5
+					bg-text-accent-purple-accent self-stretch
+					shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+					rounded-measurements-radius-xl overflow-hidden
+					flex flex-row items-center justify-center
+					gap-numbers-4 hover:text-general-1-primary
+					 hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border   hover:border-solid hover:border-[1px] border-general-1-primary w-full"><br>
+<span class="flex flex-row items-center justify-center py-0 px-[3px]"><br>
+<span class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center"><br>
+Submit<br>
+</span><br>
+</span><br>
+</button>
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true">One or more fields have an error. Please check and try again.</div>
+</form>
+</div>
+
 			</div>
 		</div>
 	</section>

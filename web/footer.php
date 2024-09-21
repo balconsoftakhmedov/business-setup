@@ -255,8 +255,6 @@ Submit<br>
 <footer class="self-stretch  flex flex-col items-center justify-start pt-20 px-0 pb-0
 		box-border relative gap-[58px] max-w-full text-left text-base text-text-accent-purple-accent font-body-s-bold
 		mq450:pt-[52px] mq450:box-border mq850:gap-[29px]">
-	<img class="w-full h-full absolute !m-[0] top-[0px] right-[0px] bottom-[1px] left-[0px] max-w-full overflow-hidden max-h-full object-contain hidden z-[0]" alt=""
-		 src="/wp-content/themes/business-setup/web/public/transparentgreencreativitymodernartinkcolorsareamazinglybrightluminoustranslucentfreeflowingdryquicklynaturalpatternluxuryabstractartworktrendystyle@2x.png">
 
 	<div class="w-[1210px] flex flex-row items-start justify-start flex-wrap content-start py-0 px-5 box-border gap-[30px] max-w-full">
 		<div class="flex-1 flex flex-col items-start justify-start relative gap-[22px] min-w-[277px] max-w-full text-sm-2 text-text-base-primary font-poppins">

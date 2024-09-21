@@ -15,8 +15,12 @@ body {
   width: 100%;
 }
 
-.stm-logo-white, .stm-logo-black {
+.stm-logo-white{
   display: none;
+}
+
+ .stm-logo-black {
+  display: block;
 }
 
 .home {

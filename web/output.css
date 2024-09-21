@@ -1242,10 +1242,6 @@ video {
   min-height: 58px;
 }
 
-.min-h-\[60px\] {
-  min-height: 60px;
-}
-
 .min-h-\[768px\] {
   min-height: 768px;
 }
@@ -1446,10 +1442,6 @@ video {
   width: 53px;
 }
 
-.w-\[568px\] {
-  width: 568px;
-}
-
 .w-\[57\%\] {
   width: 57%;
 }
@@ -1522,10 +1514,6 @@ video {
   min-width: 112px;
 }
 
-.min-w-\[114px\] {
-  min-width: 114px;
-}
-
 .min-w-\[115px\] {
   min-width: 115px;
 }
@@ -1544,10 +1532,6 @@ video {
 
 .min-w-\[125px\] {
   min-width: 125px;
-}
-
-.min-w-\[127px\] {
-  min-width: 127px;
 }
 
 .min-w-\[135px\] {
@@ -1626,10 +1610,6 @@ video {
   min-width: 300px;
 }
 
-.min-w-\[30px\] {
-  min-width: 30px;
-}
-
 .min-w-\[314px\] {
   min-width: 314px;
 }
@@ -1648,10 +1628,6 @@ video {
 
 .min-w-\[374px\] {
   min-width: 374px;
-}
-
-.min-w-\[37px\] {
-  min-width: 37px;
 }
 
 .min-w-\[42px\] {
@@ -1690,10 +1666,6 @@ video {
   min-width: 82px;
 }
 
-.min-w-\[88px\] {
-  min-width: 88px;
-}
-
 .min-w-\[92px\] {
   min-width: 92px;
 }
@@ -1704,10 +1676,6 @@ video {
 
 .min-w-\[97px\] {
   min-width: 97px;
-}
-
-.min-w-\[98px\] {
-  min-width: 98px;
 }
 
 .max-w-\[1170px\] {
@@ -2296,10 +2264,6 @@ video {
 .border-text-accent-purple-accent {
   --tw-border-opacity: 1;
   border-color: rgb(146 79 232 / var(--tw-border-opacity));
-}
-
-.bg-\[transparent\] {
-  background-color: transparent;
 }
 
 .bg-background-accent-green-accent {
@@ -3064,10 +3028,6 @@ video {
   padding-left: 2px;
 }
 
-.pl-numbers-4 {
-  padding-left: 4px;
-}
-
 .pr-0 {
   padding-right: 0px;
 }
@@ -3599,10 +3559,6 @@ video {
   filter: drop-shadow(0px 100px 146px rgba(0, 0, 0, 0.1)) drop-shadow(0px 41.8px 61px rgba(0, 0, 0, 0.07)) drop-shadow(0px 22.3px 32.6px rgba(0, 0, 0, 0.06)) drop-shadow(0px 12.5px 18.3px rgba(0, 0, 0, 0.05)) drop-shadow(0px 6.7px 9.7px rgba(0, 0, 0, 0.04)) drop-shadow(0px 2.8px 4px rgba(0, 0, 0, 0.03));
 }
 
-.\[outline\:none\] {
-  outline: none;
-}
-
 .\[row-gap\:20px\] {
   row-gap: 20px;
 }
@@ -3642,7 +3598,7 @@ body .stm-menu-colors, body .stm-dropdown {
 
 body .stm-dropdown {
   color: rgba(15, 19, 36, 0.6);
-  background: #fff !important;
+  background: rgb(247 247 248/var(--tw-bg-opacity)) !important;
   border: 1px solid rgba(15, 19, 36, 0.6);
 }
 
@@ -5466,6 +5422,10 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 @media (max-width: 1200px) {
   .mq1170\:w-full {
     width: 100%;
+  }
+
+  .mq1170\:max-w-full {
+    max-width: 100%;
   }
 
   .mq1170\:px-\[20px\] {

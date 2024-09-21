@@ -22,7 +22,7 @@ body .stm-menu-colors, body .stm-dropdown {
 }
 body .stm-dropdown {
   color: rgba(15, 19, 36, 0.6);
-  background: #fff !important;
+  background: rgb(247 247 248/var(--tw-bg-opacity)) !important;
   border: 1px solid rgba(15, 19, 36, 0.6);
 }
 body .stm-logo-white {

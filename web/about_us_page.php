@@ -3,9 +3,12 @@
 <?php include_once( 'header.php' );
 ?>
 <body>
-<div
-		class="w-full relative flex flex-col items-start justify-start leading-[normal] tracking-[normal] text-center text-sm text-text-accent-blue-inverted font-body-s-bold"
->
+
+<?php
+	include_once( 'menu.php' );
+	?>
+<div  class="w-full" >
+
 	<section
 			class="self-stretch bg-background-surface-neutral overflow-hidden flex flex-col items-start justify-start relative max-w-full text-center text-41xl text-text-base-primary font-body-s-bold"
 	>
@@ -13,7 +16,8 @@
 				class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-160-96 px-5 pb-measurements-gap-120 box-border max-w-full mq800:pt-measurements-gap-120 mq800:pb-measurements-gap-120 mq800:box-border"
 		>
 			<div
-					class="w-[1200px] flex flex-col items-center justify-start gap-numbers-40 max-w-full mq800:gap-numbers-40"
+					class="max-w-[1200px] flex flex-col items-center justify-start
+					gap-numbers-40 w-full mq800:gap-numbers-40"
 			>
 				<button
 						class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue  h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center gap-numbers-4"
@@ -37,11 +41,7 @@
 								Business set up Dubai
 							</div>
 						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon.svg"
-						/>
+
 					</div>
 				</button>
 				<div
@@ -52,12 +52,12 @@
 					>
 						Your Premier Business Setup Partner in the UAE
 					</h1>
-					<h3
+					<div
 							class="m-0 w-[598px] relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Clients run their businesses, while we are taking care of the
 						rest.
-					</h3>
+					</div>
 				</div>
 				<div
 						class="self-stretch flex flex-row items-start justify-start flex-wrap content-start gap-x-[34px] gap-y-10 max-w-full text-left text-base text-text-base-secondary mq800:gap-[17px]"
@@ -79,119 +79,7 @@
 						succeed too.
 					</div>
 				</div>
-				<div
-						class="self-stretch hidden flex-col items-center justify-start gap-numbers-16 text-sm text-background-surface-default"
-				>
-					<div
-							class="self-stretch flex flex-row items-start justify-center gap-measurements-gap-16 mq450:flex-wrap"
-					>
-						<div
-								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-text-base-primary overflow-hidden flex flex-row items-center justify-center py-numbers-10 px-numbers-12 gap-numbers-4"
-						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon.svg"
-							/>
-
-							<div
-									class="flex flex-row items-center justify-center py-0 px-numbers-4"
-							>
-								<div
-										class="relative tracking-[-0.1px] leading-[20px] font-medium"
-								>
-									Mac App Store
-								</div>
-							</div>
-							<div
-									class="hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											16
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/tailicon2.svg"
-							/>
-						</div>
-						<div
-								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
-						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
-
-							<div
-									class="flex flex-row items-center justify-center py-0 px-numbers-4"
-							>
-								<div
-										class="relative tracking-[-0.1px] leading-[20px] font-medium"
-								>
-									Buy Directly
-								</div>
-							</div>
-							<div
-									class="flex flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/tailicon3.svg"
-							/>
-						</div>
-					</div>
-					<div
-							class="w-full relative tracking-[-0.1px] leading-[20px] text-text-base-tertiary inline-block max-w-[390px] mq450:max-w-full"
-					>
-						No in-app purchases.
-					</div>
-				</div>
+				
 			</div>
 		</div>
 		<div
@@ -292,273 +180,7 @@
 				</div>
 			</div>
 		</div>
-		<header
-				class="w-measurements-device-width !m-[0] absolute top-[0px] right-[0px] left-[0px] overflow-hidden flex flex-row items-center justify-center py-numbers-16 px-measurements-gap-120-24 box-border gap-measurements-gap-32-24 max-w-full z-[1] text-center text-sm text-text-base-secondary font-body-s-bold mq800:gap-measurements-gap-32-24 mq800:pl-measurements-gap-120-24 mq800:pr-measurements-gap-120-24 mq800:box-border mq450:pl-measurements-gap-120-24 mq450:pr-measurements-gap-120-24 mq450:box-border"
-		>
-			<div
-					class="flex flex-row items-center justify-start text-left text-sm-2 text-black font-poppins"
-			>
-				<div class="flex flex-row items-end justify-start gap-[8.3px]">
-					<img
-							class="h-8 w-[22.1px] relative overflow-hidden shrink-0"
-							loading="lazy"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/burj-alarab.svg"
-					/>
 
-					<a
-							class="[text-decoration:none] relative leading-[13.2px] uppercase font-semibold text-[inherit]"
-					>
-						<p class="m-0">Business</p>
-						<p class="m-0">set up Dubai</p>
-					</a>
-				</div>
-			</div>
-			<div
-					class="flex-1 flex flex-row items-center justify-end py-0 pl-[331px] pr-0 box-border gap-numbers-24 max-w-full mq800:pl-[82px] mq800:box-border mq450:pl-5 mq450:box-border mq1125:pl-[165px] mq1125:box-border"
-			>
-				<div
-						class="flex flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<a
-							class="[text-decoration:none] flex-1 relative tracking-[-0.1px] leading-[20px] font-medium text-[inherit]"
-					>Business Setup Services</a
-					>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="flex flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<a
-							class="[text-decoration:none] flex-1 relative tracking-[-0.1px] leading-[20px] font-medium text-[inherit] inline-block min-w-[121px]"
-					>Financial Services</a
-					>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="flex-1 flex flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<a
-							class="[text-decoration:none] flex-1 relative tracking-[-0.1px] leading-[20px] font-medium text-[inherit]"
-					>Complex Business Support</a
-					>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="flex flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<a
-							class="[text-decoration:none] flex-1 relative tracking-[-0.1px] leading-[20px] font-medium text-[inherit] inline-block min-w-[42px]"
-					>About</a
-					>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="flex flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<a
-							class="[text-decoration:none] flex-1 relative tracking-[-0.1px] leading-[20px] font-medium text-[inherit]"
-					>Contact</a
-					>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="hidden flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<div
-							class="relative tracking-[-0.1px] leading-[20px] font-medium"
-					>
-						Label
-					</div>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="hidden flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<div
-							class="relative tracking-[-0.1px] leading-[20px] font-medium"
-					>
-						Label
-					</div>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="hidden flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<div
-							class="relative tracking-[-0.1px] leading-[20px] font-medium"
-					>
-						Label
-					</div>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-			</div>
-			<div class="hidden flex-row items-center justify-end gap-numbers-16">
-				<div
-						class="flex flex-row items-center justify-center gap-numbers-6"
-				>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/aliensline.svg"
-					/>
-
-					<div
-							class="relative tracking-[-0.1px] leading-[20px] font-medium"
-					>
-						Log in
-					</div>
-					<img
-							class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg"
-					/>
-				</div>
-				<div
-						class="flex flex-row items-start justify-start text-text-base-primary"
-				>
-					<div
-							class="rounded-measurements-radius-lg bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center py-numbers-6 px-numbers-10 gap-numbers-2"
-					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon3.svg"
-						/>
-
-						<div
-								class="flex flex-row items-center justify-center py-0 px-numbers-4"
-						>
-							<div
-									class="relative tracking-[-0.1px] leading-[20px] font-medium"
-							>
-								Sign up
-							</div>
-						</div>
-						<div
-								class="self-stretch hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-						>
-							<div
-									class="flex-1 rounded-measurements-radius-sm bg-background-surface-default border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-							>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-								/>
-
-								<div
-										class="flex flex-row items-center justify-center py-0 px-numbers-3"
-								>
-									<div class="relative leading-[16px] font-medium">16</div>
-								</div>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-								/>
-							</div>
-						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon4.svg"
-						/>
-					</div>
-				</div>
-				<div class="hidden flex-row items-start justify-start">
-					<div
-							class="rounded-measurements-radius-lg bg-background-overlay-normal overflow-hidden flex flex-row items-center justify-center p-numbers-8"
-					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon-1.svg"
-						/>
-					</div>
-				</div>
-			</div>
-		</header>
 	</section>
 	<section
 			class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold"
@@ -668,11 +290,7 @@
 						<div
 								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
 						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
+							
 
 							<div
 									class="flex flex-row items-center justify-center py-0 px-numbers-4"
@@ -683,32 +301,7 @@
 									Learn more
 								</div>
 							</div>
-							<div
-									class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
+							
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -793,32 +386,7 @@
 								Learn more
 							</div>
 						</div>
-						<div
-								class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-						>
-							<div
-									class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-							>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-								/>
-
-								<div
-										class="flex flex-row items-center justify-center py-0 px-numbers-3"
-								>
-									<div class="relative leading-[16px] font-medium">
-										$9.9
-									</div>
-								</div>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-								/>
-							</div>
-						</div>
+						
 						<img
 								class="h-4 w-4 relative overflow-hidden shrink-0"
 								alt=""
@@ -2408,20 +1976,12 @@
 									/>
 								</div>
 							</div>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/tailicon2.svg"
-							/>
+							
 						</div>
 						<div
 								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
 						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
+							
 
 							<div
 									class="flex flex-row items-center justify-center py-0 px-numbers-4"
@@ -2432,32 +1992,7 @@
 									Learn more
 								</div>
 							</div>
-							<div
-									class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
+						
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -2741,11 +2276,7 @@
 						<div
 								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
 						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
+							
 
 							<div
 									class="flex flex-row items-center justify-center py-0 px-numbers-4"
@@ -2756,32 +2287,7 @@
 									Learn more
 								</div>
 							</div>
-							<div
-									class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
+							
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -2866,32 +2372,7 @@
 								Learn more
 							</div>
 						</div>
-						<div
-								class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-						>
-							<div
-									class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-							>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-								/>
-
-								<div
-										class="flex flex-row items-center justify-center py-0 px-numbers-3"
-								>
-									<div class="relative leading-[16px] font-medium">
-										$9.9
-									</div>
-								</div>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-								/>
-							</div>
-						</div>
+						
 						<img
 								class="h-4 w-4 relative overflow-hidden shrink-0"
 								alt=""
@@ -4532,11 +4013,7 @@
 						<div
 								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
 						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
+							
 
 							<div
 									class="flex flex-row items-center justify-center py-0 px-numbers-4"
@@ -4547,32 +4024,7 @@
 									Learn more
 								</div>
 							</div>
-							<div
-									class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
+							
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -5453,32 +4905,7 @@
 								Get lifetime access
 							</div>
 						</div>
-						<div
-								class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-						>
-							<div
-									class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-							>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-								/>
-
-								<div
-										class="flex flex-row items-center justify-center py-0 px-numbers-3"
-								>
-									<div class="relative leading-[16px] font-medium">
-										$9.9
-									</div>
-								</div>
-								<img
-										class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-								/>
-							</div>
-						</div>
+						
 						<img
 								class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 								alt=""
@@ -6110,32 +5537,7 @@
 											Learn more
 										</div>
 									</div>
-									<div
-											class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-									>
-										<div
-												class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-										>
-											<img
-													class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-													alt=""
-													src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-											/>
-
-											<div
-													class="flex flex-row items-center justify-center py-0 px-numbers-3"
-											>
-												<div class="relative leading-[16px] font-medium">
-													$9.9
-												</div>
-											</div>
-											<img
-													class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-													alt=""
-													src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-											/>
-										</div>
-									</div>
+									
 									<img
 											class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 											alt=""
@@ -6316,11 +5718,7 @@
 						<div
 								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
 						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
+							
 
 							<div
 									class="flex flex-row items-center justify-center py-0 px-numbers-4"
@@ -6331,32 +5729,7 @@
 									Learn more
 								</div>
 							</div>
-							<div
-									class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
+							
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -6519,11 +5892,7 @@
 						<div
 								class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary"
 						>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/leadicon2.svg"
-							/>
+							
 
 							<div
 									class="flex flex-row items-center justify-center py-0 px-numbers-4"
@@ -6534,37 +5903,8 @@
 									Learn more
 								</div>
 							</div>
-							<div
-									class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary"
-							>
-								<div
-										class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
+							
 
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
-							<img
-									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
-									alt=""
-									src="/wp-content/themes/business-setup/web/public/tailicon3.svg"
-							/>
 						</div>
 					</div>
 				</div>

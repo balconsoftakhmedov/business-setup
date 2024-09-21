@@ -40,17 +40,23 @@ body {
 	color: #fff;
   }
 
-}
-
-.navigation .navigation-menu .mobile-switcher span {
+  .navigation .navigation-menu .mobile-switcher span {
   display: block;
   width: 28px;
   height: 4px;
-
   background-color: rgba(15, 19, 36, 0.6);
   margin-bottom: 5px;
   border-radius: 2px
 }
+
+  .navigation .navigation-menu.active .menu li:hover {
+	color:  #fff;
+	background-color: rgba(15, 19, 36, 0.6);
+  }
+
+}
+
+
 
 body.home {
   .stm-logo-white {
@@ -86,6 +92,11 @@ body.home {
 
 	background-color: #3b1967d4;
 
+  }
+
+  .navigation .navigation-menu.active .menu li:hover {
+	color: rgba(15, 19, 36, 0.6);
+	background-color: #fff;
   }
 
   .stm-dropdown li a:hover {

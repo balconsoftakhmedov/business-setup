@@ -133,11 +133,7 @@ module.exports = {
 				"numbers-80": "80px",
 			},
 			fontFamily: {
-				montserrat: "Montserrat",
-				"button-dm-sans-16": "'DM Sans'",
-				"heading-1-72": "'Playfair Display'",
-				"body-b3-merriweather-14": "Merriweather",
-				"subtitles-16": "Poppins",
+				"button-dm-sans-16": "'Inter'",
 				"primary-paragraph-paragraph-5": "'Inter'",
 				"paragraph-16": "'Inter'",
 				inherit: "inherit",

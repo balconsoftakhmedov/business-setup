@@ -4683,28 +4683,16 @@ video {
   text-align: right;
 }
 
-.font-body-b3-merriweather-14 {
-  font-family: Merriweather;
-}
-
 .font-body-s-bold {
   font-family: Inter;
 }
 
 .font-button-dm-sans-16 {
-  font-family: 'DM Sans';
-}
-
-.font-heading-1-72 {
-  font-family: 'Playfair Display';
+  font-family: 'Inter';
 }
 
 .font-inherit {
   font-family: inherit;
-}
-
-.font-montserrat {
-  font-family: Montserrat;
 }
 
 .font-paragraph-16 {
@@ -4721,10 +4709,6 @@ video {
 
 .font-sans {
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-.font-subtitles-16 {
-  font-family: Poppins;
 }
 
 .text-11xl {
@@ -5500,7 +5484,6 @@ body {
   color: rgb(255 255 255 / var(--tw-text-opacity));
   letter-spacing: 0.4em;
   line-height: 18px;
-  text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
   font-family: 'Inter';
@@ -5580,10 +5563,18 @@ form.wpcf7-form {
 
 body .stm-f .wpcf7 form .wpcf7-response-output {
   bottom: 20px;
+  color: #fff !important;
 }
 
 body .stm-f {
   z-index: 10000000000000;
+}
+
+body .stm-f .wpcf7 form .wpcf7-not-valid-tip {
+  bottom: -15px;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
 }
 
 body .stm-f
@@ -5625,7 +5616,6 @@ body .wpcf7 form .stm-c-form
   position: absolute;
   bottom: -27px;
   font-size: 11px;
-  padding-left: -10px;
   margin-left: -11px;
   font-weight: 500;
 }

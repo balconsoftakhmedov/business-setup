@@ -2890,21 +2890,21 @@
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   loading="lazy"
                   alt=""
-                  src="./public/twitterfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   loading="lazy"
                   alt=""
-                  src="./public/instagramfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   loading="lazy"
                   alt=""
-                  src="./public/facebookcirclefill.svg"
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
                 />
               </div>
 			</div>
@@ -2928,19 +2928,19 @@
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/twitterfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/instagramfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/facebookcirclefill.svg"
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
                 />
               </div>
 			</div>
@@ -2966,19 +2966,19 @@
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/twitterfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/instagramfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/facebookcirclefill.svg"
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
                 />
               </div>
 
@@ -3005,19 +3005,19 @@
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/twitterfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/instagramfill.svg"
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
                 />
 
                 <img
                   class="h-6 w-6 relative overflow-hidden shrink-0"
                   alt=""
-                  src="./public/facebookcirclefill.svg"
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
                 />
               </div>
 			</div>
@@ -4323,282 +4323,7 @@
 						</div>
 					</div>
 				</div>
-<!--
-				<div class="w-[568px] rounded-measurements-radius-xxxl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-measurements-gap-24 min-w-[320px] max-w-full text-sm text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
-					<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-16 max-w-full">
-						<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
-							<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
-								<div class="self-stretch flex flex-row items-start justify-start">
-									<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-											Full name
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
-											(optional)
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
-											*
-										</div>
-									</div>
-									<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
-								</div>
-								<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-									<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-										<input class="w-full [border:none] [outline:none] bg-[transparent] flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary min-w-[127px]" placeholder="Enter your full name" type="text">
-									</div>
-								</div>
-								<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-									<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
 
-									<div class="relative tracking-[-0.1px] leading-[20px]">
-										Helper text
-									</div>
-								</div>
-							</div>
-							<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
-								<div class="self-stretch flex flex-row items-start justify-start">
-									<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[37px]">
-											Email
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
-											(optional)
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
-											*
-										</div>
-									</div>
-									<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
-								</div>
-								<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-									<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-										<input class="w-full [border:none] [outline:none] bg-[transparent] flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary min-w-[127px]" placeholder="Type your email" type="text">
-									</div>
-								</div>
-								<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-									<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
-
-									<div class="relative tracking-[-0.1px] leading-[20px]">
-										Helper text
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
-							<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
-								<div class="self-stretch flex flex-row items-start justify-start">
-									<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[98px]">
-											Phone number
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
-											(optional)
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
-											*
-										</div>
-									</div>
-									<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
-								</div>
-								<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-									<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-										<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4">
-											<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/flag.svg">
-
-											<div class="flex flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
-												<div class="relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[30px]">
-													UAE
-												</div>
-												<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
-											</div>
-											<div class="flex flex-row items-center justify-start gap-numbers-4 text-text-base-tertiary">
-												<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon11.svg">
-
-												<div class="flex flex-row items-center justify-start py-0 pl-numbers-4 pr-0">
-													<div class="relative tracking-[-0.1px] leading-[20px] shrink-0">
-														Your phone number
-													</div>
-												</div>
-											</div>
-											<div class="hidden flex-row items-start justify-start py-0 px-numbers-4 text-center text-text-base-secondary">
-												<div class="rounded-radius-sm bg-border-base-divider flex flex-row items-center justify-center py-0 px-numbers-2">
-													<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
-														<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-															⌘K
-														</div>
-													</div>
-												</div>
-											</div>
-											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon11.svg">
-
-											<div class="hidden flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
-												<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-													EUR
-												</div>
-												<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-									<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
-
-									<div class="relative tracking-[-0.1px] leading-[20px]">
-										Helper text
-									</div>
-								</div>
-							</div>
-							<div class="h-[72px] flex-1 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[236px]">
-								<div class="self-stretch flex flex-row items-start justify-start">
-									<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[114px]">
-											Service Required
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
-											(optional)
-										</div>
-										<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
-											*
-										</div>
-									</div>
-									<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
-								</div>
-								<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-									<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-										<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4">
-											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/flag1.svg">
-
-											<div class="hidden flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
-												<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-													UK
-												</div>
-												<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
-											</div>
-											<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4">
-												<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon11.svg">
-
-												<div class="flex-1 flex flex-row items-center justify-start py-0 px-1">
-													<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-w-[88px]">
-														Please select
-													</div>
-												</div>
-											</div>
-											<div class="hidden flex-row items-start justify-start py-0 px-numbers-4 text-center text-text-base-secondary">
-												<div class="rounded-radius-sm bg-border-base-divider flex flex-row items-center justify-center py-0 px-numbers-2">
-													<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
-														<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-															⌘K
-														</div>
-													</div>
-												</div>
-											</div>
-											<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon-2.svg">
-
-											<div class="hidden flex-row items-center justify-start py-0 pl-numbers-4 pr-0 gap-numbers-2">
-												<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-													EUR
-												</div>
-												<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="self-stretch hidden flex-row items-center justify-start py-numbers-2 px-0 gap-numbers-4 text-text-base-tertiary">
-									<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
-
-									<div class="relative tracking-[-0.1px] leading-[20px]">
-										Helper text
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="self-stretch h-28 flex flex-col items-start justify-start gap-measurements-gap-8 min-w-[144px] max-w-full">
-							<div class="self-stretch flex flex-row items-start justify-start">
-								<div class="flex flex-row items-start justify-start py-numbers-2 px-0 gap-numbers-4">
-									<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-										How can we help?
-									</div>
-									<div class="relative tracking-[-0.1px] leading-[20px] font-medium text-text-base-tertiary hidden">
-										(optional)
-									</div>
-									<div class="relative tracking-[-0.1px] leading-[20px] text-text-status-destructive">
-										*
-									</div>
-								</div>
-								<img class="h-6 w-6 relative hidden" alt="" src="/wp-content/themes/business-setup/web/public/tooltip-trigger.svg">
-							</div>
-							<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start max-w-full">
-								<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border overflow-hidden flex flex-row items-center justify-start py-2 px-[11px] max-w-full">
-									<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4 max-w-full">
-										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/flag1.svg">
-
-										<div class="hidden flex-row items-center justify-start py-0 px-1 gap-numbers-2">
-											<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-												UK
-											</div>
-											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
-										</div>
-										<div class="flex-1 flex flex-row items-center justify-start gap-numbers-4 max-w-full text-text-base-tertiary">
-											<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon11.svg">
-
-											<div class="flex-1 flex flex-row items-center justify-start py-0 px-1 box-border max-w-full">
-												<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-h-[60px]">
-													<p class="m-0">Type your message</p>
-													<p class="m-0">&nbsp;</p>
-												</div>
-											</div>
-										</div>
-										<div class="hidden flex-row items-start justify-start py-0 px-numbers-4 text-center text-text-base-secondary">
-											<div class="rounded-radius-sm bg-border-base-divider flex flex-row items-center justify-center py-0 px-numbers-2">
-												<div class="flex flex-row items-center justify-center py-0 px-numbers-4">
-													<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-														⌘K
-													</div>
-												</div>
-											</div>
-										</div>
-										<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon-2.svg">
-
-										<div class="hidden flex-row items-center justify-start py-0 px-1 gap-numbers-2">
-											<div class="relative tracking-[-0.1px] leading-[20px] font-medium">
-												EUR
-											</div>
-											<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/arrow-4.svg">
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="w-[400px] hidden flex-row items-center justify-start py-numbers-2 px-0 box-border gap-numbers-4 max-w-full text-text-base-tertiary">
-								<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/informationline.svg">
-
-								<div class="relative tracking-[-0.1px] leading-[20px]">
-									Helper text
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border">
-						<img class="self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
-					</div>
-					<button class="cursor-pointer border py-numbers-10 px-5
-					bg-text-accent-purple-accent self-stretch
-					shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
-					rounded-measurements-radius-xl overflow-hidden
-					flex flex-row items-center justify-center
-					gap-numbers-4 hover:text-general-1-primary
-					 hover:bg-general-white font-medium  font-body-s-bold text-background-surface-default border
-					  hover:border-solid hover:border-[1px] border-general-1-primary ">
-
-						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
-							<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center">
-								Submit
-							</div>
-						</div>
-
-					</button>
-
-				</div>
-			!-->
 				<div class="wpcf7 js" id="wpcf7-f784-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
 <form action="/#wpcf7-f784-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">

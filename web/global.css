@@ -248,6 +248,19 @@ body .stm-f
 	color: #999999;
 	font-size: 16px;
 }
+body .stm-f
+input.wpcf7-form-control.wpcf7-phonetext.wpcf7-text {
+    border-radius: 10px;
+}
+
+body .stm-f
+.selected-flag {
+    border-radius: 10px;
+}
+body .stm-f
+.cs-tel.w-full {
+    border-radius: 10px;
+}
 body .cf7-custom-button {
     border-radius: 10px;
     background-color: transparent;

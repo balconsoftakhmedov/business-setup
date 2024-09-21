@@ -2551,6 +2551,10 @@ video {
   max-width: 490px;
 }
 
+.max-w-\[568px\] {
+  max-width: 568px;
+}
+
 .max-w-\[588px\] {
   max-width: 588px;
 }
@@ -5485,8 +5489,10 @@ body {
 }
 
 .stm_menu-sticky{
-  position: sticky;
-  background-color: rgba(146, 79, 232, 0.3);
+  /* position: sticky;
+    background-color: rgba(146, 79, 232, 0.3);
+
+    */
 }
 
 .cf7-custom-button {
@@ -5612,13 +5618,40 @@ body .wpcf7 form .wpcf7-response-output {
   padding-left: 50px;
 }
 
+body .wpcf7 form .stm-c-form
+.wpcf7-not-valid-tip {
+  color: #dc3232;
+  display: block;
+  position: absolute;
+  bottom: -27px;
+  font-size: 11px;
+  padding-left: -10px;
+  margin-left: -11px;
+  font-weight: 500;
+}
+
 body .wpcf7 form
 .wpcf7-not-valid-tip {
   color: #dc3232;
-  font-size: 1em;
-  font-weight: normal;
   display: block;
   position: absolute;
+  bottom: -27px;
+  font-size: 11px;
+  padding-left: -10px;
+  margin-left: -11px;
+  font-weight: 500;
+}
+
+body .wpcf7 form .wpcf7-response-output {
+  position: absolute;
+  text-align: left;
+  padding-left: 50px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.wpcf7.js {
+  position: relative;
 }
 
 .cursor-pointer.hover:scale-110 {
@@ -5705,6 +5738,10 @@ nav .parent > ul.sub-menu:before {
 @media (max-width: 1025px) {
   nav.hfe-nav-menu__layout-horizontal.hfe-nav-menu__submenu-arrow.menu-is-active.hfe-dropdown {
     margin-top: 10px
+  }
+
+  body .wpcf7 form .wpcf7-response-output {
+    bottom: 30px;
   }
 }
 

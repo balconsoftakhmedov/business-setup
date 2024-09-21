@@ -4600,8 +4600,8 @@
 				</div>
 			!-->
 				<div class="wpcf7 js" id="wpcf7-f784-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true">One or more fields have an error. Please check and try again.</p> <ul><li id="wpcf7-f784-o1-ve-your-name">Please fill out this field.</li><li id="wpcf7-f784-o1-ve-your-email">Please fill out this field.</li><li id="wpcf7-f784-o1-ve-your-phone">Please fill out this field.</li><li id="wpcf7-f784-o1-ve-your-message">Please fill out this field.</li></ul></div>
-<form action="/#wpcf7-f784-o1" method="post" class="wpcf7-form invalid" aria-label="Contact form" novalidate="novalidate" data-status="invalid">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f784-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="784">
 <input type="hidden" name="_wpcf7_version" value="5.9.8">
@@ -4611,7 +4611,10 @@
 <input type="hidden" name="_wpcf7_posted_data_hash" value="">
 </div>
 <!-- Start of the form -->
-<div class="w-[568px] rounded-measurements-radius-xxxl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-measurements-gap-24 min-w-[320px] max-w-full text-sm text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
+<div class="max-w-[568px] stm-c-form rounded-measurements-radius-xxxl bg-background-surface-default
+ border-border-action-normal border-[1px] border-solid box-border
+ flex flex-col items-start justify-start py-[38px] px-[39px]
+  gap-measurements-gap-24 min-w-[320px] w-full text-sm text-text-base-primary  mq450:box-border">
 	<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-16 max-w-full">
  <!-- First row: Full name and Email -->
 		<div class="self-stretch flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 gap-x-2.5 gap-y-4">
@@ -4638,8 +4641,8 @@
 				</div>
  <!-- Input -->
 				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-						<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-no-focus-border w-full border-none outline-none bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Enter your full name" value="" type="text" name="your-name" aria-describedby="wpcf7-f784-o1-ve-your-name"></span>
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solidflex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required cf7-no-focus-border w-full border-none outline-none bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary" aria-required="true" aria-invalid="false" placeholder="Enter your full name" value="" type="text" name="your-name"></span>
 						</p>
 					</div>
 				</div>
@@ -4667,8 +4670,8 @@
 				</div>
  <!-- Input -->
 				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-						<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Type your email" value="" type="email" name="your-email" aria-describedby="wpcf7-f784-o1-ve-your-email"><span class="wpcf7-not-valid-tip" aria-hidden="true">Please fill out this field.</span></span>
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid  flex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border font-body-s-bold text-sm text-text-base-tertiary" aria-required="true" aria-invalid="false" placeholder="Type your email" value="" type="email" name="your-email"></span>
 						</p>
 					</div>
 				</div>
@@ -4699,8 +4702,8 @@
 				</div>
  <!-- Input -->
 				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
-						<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel w-full cf7-no-border cf7-no-outline bg-transparent flex flex-row items-center justify-start py-0 px-1 box-border text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Your phone number" value="" type="tel" name="your-phone" aria-describedby="wpcf7-f784-o1-ve-your-phone"><span class="wpcf7-not-valid-tip" aria-hidden="true">Please fill out this field.</span></span>
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid flex flex-row items-center justify-start py-2 px-[11px]">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel w-full cf7-no-border cf7-no-outline bg-transparent flex flex-row items-center justify-start py-0 px-1 box-border text-sm text-text-base-tertiary" aria-required="true" aria-invalid="false" placeholder="Your phone number" value="" type="tel" name="your-phone"></span>
 						</p>
 					</div>
 				</div>
@@ -4728,7 +4731,7 @@
 				</div>
  <!-- Select -->
 				<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start">
-					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-start py-2 px-[11px]">
+					<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid flex flex-row items-center justify-start py-2 px-[11px]">
 						<p><span class="wpcf7-form-control-wrap" data-name="your-service"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-between py-0 px-1 box-border text-sm text-text-base-tertiary" aria-required="true" aria-invalid="false" name="your-service"><option value="Please select">Please select</option><option value="Business Setup Services">Business Setup Services</option><option value="Financial Services">Financial Services</option><option value="Complex Business Support">Complex Business Support</option></select></span>
 						</p>
 					</div>
@@ -4758,8 +4761,8 @@
 			</div>
  <!-- Textarea -->
 			<div class="self-stretch flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] flex flex-row items-start justify-start max-w-full h-full">
-				<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border overflow-hidden flex flex-row items-center justify-start py-2 px-[11px] max-w-full stm-p-no">
-					<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border text-sm text-text-base-tertiary wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Type your message" name="your-message" aria-describedby="wpcf7-f784-o1-ve-your-message"></textarea><span class="wpcf7-not-valid-tip" aria-hidden="true">Please fill out this field.</span></span>
+				<div class="self-stretch flex-1 rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border  flex flex-row items-center justify-start py-2 px-[11px] max-w-full stm-p-no">
+					<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required w-full cf7-no-border cf7-no-outline bg-transparent flex-1 flex flex-row items-center justify-start py-0 px-1 box-border text-sm text-text-base-tertiary" aria-required="true" aria-invalid="false" placeholder="Type your message" name="your-message"></textarea></span>
 					</p>
 				</div>
 			</div>
@@ -4767,7 +4770,7 @@
 	</div>
  <!-- Divider -->
 	<div class="self-stretch h-px flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 box-border mt-[30px]">
-		<p><img class="w-[300px] self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
+		<p><img class="w-[300px]  self-stretch relative max-w-full overflow-hidden max-h-full" alt="" src="/wp-content/themes/business-setup/web/public/line-4.svg">
 		</p>
 	</div>
  <!-- Submit button -->
@@ -4787,7 +4790,7 @@ Submit<br>
 </button>
 		</p>
 	</div>
-</div><div class="wpcf7-response-output" aria-hidden="true">One or more fields have an error. Please check and try again.</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
 

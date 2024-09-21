@@ -5,6 +5,7 @@
 	<meta name="viewport" content="initial-scale=1, width=device-width"/>
 
 	<link rel="stylesheet" href="./output.css"/>
+
 	<script src="./homepage.js" defer></script>
 	<script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/intersect@3.x.x/dist/cdn.min.js"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>

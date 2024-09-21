@@ -123,32 +123,7 @@
 									Start now
 								</div>
 							</div>
-							<div class="hidden flex-col items-center justify-center">
-								<div
-										class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3"
-								>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/leadicon1.svg"
-									/>
-
-									<div
-											class="flex flex-row items-center justify-center py-0 px-numbers-3"
-									>
-										<div
-												class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center"
-										>
-											16
-										</div>
-									</div>
-									<img
-											class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
-											alt=""
-											src="/wp-content/themes/business-setup/web/public/tailicon1.svg"
-									/>
-								</div>
-							</div>
+						
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0 hidden"
 									alt=""
@@ -639,19 +614,7 @@
 									Get started
 								</div>
 							</div>
-							<div class="hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											16
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon2.svg">
+							
 						</div>
 						<div class="shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid overflow-hidden flex flex-row items-center justify-center py-2 px-[11px] gap-numbers-4 text-text-base-primary">
 							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon2.svg">
@@ -662,7 +625,8 @@
 								</div>
 							</div>
 
-							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
+							
+						
 						</div>
 					</div>
 				</div>
@@ -1970,19 +1934,7 @@
 								Avail now
 							</div>
 						</div>
-						<div class="hidden flex-col items-center justify-center">
-							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
-										$9.9
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
-						<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
+					<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
 
 					</button>
 				</div>
@@ -2089,19 +2041,7 @@
 								Avail now
 							</div>
 						</div>
-						<div class="hidden flex-col items-center justify-center">
-							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
-										$9.9
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
-						<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
+					<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
 
 					</button>
 				</div>
@@ -3355,19 +3295,7 @@
 								Buy now
 							</div>
 						</div>
-						<div class="hidden flex-col items-center justify-center">
-							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
-										$9.9
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
-						<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
+					<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
 
 					</button>
 				</div>
@@ -3471,19 +3399,7 @@
 								Buy now
 							</div>
 						</div>
-						<div class="hidden flex-col items-center justify-center">
-							<div class="rounded-measurements-radius-sm bg-background-surface-default flex flex-row items-center justify-center py-numbers-2 px-numbers-3">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
-
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative text-xs leading-[16px] font-medium font-body-s-bold text-text-base-secondary text-center">
-										$9.9
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
-						<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
+					<div class="h-4 w-4 relative bg-white stm-bg" style="mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat; -webkit-mask: url('/wp-content/themes/business-setup/web/public/tailicon13.svg') no-repeat;"></div>
 
 					</button>
 				</div>

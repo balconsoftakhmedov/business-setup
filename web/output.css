@@ -3618,6 +3618,22 @@ body {
   width: 100%;
 }
 
+.stm-logo-white {
+  display: block;
+}
+
+.stm-logo-black {
+  display: none;
+}
+
+.home .stm-logo-white {
+  display: block;
+}
+
+.home .stm-logo-black {
+  display: none;
+}
+
 .error404 .navigation .navigation-menu.active .menu {
   background-color: transparent;
 }

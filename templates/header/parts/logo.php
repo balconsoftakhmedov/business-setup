@@ -24,10 +24,17 @@ $customizer_logo_height = get_theme_mod( 'ms_lms_starter_logo_height' ) ? get_th
 
 <?php else: ?>
 		<img
-			class="h-[60px] w-[140px] relative"
+			class="h-[60px] w-[140px] relative stm-logo-white"
 			loading="lazy"
 			alt=""
 			src="<?php echo esc_url( $white_logo_image[0] ); ?>"
+			style="width: 140px;"
+	/>
+		<img
+			class="h-[60px] w-[140px] relative stm-logo-black"
+			loading="lazy"
+			alt=""
+			src="<?php echo esc_url( $logo_image[0] ); ?>"
 			style="width: 140px;"
 	/>
 <?php endif; ?>

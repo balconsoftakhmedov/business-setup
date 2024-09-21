@@ -17,6 +17,8 @@ body {
 
 body .stm-menu-colors, body .stm-dropdown {
   color: rgba(15, 19, 36, 0.6);
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 247 248/var(--tw-bg-opacity));
 }
 body .stm-dropdown {
   color: rgba(15, 19, 36, 0.6);
@@ -69,6 +71,9 @@ body.home .stm-dropdown {
 }
 body.home .navigation .navigation-menu .mobile-switcher span {
   background-color: #fff;
+}
+body.home .stm-menu-colors, body.home .stm-dropdown {
+  background-color: transparent;
 }
 body.home .navigation .navigation-menu.active .menu {
   background-color: rgba(59, 25, 103, 0.831372549);

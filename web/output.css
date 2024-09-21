@@ -1674,6 +1674,10 @@ video {
   min-width: 66px;
 }
 
+.min-w-\[74px\] {
+  min-width: 74px;
+}
+
 .min-w-\[76px\] {
   min-width: 76px;
 }
@@ -3632,6 +3636,8 @@ body {
 
 body .stm-menu-colors, body .stm-dropdown {
   color: rgba(15, 19, 36, 0.6);
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 247 248/var(--tw-bg-opacity));
 }
 
 body .stm-dropdown {
@@ -3695,6 +3701,10 @@ body.home .stm-dropdown {
 
 body.home .navigation .navigation-menu .mobile-switcher span {
   background-color: #fff;
+}
+
+body.home .stm-menu-colors, body.home .stm-dropdown {
+  background-color: transparent;
 }
 
 body.home .navigation .navigation-menu.active .menu {

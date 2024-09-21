@@ -15,19 +15,29 @@ body {
   width: 100%;
 }
 
-.stm-logo-white{
-  display: none;
+
+body {
+  .stm-menu-colors, .stm-dropdown {
+    color: rgba(15, 19, 36, 0.6);
+  }
+
+  .stm-logo-white {
+    display: none;
+  }
+
+  .stm-logo-black {
+    display: block;
+  }
 }
 
- .stm-logo-black {
-  display: block;
-}
 
-.home {
+body.home {
   .stm-logo-white {
 	display: block;
   }
-
+.stm-menu-colors{
+  color:#fff;
+}
   .stm-logo-black {
 	display: none;
   }

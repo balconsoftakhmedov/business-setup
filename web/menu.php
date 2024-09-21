@@ -1,6 +1,6 @@
 <div class="header-placeholder hidden h-[90px] mq950:block "></div>
 
-<header class="stm-h stm_menu-sticky self-stretch  er-back-tr coltr
+<header class="stm-h stm_menu-sticky self-stretch  er-back-tr coltr stm-menu-colors
 		flex flex-row items-center justify-center py-[15px] box-border
 		top-[0] z-[11111] sticky mq950:fixed mq780: max-w-full gap-5
 		text-right text-base text-white font-subtitles-16  lg:box-border  mq450:box-border mq850:box-border mq1170:w-full">
@@ -16,7 +16,7 @@
 </a>
 
 		</div>
-		<div class="flex text-center text-sm text-background-surface-default font-body-s-bold flex-row items-center justify-center
+		<div class="flex text-center text-sm stm-menu-colors font-body-s-bold flex-row items-center justify-center
 		py-5 px-0 box-border gap-[30px]
 		max-w-full mq1024:hidden mq850:gap-5">
 					<div class="relative flex flex-col items-end justify-start gap-1.5  group  ">
@@ -24,7 +24,7 @@
 							Business Setup Services															<img class="inline-block h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
 transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg" alt="Submenu Icon">
 													</a>
-													<div class="absolute right-[0px] hidden mt-2 bg-general-1-primary shadow-lg rounded-md w-48 group-hover:block z-10 w-full text-left min-h-[100px] top-[8px] er-back-tr">
+													<div class="absolute right-[0px] stm-dropdown hidden mt-2 bg-general-1-primary shadow-lg rounded-md w-48 group-hover:block z-10 w-full text-left min-h-[100px] top-[8px] er-back-tr">
 								<ul class="py-2">
 																			<li>
 											<a href="https://business-setup.test/test-1-page/" class="block px-4 py-2  hover:bg-general-white hover:text-general-1-primary">

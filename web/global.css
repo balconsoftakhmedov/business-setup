@@ -241,6 +241,12 @@ body .stm-f
 select.wpcf7-form-control.wpcf7-select {
 	color: #999999;
 	border-radius: 10px;
+	font-size: 16px;
+}
+body .stm-f
+.wpcf7-form-control.wpcf7-textarea, body .stm-f .selected-dial-code{
+	color: #999999;
+	font-size: 16px;
 }
 body .cf7-custom-button {
     border-radius: 10px;

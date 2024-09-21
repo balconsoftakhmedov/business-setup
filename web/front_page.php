@@ -65,11 +65,11 @@
 					<div
 							class="self-stretch flex flex-row items-center justify-center flex-wrap content-center gap-x-[20.5px] gap-y-6 text-5xl"
 					>
-						<h3
+						<h6
 								class="m-0 w-[250px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block shrink-0 mq450:text-lgi mq450:leading-[24px]"
 						>
 							Company Registration
-						</h3>
+						</h6>
 						<img
 								class="h-5 w-px relative"
 								loading="lazy"
@@ -77,11 +77,11 @@
 								src="/wp-content/themes/business-setup/web/public/navigation-bar-items.svg"
 						/>
 
-						<h3
+						<h6
 								class="m-0 flex-1 relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block min-w-[109px] mq450:text-lgi mq450:leading-[24px]"
 						>
 							Accounting Outsourcing
-						</h3>
+						</h6>
 						<img
 								class="h-5 w-px relative"
 								loading="lazy"
@@ -89,11 +89,11 @@
 								src="/wp-content/themes/business-setup/web/public/navigation-bar-items.svg"
 						/>
 
-						<h3
+						<h6
 								class="m-0 w-[258px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block shrink-0 mq450:text-lgi mq450:leading-[24px]"
 						>
 							Bank Account Opening
-						</h3>
+						</h6>
 					</div>
 				</div>
 				<div
@@ -319,9 +319,9 @@
 					<div class="w-16 h-16 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border hidden flex-row items-center justify-center py-[18px] px-[19px]">
 						<img class="h-6 w-6 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/icon2.svg">
 					</div>
-					<h1 class="m-0 relative text-inherit tracking-[-1.7px] leading-[66px] font-medium font-inherit mq450:text-17xl mq450:leading-[40px] mq1050:text-29xl mq1050:leading-[53px]">
+					<h2 class="m-0 relative text-inherit tracking-[-1.7px] leading-[66px] font-medium font-inherit mq450:text-17xl mq450:leading-[40px] mq1050:text-29xl mq1050:leading-[53px]">
 						Dedicated Business Setup Consultants at&nbsp;Your Service
-					</h1>
+					</h2>
 					<div class="relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary mq450:text-base mq450:leading-[22px]">
 						<p class="m-0">
 							We take a white-glove approach to our business setup services
@@ -387,7 +387,7 @@
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Schedule a No-Pressure Consultation</li>
+									<li><h6>Schedule a No-Pressure Consultation</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -397,7 +397,7 @@
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Choose the Perfect Jurisdiction</li>
+									<li><h6>Choose the Perfect Jurisdiction</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -407,7 +407,7 @@
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Secure Your Trade License</li>
+									<li><h6>Secure Your Trade License</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -417,7 +417,7 @@
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Obtain Essential Visas and Emirates IDs</li>
+									<li><h6>Obtain Essential Visas and Emirates IDs</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -439,9 +439,9 @@
 						1.
 					</div>
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl ">
-						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 							Schedule a No-Pressure Consultation
-						</h3>
+						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
 							Let’s kick things off with a 20-minute free friendly chat to
 							get a clear understanding of your business goals (no strings
@@ -473,9 +473,9 @@
 						2.
 					</div>
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
-						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 							Choose the Perfect Jurisdiction
-						</h3>
+						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
 							Dubai offers a few different business setup options—Mainland, Free Zone, or Offshore. Deciding which one to go with can be a bit tricky, but no need to stress. We’ll take a close look at your company’s activities and preferences to help you pick the perfect fit for your
 							needs.
@@ -505,9 +505,9 @@
 						3.
 					</div>
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
-						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 							Secure Your Trade License
-						</h3>
+						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
 							Getting a trade license in Dubai usually only takes a few days, but to avoid any hiccups, it’s best to leave it to us. We’ll handle the paperwork, and select the right trade license for you, and soon your company will be legally ready to operate.
 						</div>
@@ -570,9 +570,9 @@
 						5.
 					</div>
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
-						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 							Open Your Corporate Bank Account
-						</h3>
+						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
 							With Vision Prime by your side, accessing the Dubai financial market becomes very effortless. With more than 10 bank partners, we’ll assist you with business bank account opening in UAE—and manage the trickier aspects like providing guarantees and controlling payments in
 							the Emirates.
@@ -621,9 +621,9 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</div>
 					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-						<h2 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+						<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 							Jurisdictions
-						</h2>
+						</h3>
 						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 							We take a white-glove approach to&nbsp;our business setup services
 							in Dubai. We&nbsp;know every client has different needs, and we’re
@@ -661,18 +661,7 @@
 									Learn more
 								</div>
 							</div>
-							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
 							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 						</div>
 					</div>
@@ -1756,18 +1745,7 @@
 								Learn more
 							</div>
 						</div>
-						<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-							<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative leading-[16px] font-medium">
-										$9.9
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
 						<img class="h-4 w-4 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/tailicon4.svg">
 					</div>
 				</div>
@@ -1776,9 +1754,9 @@
     box-border text-base lg:overflow-x-auto scrollbar-hide md:overflow-visible flex-nowrap md:flex-wrap mq800:item-center">
 
 				<div class="cursor-pointer h-[448px] flex-1 hover:scale-110 transition-transform duration-300 ease-in-out rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
-					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<h6 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Mainland
-					</h3>
+					</h6>
 					<div class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
 						Starting from just
 					</div>
@@ -1890,9 +1868,9 @@
 					</button>
 				</div>
 				<div class="cursor-pointer flex-1 hover:scale-110 transition-transform duration-300 ease-in-out rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
-					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<h6 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Free Zone
-					</h3>
+					</h6>
 					<div class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
 						Starting from just
 					</div>
@@ -2012,9 +1990,9 @@
 				border-border-base-alpha border-[1px] border-solid box-border flex flex-col
 				items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] mq800:max-w-[360px] mq800:ml-auto mq800:mr-auto
 				max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border">
-					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<h6 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Offshore
-					</h3>
+					</h6>
 					<div class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
 						Starting from just
 					</div>
@@ -2146,9 +2124,9 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</div>
 					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-						<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+						<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 							Register a Company in Dubai
-						</h1>
+						</h3>
 						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 							Simplify Your operations with Our end-to-end Suite of
 							Corporate Services.
@@ -2185,18 +2163,7 @@
 									Learn more
 								</div>
 							</div>
-							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
 							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 						</div>
 					</div>
@@ -2500,9 +2467,9 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</div>
 					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-						<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+						<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 							Why Business set up Dubai
-						</h1>
+						</h3>
 						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 							We take a white-glove approach to&nbsp;our business setup services
 							in Dubai. We&nbsp;know every client has different needs, and we’re
@@ -2540,18 +2507,7 @@
 									Learn more
 								</div>
 							</div>
-							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
 							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 						</div>
 					</div>
@@ -2719,9 +2675,9 @@
 								<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 							</div>
 							<div class="self-stretch flex flex-col items-center justify-start py-0 px-[84px] gap-measurements-gap-24 text-29xl text-text-base-primary mq750:pl-[21px] mq750:pr-[21px] mq750:box-border mq1050:pl-[42px] mq1050:pr-[42px] mq1050:box-border">
-								<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+								<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 									The Global Industry Leaders
-								</h1>
+								</h3>
 								<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 									We take a white-glove approach to&nbsp;our business setup
 									services in Dubai. We&nbsp;know every client has different
@@ -2759,18 +2715,7 @@
 											Learn more
 										</div>
 									</div>
-									<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-										<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-											<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-											<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-												<div class="relative leading-[16px] font-medium">
-													$9.9
-												</div>
-											</div>
-											<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-										</div>
-									</div>
 									<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 								</div>
 							</div>
@@ -2818,11 +2763,11 @@
 					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 				</button>
 				<div class="">
-					<h2 class="m-0 w-full  text-center text-29xl text-text-base-primary font-body-s-bold
+					<h3 class="m-0 w-full  text-center text-29xl text-text-base-primary font-body-s-bold
 					relative tracking-[-1px] leading-[54px] font-medium  inline-block
 					max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 						Meet the Experts
-					</h2>
+					</h3>
 
 				</div>
 				<div class="self-stretch hidden flex-row items-start justify-center gap-measurements-gap-16 text-sm text-background-surface-default mq450:flex-wrap">
@@ -2852,18 +2797,7 @@
 								Learn more
 							</div>
 						</div>
-						<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-							<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-								<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-									<div class="relative leading-[16px] font-medium">
-										$9.9
-									</div>
-								</div>
-								<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-							</div>
-						</div>
 						<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 					</div>
 				</div>
@@ -2876,11 +2810,11 @@
 			 bg-[url('/wp-content/themes/business-setup/web/public/member-info@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] transition-transform duration-300 ease-in-out hover:scale-105
 			 hover:bg-opacity-75 mq450:px-[15px] mq450:py-[15px]">
-			 <h3
+			 <h6
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >
                 Mr. Arsen
-              </h3>
+              </h6>
               <div
                 class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
               >
@@ -2915,11 +2849,11 @@
 			ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
 			justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('/wp-content/themes/business-setup/web/public/member-info1@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
-			 <h3
+			 <h6
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >
                 Elena
-              </h3>
+              </h6>
               <div
                 class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
               >
@@ -2953,11 +2887,11 @@
 			 bg-[url('/wp-content/themes/business-setup/web/public/member-info2@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
 
-				   <h3
+				   <h6
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >
                 Mr. Javlon
-              </h3>
+              </h6>
               <div
                 class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
               >
@@ -2992,11 +2926,11 @@
 
 			  bg-[url('/wp-content/themes/business-setup/web/public/member-info3@3x.png')]
 			  bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
-				<h3
+				<h6
                 class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
               >
                 Jaiden
-              </h3>
+              </h6>
               <div
                 class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
               >
@@ -3056,9 +2990,9 @@
 								<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public//tailicon5.svg">
 							</div>
 							<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-								<h2 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+								<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 									What they say
-								</h2>
+								</h3>
 								<div class="relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary inline-block max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 									Join the growing list of customers achieving amazing
 									results with our business setup consultants.
@@ -3080,21 +3014,21 @@
 						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public//star-icon.svg">
 					</div>
 				</div>
-				<div class="m-0 w-full relative text-11xl tracking-[-0.5px] leading-[36px] font-medium font-inherit text-text-accent-purple-accent inline-block max-w-[792px] mq450:text-lg mq450:leading-[22px] mq1050:text-5xl mq1050:leading-[29px] mq1050:max-w-full">
+				<h5 class="m-0 w-full relative text-11xl tracking-[-0.5px] leading-[36px] font-medium font-inherit text-text-accent-purple-accent inline-block max-w-[792px] mq450:text-lg mq450:leading-[22px] mq1050:text-5xl mq1050:leading-[29px] mq1050:max-w-full">
 					Idea to thriving reality
-				</div>
+				</h5>
 				 <div class="slider-wrapper">
                 <div class="slider">
 					<!-- Slide 1 -->
 
 					<div class="w-full slide flex flex-col items-center gap-[30px]">
-						<div class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
+						<h6 class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
 							Their expert guidance turned my business idea into a&nbsp;thriving
 							reality. From getting the right licenses to&nbsp;opening a bank
 							account, they handled everything effortlessly. I&nbsp;highly recommend
 							their business setup services to&nbsp;anyone looking to start a
 							successful business in&nbsp;the&nbsp;UAE.
-						</div>
+						</h6>
 						<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 text-base">
 							<div class="flex flex-col items-start justify-start gap-numbers-16">
 								<div class="flex flex-row items-start justify-start py-0 px-[45px]">
@@ -3117,13 +3051,13 @@
 					</div>
 					<!-- Slide 2 -->
 					<div class="w-full slide flex flex-col items-center gap-[30px]">
-						<div class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
+						<h6 class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
 							Their expert guidance turned my business idea into a&nbsp;thriving
 							reality. From getting the right licenses to&nbsp;opening a bank
 							account, they handled everything effortlessly. I&nbsp;highly recommend
 							their business setup services to&nbsp;anyone looking to start a
 							successful business in&nbsp;the&nbsp;UAE.
-						</div>
+						</h6>
 						<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 text-base">
 							<div class="flex flex-col items-start justify-start gap-numbers-16">
 								<div class="flex flex-row items-start justify-start py-0 px-[45px]">
@@ -3260,9 +3194,9 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</div>
 					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
-						<h1 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+						<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 							Business Setup Services in Dubai
-						</h1>
+						</h3>
 						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
 							We are the Top Business Setup Consultants in the UAE.
 						</div>
@@ -3298,18 +3232,7 @@
 									Learn more
 								</div>
 							</div>
-							<div class="h-5 hidden flex-col items-center justify-center text-xs text-text-base-secondary">
-								<div class="flex-1 rounded-measurements-radius-sm bg-border-base-divider border-border-base-alpha border-[1px] border-solid flex flex-row items-center justify-center py-0 px-0.5">
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon1.svg">
 
-									<div class="flex flex-row items-center justify-center py-0 px-numbers-3">
-										<div class="relative leading-[16px] font-medium">
-											$9.9
-										</div>
-									</div>
-									<img class="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon1.svg">
-								</div>
-							</div>
 							<img class="h-5 w-5 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
 						</div>
 					</div>
@@ -3319,9 +3242,9 @@
 		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-left text-base text-text-base-primary mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border">
 			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-2 box-border gap-x-5 gap-y-6">
 				<div class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
-					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<h6 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Light
-					</h3>
+					</h6>
 					<div class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
 						Starting from just
 					</div>
@@ -3449,9 +3372,9 @@
 					</button>
 				</div>
 				<div class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-16 min-w-[342px] max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border">
-					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<h6 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Standard
-					</h3>
+					</h6>
 					<div class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
 						Starting from just
 					</div>
@@ -3569,9 +3492,9 @@
 				  box-border flex flex-col items-start justify-start
 				   py-[38px] px-[39px] gap-numbers-16 min-w-[342px]
 				    max-w-full mq750:pt-[25px] mq750:pb-[25px] mq750:box-border mq950:max-w-[430px] mq950:mr-auto mq950:ml-auto">
-					<h3 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+					<h6 class="m-0 self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
 						Pro
-					</h3>
+					</h6>
 					<div class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
 						Starting from just
 					</div>
@@ -3703,11 +3626,11 @@
 					<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 				</button>
 				<div class="">
-					<h2 class="m-0 w-full  text-center text-29xl text-text-base-primary font-body-s-bold
+					<h3 class="m-0 w-full  text-center text-29xl text-text-base-primary font-body-s-bold
 					relative tracking-[-1px] leading-[54px] font-medium  inline-block
 					max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
 						Frequently asked questions
-					</h2>
+					</h3>
 
 				</div>
 			</div>
@@ -3718,12 +3641,12 @@
 			<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[374px] max-w-full mq450:min-w-full">
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
 
 							What is the minimum investment to start a business in UAE?
 
 
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3748,9 +3671,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much is a Dubai business visa?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3773,9 +3696,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How is an LLC formed in the UAE?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3795,9 +3718,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How long is the business visa valid for in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3818,9 +3741,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can you own a 100% business in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3841,9 +3764,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Which business is easy to start in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3870,9 +3793,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Is Dubai startup-friendly?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3898,9 +3821,9 @@
 				</div>
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Is Dubai tax-free for business owners?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3924,9 +3847,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How to make money in Dubai as a foreigner?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3951,9 +3874,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Why do entrepreneurs go to Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -3983,9 +3906,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							What is the cheapest way to set up a business in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4018,9 +3941,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I open a company in the UAE without a residence visa?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4050,9 +3973,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much is a business permit in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4078,9 +4001,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I start a business in Dubai without a sponsor?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4107,9 +4030,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I start a business in Dubai without an office?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4135,9 +4058,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Is home business allowed in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4154,9 +4077,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much does it cost to register a company in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4187,9 +4110,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							How much does it cost to put a company in a free zone in Dubai?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4225,9 +4148,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I open a company in Dubai remotely?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>
@@ -4256,9 +4179,9 @@
 
 				<div class="accordion-item  rounded-measurements-radius-lg w-full  bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border  overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
-						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
+						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px ">
 							Can I move to Dubai and start a business?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 					</div>

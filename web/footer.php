@@ -14,9 +14,9 @@
 						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</button>
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-24">
-						<h1 class="m-0 relative text-29xl tracking-[-1px] leading-[54px] font-medium font-inherit mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px]">
+						<h3 class="m-0 relative text-29xl tracking-[-1px] leading-[54px] font-medium font-inherit mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px]">
 							Let’s Discuss Your Project
-						</h1>
+						</h3>
 						<div class="relative text-xl tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Business set up Dubai’s mission is to be a one-stop company
 							for all your business needs.

@@ -311,7 +311,8 @@
 		</div>
 
 	</section>
-	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-center max-w-full text-left text-41xl text-text-base-primary font-body-s-bold">
+	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-center
+	max-w-full text-left text-41xl text-text-base-primary font-body-s-bold mq1170:px-[20px]">
 		<div class="flex flex-row max-w-[1200px] w-full items-center justify-center flex-wrap content-center py-numbers-80  box-border gap-x-[42px] gap-y-12 mq450:pl-numbers-80 mq450:pr-numbers-80 mq450:box-border mq750:gap-[21px] mq750:py-numbers-80  mq750:box-border">
 			<div class="flex-1 flex flex-col items-start justify-start gap-numbers-48 min-w-[320px] max-w-full mq750:gap-numbers-48">
 				<div class="self-stretch flex flex-col items-start justify-start gap-measurements-gap-40 mq750:gap-measurements-gap-40">
@@ -603,7 +604,9 @@
 	</section>
 
 
-	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
+	<section class="self-stretch bg-background-surface-default flex flex-col items-center
+	justify-start max-w-full text-center text-sm text-text-accent-blue-inverted
+	font-body-s-bold">
 		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
 			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
 				<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">

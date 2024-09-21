@@ -5733,6 +5733,10 @@ nav .parent > ul.sub-menu:before {
   body .wpcf7 form .wpcf7-response-output {
     bottom: 30px;
   }
+
+  .stm_menu-sticky {
+    background: #3b1967d4;
+  }
 }
 
 @media (min-width: 1025px) {
@@ -6072,7 +6076,7 @@ nav .parent > ul.sub-menu:before {
   display: block;
   width: 28px;
   height: 4px;
-  background-color: #000;
+  background-color: #fff;
   margin-bottom: 5px;
   border-radius: 2px
 }
@@ -6374,7 +6378,7 @@ nav .parent > ul.sub-menu:before {
     padding-left: 20px;
     padding-right: 20px;
     transition: all .15s;
-    background-color: #fff;
+    background-color: #3b1967d4;
     visibility: visible;
     opacity: 1
   }

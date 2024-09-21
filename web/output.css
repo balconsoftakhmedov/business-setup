@@ -3645,7 +3645,7 @@ body .stm-logo-white {
 }
 
 body .stm-logo-black {
-  display: block;
+  display: inline-block;
 }
 
 body .stm-dropdown li a:hover {
@@ -3664,11 +3664,15 @@ body .navigation .navigation-menu .mobile-switcher span {
 
 body .navigation .navigation-menu.active .menu li:hover {
   color: #fff;
+  background-color: rgba(59, 25, 103, 0.831372549);
+}
+
+body .navigation .navigation-menu .starter-menu > li > .sub-menu {
   background-color: rgba(15, 19, 36, 0.6);
 }
 
 body.home .stm-logo-white {
-  display: block;
+  display: inline-block;
 }
 
 body.home .stm-menu-colors {

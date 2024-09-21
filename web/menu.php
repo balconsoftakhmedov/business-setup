@@ -21,9 +21,14 @@
 		max-w-full mq1024:hidden mq850:gap-5">
 					<div class="relative flex flex-col items-end justify-start gap-1.5  group  ">
 						<a class="[text-decoration:none] relative tracking-[0.04em] leading-[18px]  font-medium text-[inherit] whitespace-nowrap hover:font-bold " href="https://business-setup.test/business-setup-services/">
-							Business Setup Services															<img class="inline-block h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
+							Business Setup Services
+							<img class="inline-block stm-logo-white  h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
 transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/arrowdownsline1.svg" alt="Submenu Icon">
-													</a>
+
+							<img class="inline-block stm-logo-black h-[18px] w-[18px] relative overflow-hidden shrink-0 min-h-[18px]
+transform transition-transform duration-300 group-hover:rotate-180" src="/wp-content/themes/business-setup/web/public/arrowdownsline.svg" alt="Submenu Icon">
+
+						</a>
 													<div class="absolute right-[0px] stm-dropdown hidden mt-2 bg-general-1-primary shadow-lg rounded-md w-48 group-hover:block z-10 w-full text-left min-h-[100px] top-[8px] er-back-tr">
 								<ul class="py-2">
 																			<li>

@@ -52,13 +52,13 @@
               >
                 Speak with Our Business Setup Consultants in Dubai/UAE
               </h1>
-              <h3
+              <div
                 class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary mq450:text-base mq450:leading-[22px]"
               >
                 Book a free consultation with one of our Company Formation
                 Specialists now and find out all the information you need about
                 starting your own company in the UAE.
-              </h3>
+              </div>
             </div>
             <div
               class="self-stretch flex flex-row items-start justify-start flex-wrap content-start gap-x-[34px] gap-y-10 max-w-full text-left text-base text-text-base-secondary mq750:gap-[17px]"
@@ -608,11 +608,10 @@
               <div
                 class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border"
               >
-                <h1
-                  class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full"
+                <h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full"
                 >
                   Get in Touch and Visit Us
-                </h1>
+                </h3>
                 <div
                   class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full"
                 >
@@ -737,11 +736,10 @@
             <div
               class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
             >
-              <h1
-                class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
+              <h4 class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
               >
                 Address
-              </h1>
+              </h4>
               <div
                 class="relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent"
               >
@@ -757,11 +755,11 @@
             <div
               class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px] text-lg"
             >
-              <h1
+              <h4
                 class="m-0 self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
               >
                 Phone
-              </h1>
+              </h4>
               <div
                 class="self-stretch relative tracking-[-0.2px] leading-[26px] font-medium"
               >
@@ -788,11 +786,11 @@
             <div
               class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
             >
-              <h1
+              <h4
                 class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
               >
                 Contact
-              </h1>
+              </h4>
               <div
                 class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent"
               >
@@ -810,11 +808,11 @@
             <div
               class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
             >
-              <h1
+              <h4
                 class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
               >
                 Working Hours
-              </h1>
+              </h4>
               <div
                 class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium"
               >

@@ -2,7 +2,7 @@
 <html lang="en">
 <?php include_once( 'header.php' );
 ?>
-<body>
+<body class="home">
 <div class="w-full">
 	<div class="text-general-1-primary hover:bg-general-white hidden">test</div>
 

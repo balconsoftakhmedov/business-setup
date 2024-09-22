@@ -950,128 +950,96 @@
 			</div>
 		</div>
 	</section>
-	<section
-			class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold"
-	>
-		<div
-				class="self-stretch flex flex-col items-start justify-start max-w-full"
-		>
-			<div
-					class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full"
-			>
-				<div
-						class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq800:gap-measurements-gap-40"
-				>
-					<div
-							class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
-					>
-						
+	<section class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold">
+		<div class="self-stretch flex flex-col items-start justify-start max-w-full">
+			<div class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full">
+				<div class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40">
+					<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/leadicon4.svg">
 
-						<div
-								class="flex flex-row items-center justify-center py-0 px-[3px]"
-						>
-							<div
-									class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[62px]"
-							>
+						<div class="flex flex-row items-center justify-center py-0 px-[3px]">
+							<div class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium inline-block min-w-[62px]">
 								Contacts
 							</div>
 						</div>
-
+						<img class="h-4 w-4 relative overflow-hidden shrink-0 hidden" alt="" src="/wp-content/themes/business-setup/web/public/tailicon5.svg">
 					</div>
-					<div
-							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
-					>
-						<h3
-								class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
-						>
+					<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border">
+						<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full">
 							Get in Touch and Visit Us
 						</h3>
-
+						<div class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
+							We take a white-glove approach to&nbsp;our business setup services
+							in Dubai. We&nbsp;know every client has different needs, and we’re
+							here to meet you exactly where you are.
+						</div>
 					</div>
 
 				</div>
 			</div>
 		</div>
-		<div
-				class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-17xl text-text-base-primary mq800:gap-numbers-48"
-		>
-			<div
-					class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full"
-			>
-				<div
-						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
-				>
-					<h4
-							class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
-					>
+		<div class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-17xl text-text-base-primary mq750:gap-numbers-48">
+			<div class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full">
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]">
+					<h4 class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]">
 						Address
 					</h4>
-					<div
-							class="relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent"
-					>
+					<div class="relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent">
 						176 Street Name, New York, NY 10014
 					</div>
-
+					<div class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
 				</div>
-				<div
-						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px] text-lg"
-				>
-					<h4
-							class="m-0 self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
-					>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px] text-lg">
+					<h4 class="m-0 self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]">
 						Phone
 					</h4>
-					<div
-							class="self-stretch relative tracking-[-0.2px] leading-[26px] font-medium"
-					>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[26px] font-medium">
 						<p class="m-0">Business Enquiries</p>
 						<p class="m-0 text-text-accent-purple-accent">
 							+971 4 567 7333
 						</p>
 					</div>
-					<div
-							class="self-stretch relative tracking-[-0.2px] leading-[26px] font-medium"
-					>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[26px] font-medium">
 						<p class="m-0">Customer Service/Complaints</p>
 						<p class="m-0 text-text-accent-purple-accent">
 							+971 4 567 8901
 						</p>
 					</div>
-
+					<div class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
 				</div>
-				<div
-						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
-				>
-					<h4
-							class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
-					>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]">
+					<h4 class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]">
 						Contact
 					</h4>
-					<div
-							class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent"
-					>
+					<div class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent">
 						<p class="m-0">info@visionprime.ae</p>
 						<p class="m-0">sales@visionprime.ae</p>
 						<p class="m-0">www.visionprime.ae</p>
 					</div>
-
+					<div class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
 				</div>
-				<div
-						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
-				>
-					<h4
-							class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
-					>
+				<div class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]">
+					<h4 class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]">
 						Working Hours
 					</h4>
-					<div
-							class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium"
-					>
+					<div class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium">
 						<p class="m-0">Monday–Friday: 9:00AM–6:00PM</p>
 						<p class="m-0">Saturday: 9:00AM–4:00PM</p>
 						<p class="m-0">Sunday: Closed</p>
 					</div>
-
+					<div class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden">
+						Design better and spend less time without restricting creative
+						freedom.
+					</div>
 				</div>
 			</div>
 		</div>

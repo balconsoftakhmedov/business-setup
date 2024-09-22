@@ -76,7 +76,7 @@ include_once( 'menu.php' );
 					<div
 							class="self-stretch flex flex-row items-start justify-center py-0 gap-measurements-gap-16 mq450:pl-5 mq450:pr-5 mq450:box-border  mq1250:box-border"
 					>
-						<button  onclick="openModal()"
+						<button onclick="openModal()"
 								class="cursor-pointer [border:none] py-numbers-10
 								px-numbers-12 bg-text-accent-purple-accent flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
 								rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 text-background-surface-default
@@ -84,7 +84,7 @@ include_once( 'menu.php' );
 
 
 							<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
-								<div	class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold  text-center">
+								<div class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold  text-center">
 									Book a 30 minutes free consultation
 								</div>
 							</div>
@@ -396,7 +396,7 @@ include_once( 'menu.php' );
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li><h6>Select Your Business Activity
-						</h6></h6></li>
+										</h6></h6></li>
 								</ol>
 							</div>
 						</div>
@@ -472,7 +472,7 @@ include_once( 'menu.php' );
 				</div>
 				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
 
-				<div
+					<div
 							class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
 					>
 						1.
@@ -511,10 +511,11 @@ include_once( 'menu.php' );
 							Choose Your Company Structure
 						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
-							Selecting the right company form is crucial for successful company formation in the UAE. Whether you're opting for a sole proprietorship, partnership, or using a local service agent, we guide foreign investors through each option, comparing mainland setups with free zone company structures to find the best fit.
+							Selecting the right company form is crucial for successful company formation in the UAE. Whether you're opting for a sole proprietorship, partnership, or using a local service agent, we guide foreign investors through each option, comparing mainland setups with free zone
+							company structures to find the best fit.
 						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""
@@ -531,10 +532,11 @@ include_once( 'menu.php' );
 							Secure a Local Sponsor or Service Agent
 						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
-							To start your new business journey in Dubai, you’ll need to secure a local sponsor or finalize a local service agent agreement. Whether you're forming a civil company or another structure, this partnership is essential for navigating legal requirements and ensuring a smooth setup.
+							To start your new business journey in Dubai, you’ll need to secure a local sponsor or finalize a local service agent agreement. Whether you're forming a civil company or another structure, this partnership is essential for navigating legal requirements and ensuring a
+							smooth setup.
 						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""
@@ -551,9 +553,10 @@ include_once( 'menu.php' );
 							Choose Office Space and Finalize the Trade name
 						</h3>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
-							Selecting the right office space is a key step in your business setup. Ensure your trade name aligns with UAE guidelines, as it’s required for your trade license application. The right location and name are essential for a successful business launch.</div>
+							Selecting the right office space is a key step in your business setup. Ensure your trade name aligns with UAE guidelines, as it’s required for your trade license application. The right location and name are essential for a successful business launch.
+						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""
@@ -571,17 +574,18 @@ include_once( 'menu.php' );
 							Open Your Corporate Bank Account
 						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
-							Once you open a company, the next crucial step is to establish a corporate bank account. This involves navigating the requirements of the digital government regulatory authority and selecting the best bank accounts for your business needs. A proper setup ensures compliance with corporate tax regulations and smooth financial operations.
+							Once you open a company, the next crucial step is to establish a corporate bank account. This involves navigating the requirements of the digital government regulatory authority and selecting the best bank accounts for your business needs. A proper setup ensures
+							compliance with corporate tax regulations and smooth financial operations.
 						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""
 							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
 					/>
 				</div>
-<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
 					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
 						6.
 					</div>
@@ -590,17 +594,18 @@ include_once( 'menu.php' );
 							Obtain the Necessary Approvals
 						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
-							For local company formation in Dubai, securing approvals from relevant government entities is essential. Whether you're ordering a free zone setup or a public joint stock company, our business consultants will guide you through the approval process, ensuring compliance with all local regulations for a smooth setup.
+							For local company formation in Dubai, securing approvals from relevant government entities is essential. Whether you're ordering a free zone setup or a public joint stock company, our business consultants will guide you through the approval process, ensuring compliance
+							with all local regulations for a smooth setup.
 						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""
 							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
 					/>
 				</div>
-<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
 					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
 						7.
 					</div>
@@ -609,17 +614,18 @@ include_once( 'menu.php' );
 							Complete the Final License and Registration
 						</h6>
 						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
-							Finalize your mainland license application by completing the registration process. Submit your approved business plan and any additional documents required for your business operations. This step ensures that you meet all regulatory requirements and obtain your official business license.
+							Finalize your mainland license application by completing the registration process. Submit your approved business plan and any additional documents required for your business operations. This step ensures that you meet all regulatory requirements and obtain your official
+							business license.
 						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""
 							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
 					/>
 				</div>
-<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
 					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
 						8.
 					</div>
@@ -631,7 +637,7 @@ include_once( 'menu.php' );
 							Once your Dubai company is established, apply for business visas for yourself and your employees. Ensure your business location complies with visa regulations for mainland companies. This step is crucial for legal employment and operational activities within Dubai.
 						</div>
 					</div>
-<img
+					<img
 							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
 							loading="lazy"
 							alt=""

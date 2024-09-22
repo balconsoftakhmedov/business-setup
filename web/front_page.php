@@ -1103,7 +1103,7 @@
 
 		<div class="max-w-[1200px] w-full  flex flex-row items-start justify-center">
 			<div class="max-w-[1200px] w-full  flex flex-col items-center justify-start gap-measurements-gap-40  mq750:gap-measurements-gap-40">
-				<button class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
+				<div class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center">
 					
 
 					<div class="flex flex-row items-center justify-center py-0 px-[3px]">
@@ -1112,7 +1112,7 @@
 						</div>
 					</div>
 					
-				</button>
+				</div>
 				<div class="">
 					<h3 class="m-0 w-full  text-center text-29xl text-text-base-primary font-body-s-bold
 					relative tracking-[-1px] leading-[54px] font-medium  inline-block

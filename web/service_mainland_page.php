@@ -388,138 +388,91 @@ include_once( 'menu.php' );
 		<div
 				class="self-stretch overflow-hidden flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-left text-5xl text-text-base-secondary mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border mq1050:pt-measurements-gap-80-48 mq1050:pb-measurements-gap-80-48 mq1050:box-border"
 		>
-			<div
-					class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[50px] gap-y-14 max-w-full mq750:gap-[25px]"
-			>
-				<div
-						class="flex-1 flex flex-col items-start justify-start min-w-[224px] max-w-full"
-				>
-					<div
-							class="self-stretch shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-row items-start justify-start py-[30px] px-[31px] min-h-[94px] max-w-full text-text-base-primary"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full"
-						>
-							<div
-									class="self-stretch relative tracking-[-0.3px] leading-[30px] font-medium mq450:text-lgi mq450:leading-[24px]"
-							>
+
+			<div class="max-w-[1200px] w-full  flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[50px] gap-y-14 mq750:gap-[25px]">
+				<div class="flex-1 flex flex-col items-start justify-start min-w-[224px] max-w-full">
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Select Your Business Activity</li>
+									<li><h6>Select Your Business Activity
+						</h6></h6></li>
 								</ol>
 							</div>
+						</div>
+					</button>
 
-						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Choose Your Company Structure</li>
+									<li><h6>Choose Your Company Structure</h6></li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					</button>
+
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Secure a Local Sponsor or Service Agent</li>
+									<li><h6>Secure a Local Sponsor or Service Agent</h6></li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					</button>
+
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full bg-background-surface-default border-border-base-alpha border-solid border-[1px]">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Choose Office Space and Finalize the Trade name</li>
+									<li><h6>Choose Office Space and Finalize the Trade name</h6></li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					</button>
+
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Open a Corporate Bank Account</li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					</button>
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
 									<li>Obtain the Necessary Approvals</li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					</button>
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Complete the Final License and Registration</li>
+									<li>Complete the Final License and Registration</li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
-					<div
-							class="self-stretch rounded-radius-3xl overflow-hidden flex flex-row items-start justify-start p-numbers-32 box-border max-w-full"
-					>
-						<div
-								class="flex-1 flex flex-col items-start justify-start max-w-full"
-						>
-							<h6
-									class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]"
-							>
+					</button>
+					<button class="tab-button cursor-pointer py-[30px] px-[31px] self-stretch rounded-radius-3xl box-border overflow-hidden flex flex-row items-start justify-start min-h-[94px] max-w-full">
+						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
+							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Apply for a Business Visa in Dubai</li>
+									<li>Apply for a Business Visa in DubaiComplete the Final License and Registration</li>
 								</ol>
-							</h6>
+							</div>
 						</div>
-					</div>
+					</button>
+
 				</div>
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+
 				<div
-						class="flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[23px] mq450:pb-[23px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 mq1050:pt-[35px] mq1050:pb-[35px] mq1050:box-border"
-				>
-					<div
 							class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq750:text-10xl mq750:leading-[34px]"
 					>
 						1.
@@ -548,10 +501,147 @@ include_once( 'menu.php' );
 							alt=""
 							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
 					/>
-
-
 				</div>
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						2.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Choose Your Company Structure
+						</h6>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Selecting the right company form is crucial for successful company formation in the UAE. Whether you're opting for a sole proprietorship, partnership, or using a local service agent, we guide foreign investors through each option, comparing mainland setups with free zone company structures to find the best fit.
+						</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						3.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Secure a Local Sponsor or Service Agent
+						</h6>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							To start your new business journey in Dubai, you’ll need to secure a local sponsor or finalize a local service agent agreement. Whether you're forming a civil company or another structure, this partnership is essential for navigating legal requirements and ensuring a smooth setup.
+						</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						4.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h3 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Choose Office Space and Finalize the Trade name
+						</h3>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Selecting the right office space is a key step in your business setup. Ensure your trade name aligns with UAE guidelines, as it’s required for your trade license application. The right location and name are essential for a successful business launch.</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+
+
+				<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						5.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Open Your Corporate Bank Account
+						</h6>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Once you open a company, the next crucial step is to establish a corporate bank account. This involves navigating the requirements of the digital government regulatory authority and selecting the best bank accounts for your business needs. A proper setup ensures compliance with corporate tax regulations and smooth financial operations.
+						</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						6.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Obtain the Necessary Approvals
+						</h6>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							For local company formation in Dubai, securing approvals from relevant government entities is essential. Whether you're ordering a free zone setup or a public joint stock company, our business consultants will guide you through the approval process, ensuring compliance with all local regulations for a smooth setup.
+						</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						7.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Complete the Final License and Registration
+						</h6>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Finalize your mainland license application by completing the registration process. Submit your approved business plan and any additional documents required for your business operations. This step ensures that you meet all regulatory requirements and obtain your official business license.
+						</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+<div class="tab-content flex-[0.7762] rounded-measurements-radius-xxxl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-col items-start justify-center py-[54px] px-[63px] gap-numbers-32 min-w-[320px] max-w-full text-17xl text-text-base-primary mq450:pt-[35px] mq450:pb-[35px] mq450:box-border mq750:gap-numbers-32 mq750:pl-[31px] mq750:pr-[31px] mq750:box-border mq750:flex-1 hidden">
+					<div class="self-stretch relative tracking-[-0.7px] leading-[42px] font-medium mq450:text-3xl mq450:leading-[25px] mq1050:text-10xl mq1050:leading-[34px]">
+						8.
+					</div>
+					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16 text-5xl">
+						<h6 class="m-0 self-stretch relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit mq450:text-lgi mq450:leading-[24px]">
+							Apply for a Business Visa in DubaiComplete the Final License and Registration
+						</h6>
+						<div class="relative text-lg tracking-[-0.2px] leading-[26px] text-text-base-secondary">
+							Once your Dubai company is established, apply for business visas for yourself and your employees. Ensure your business location complies with visa regulations for mainland companies. This step is crucial for legal employment and operational activities within Dubai.
+						</div>
+					</div>
+<img
+							class="self-stretch h-[392px] rounded-measurements-radius-xxl max-w-full overflow-hidden shrink-0 object-cover"
+							loading="lazy"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+					/>
+				</div>
+
+
 			</div>
+
 		</div>
 	</section>
 	<section

@@ -800,6 +800,10 @@ nav .parent > ul.sub-menu:before {
   color: rgb(83 20 163/var(--tw-text-opacity));
 }
 
+.stm-open .accordion-header {
+    --tw-text-opacity: 1;
+  color: rgb(83 20 163/var(--tw-text-opacity));
+}
 .navigation .navigation-menu .mobile-switcher {
   display: none !important;
   padding: 12px 10px;

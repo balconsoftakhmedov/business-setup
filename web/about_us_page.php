@@ -912,7 +912,7 @@
 			<div
 					class="flex-1 flex flex-row items-start justify-center flex-wrap content-start gap-x-6 gap-y-[30px] max-w-full"
 			>
-				<h3
+				<div
 						class="m-0 flex-1 relative text-inherit tracking-[-0.2px] leading-[28px] font-normal font-inherit inline-block min-w-[342px] max-w-full mq450:text-base mq450:leading-[22px]"
 				>
 					<p class="m-0">
@@ -928,8 +928,8 @@
 						can handle all the paperwork and red tape. Since every business
 						is unique, we work closely with you to find the best solutions.
 					</p>
-				</h3>
-				<h3
+				</div>
+				<div
 						class="m-0 flex-1 relative text-inherit tracking-[-0.2px] leading-[28px] font-normal font-inherit inline-block min-w-[342px] max-w-full mq450:text-base mq450:leading-[22px]"
 				>
 					<p class="m-0">
@@ -946,7 +946,7 @@
 						can choose the plan that works best for you, and we’ll
 						get started.
 					</p>
-				</h3>
+				</div>
 			</div>
 		</div>
 	</section>

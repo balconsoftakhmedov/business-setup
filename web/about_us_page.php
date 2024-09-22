@@ -92,11 +92,7 @@
 					<div
 							class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
 					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon4.svg"
-						/>
+						
 
 						<div
 								class="flex flex-row items-center justify-center py-0 px-[3px]"
@@ -107,11 +103,7 @@
 								Blank 2.5
 							</div>
 						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon5.svg"
-						/>
+
 					</div>
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
@@ -121,13 +113,7 @@
 						>
 							Your Business, Our Expertise
 						</h1>
-						<div
-								class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
-						>
-							We take a white-glove approach to our business setup services
-							in Dubai. We know every client has different needs, and we’re
-							here to meet you exactly where you are.
-						</div>
+
 					</div>
 
 				</div>
@@ -195,11 +181,7 @@
 					<button
 							class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue  h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center"
 					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon4.svg"
-						/>
+						
 
 						<div
 								class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
@@ -210,11 +192,7 @@
 								Our Vision and Values
 							</div>
 						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon5.svg"
-						/>
+
 					</button>
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
@@ -341,11 +319,7 @@
 					<button
 							class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center"
 					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon4.svg"
-						/>
+						
 
 						<div
 								class="flex flex-row items-center justify-center py-0 px-[3px]"
@@ -356,11 +330,7 @@
 								Our Team
 							</div>
 						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon5.svg"
-						/>
+
 					</button>
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
@@ -370,11 +340,7 @@
 						>
 							Meet the Experts
 						</h1>
-						<div
-								class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
-						>
-							We are the Top Business Setup Consultants in the UAE.
-						</div>
+
 					</div>
 
 				</div>
@@ -796,11 +762,7 @@
 			<div
 					class="w-[1200px] flex flex-col items-center justify-start gap-numbers-48 max-w-full mq800:gap-numbers-48"
 			>
-				<div
-						class="w-72 relative tracking-[-0.2px] leading-[26px] font-medium hidden"
-				>
-					Trusted by the biggest companies
-				</div>
+
 				<div
 						class="self-stretch flex flex-col items-start justify-start max-w-full text-sm text-text-accent-blue-inverted"
 				>
@@ -813,11 +775,7 @@
 							<div
 									class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
 							>
-								<img
-										class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/leadicon4.svg"
-								/>
+
 
 								<div
 										class="flex flex-row items-center justify-center py-0 px-[3px]"
@@ -828,11 +786,7 @@
 										Trusted by
 									</div>
 								</div>
-								<img
-										class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-										alt=""
-										src="/wp-content/themes/business-setup/web/public/tailicon5.svg"
-								/>
+
 							</div>
 							<div
 									class="self-stretch flex flex-col items-center justify-start py-0 px-[84px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[21px] mq800:pr-[21px] mq800:box-border mq1125:pl-[42px] mq1125:pr-[42px] mq1125:box-border"
@@ -842,13 +796,7 @@
 								>
 									The Global Industry Leaders
 								</h1>
-								<div
-										class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
-								>
-									We take a white-glove approach to our business setup
-									services in Dubai. We know every client has different
-									needs, and we’re here to meet you exactly where you are.
-								</div>
+
 							</div>
 
 						</div>
@@ -931,11 +879,7 @@
 					<div
 							class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
 					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon4.svg"
-						/>
+						
 
 						<div
 								class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
@@ -946,11 +890,7 @@
 								Why Vision Prime?
 							</div>
 						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon5.svg"
-						/>
+
 					</div>
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
@@ -960,13 +900,7 @@
 						>
 							Top Reasons for using Services
 						</h1>
-						<div
-								class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
-						>
-							We take a white-glove approach to our business setup services
-							in Dubai. We know every client has different needs, and we’re
-							here to meet you exactly where you are.
-						</div>
+
 					</div>
 
 				</div>
@@ -1031,11 +965,7 @@
 					<div
 							class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
 					>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/leadicon4.svg"
-						/>
+						
 
 						<div
 								class="flex flex-row items-center justify-center py-0 px-[3px]"
@@ -1046,11 +976,7 @@
 								Contacts
 							</div>
 						</div>
-						<img
-								class="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/tailicon5.svg"
-						/>
+
 					</div>
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
@@ -1060,13 +986,7 @@
 						>
 							Get in Touch and Visit Us
 						</h1>
-						<div
-								class="w-full relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary hidden max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
-						>
-							We take a white-glove approach to our business setup services
-							in Dubai. We know every client has different needs, and we’re
-							here to meet you exactly where you are.
-						</div>
+
 					</div>
 
 				</div>
@@ -1091,12 +1011,7 @@
 					>
 						176 Street Name, New York, NY 10014
 					</div>
-					<div
-							class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden"
-					>
-						Design better and spend less time without restricting creative
-						freedom.
-					</div>
+
 				</div>
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px] text-lg"
@@ -1122,12 +1037,7 @@
 							+971 4 567 8901
 						</p>
 					</div>
-					<div
-							class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden"
-					>
-						Design better and spend less time without restricting creative
-						freedom.
-					</div>
+
 				</div>
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
@@ -1144,12 +1054,7 @@
 						<p class="m-0">sales@visionprime.ae</p>
 						<p class="m-0">www.visionprime.ae</p>
 					</div>
-					<div
-							class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden"
-					>
-						Design better and spend less time without restricting creative
-						freedom.
-					</div>
+
 				</div>
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
@@ -1166,12 +1071,7 @@
 						<p class="m-0">Saturday: 9:00AM–4:00PM</p>
 						<p class="m-0">Sunday: Closed</p>
 					</div>
-					<div
-							class="self-stretch relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary hidden"
-					>
-						Design better and spend less time without restricting creative
-						freedom.
-					</div>
+
 				</div>
 			</div>
 		</div>

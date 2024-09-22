@@ -210,7 +210,11 @@ include_once( 'menu.php' );
 					</div>
 				</div>
 				<div
-						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-center min-w-[320px] max-w-full"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out
+						flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl
+						 bg-background-surface-default border-border-base-alpha
+						 border-[1px] border-solid box-border overflow-hidden flex flex-col
+						 items-start justify-center min-w-[320px] min-h-[470px] max-w-full"
 				>
 					<div
 							class="self-stretch flex flex-col items-start justify-center p-numbers-40 gap-numbers-24 mq450:pt-numbers-40 mq450:pb-numbers-40 mq450:box-border"
@@ -436,7 +440,7 @@ include_once( 'menu.php' );
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Open a Corporate Bank Account</li>
+									<li><h6>Open a Corporate Bank Account</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -445,7 +449,7 @@ include_once( 'menu.php' );
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Obtain the Necessary Approvals</li>
+									<li><h6>Obtain the Necessary Approvals</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -454,7 +458,7 @@ include_once( 'menu.php' );
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Complete the Final License and Registration</li>
+									<li><h6>Complete the Final License and Registration</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -463,7 +467,7 @@ include_once( 'menu.php' );
 						<div class="flex-1 flex flex-col items-start justify-start gap-numbers-16 max-w-full">
 							<div class="self-stretch relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-body-s-bold text-text-base-primary text-left mq450:text-lgi mq450:leading-[24px]">
 								<ol class="m-0 font-inherit text-inherit pl-8">
-									<li>Apply for a Business Visa in DubaiComplete the Final License and Registration</li>
+									<li><h6>Apply for a Business Visa in DubaiComplete the Final License and Registration</h6></li>
 								</ol>
 							</div>
 						</div>
@@ -699,7 +703,7 @@ include_once( 'menu.php' );
 					class="flex-1 flex flex-row items-start justify-start flex-wrap content-start gap-numbers-24 min-w-[320px] min-h-[768px] max-w-full"
 			>
 				<div
-						class="h-[372px] flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] overflow-hidden flex flex-col items-start justify-between min-w-[320px] max-w-full"
+						class="min-h-[372px] flex-1  overflow-hidden flex flex-col items-start justify-between min-w-[320px] max-w-full"
 				>
 					<div class="relative tracking-[-0.2px] leading-[26px]">
 						At Business set up Dubai, we streamline your company’s
@@ -719,10 +723,7 @@ include_once( 'menu.php' );
 						</ol>
 					</div>
 					<div class="relative tracking-[-0.2px] leading-[26px]">
-						Our dedicated team will support you through every step, from
-						planning to final setup, making your journey seamless and
-						successful.
-					</div>
+						Our dedicated team will support you through every step, from planning to final setup, making your journey seamless and	successful.	</div>
 					<button onclick="openModal()"
 							class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent w-auto shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
 							rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center box-border gap-numbers-4
@@ -833,7 +834,7 @@ include_once( 'menu.php' );
 							Tailored Corporate Services for Foreign Companies
 						</h6>
 						<div
-								class="relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary"
+								class="relative text-base tracking-[-0.2px] leading-[24px] text-text-base-secondary min-h-[120px]"
 						>
 							In the UAE, our consultants specialize in providing tailored
 							corporate services for foreign companies. We offer expert
@@ -981,6 +982,87 @@ include_once( 'menu.php' );
 		</div>
 	</section>
 
+	<section class="self-stretch bg-background-surface-neutral flex flex-row items-center justify-center pt-0 px-5 pb-measurements-gap-80 box-border max-w-full text-left text-sm text-text-base-secondary font-body-s-bold lg:gap-measurements-gap-80 mq750:gap-measurements-gap-80">
+		<div class="w-[1062px] flex flex-row items-center justify-center max-w-full [row-gap:20px] mq1050:flex-wrap mq650:flex-col">
+			<div class="flex-1 mq1170:flex-none flex flex-row items-center justify-center py-0 pl-12 pr-[49px] box-border gap-[15px] min-w-[172px] mq450:pl-5 mq450:pr-5 mq450:box-border">
+				<div class="h-[50px] rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-row items-center justify-center py-[11px] px-3">
+					<img class="h-6 w-6 relative" alt="" src="/wp-content/themes/business-setup/web/public/iconsgoogle-original.svg">
+				</div>
+				<div class="flex-1 flex flex-col items-start justify-start gap-[3px]">
+					<div class="self-stretch flex flex-row items-start justify-start gap-[5px]">
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-91.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-101.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-111.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-12.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-13.svg">
+					</div>
+					<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-w-[92px]">
+						4.7 on Google
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-row items-center justify-center py-0 px-[46px] gap-[15px] mq450:pl-5 mq450:pr-5 mq450:box-border">
+				<div class="self-stretch rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid flex flex-row items-center justify-center p-3">
+					<img class="h-[22.6px] w-6 relative" alt="" src="/wp-content/themes/business-setup/web/public/group-8886.svg">
+				</div>
+				<div class="flex flex-col items-start justify-start gap-[3px]">
+					<div class="flex flex-row items-start justify-start gap-[5px]">
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-14.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-15.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-16.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-17.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-18.svg">
+					</div>
+					<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-w-[108px]">
+						4.2 on Trustpilot
+					</div>
+				</div>
+			</div>
+			<div class="flex-1 mq1170:flex-none flex flex-row items-center justify-center py-0 pl-12 pr-[49px] box-border gap-[15px] min-w-[172px] mq450:pl-5 mq450:pr-5 mq450:box-border">
+				<div class="h-[50px] w-[50px] relative rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border">
+					<img class="absolute top-[13px] left-[9px] w-7 h-7 object-cover mix-blend-darken" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/image-18@2x.png">
+				</div>
+				<div class="flex-1 flex flex-col items-start justify-start gap-[3px]">
+					<div class="self-stretch flex flex-row items-start justify-start gap-[5px]">
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-91.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-101.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-111.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-12.svg">
+
+						<img class="h-4 w-[16.5px] relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-13.svg">
+					</div>
+					<div class="relative tracking-[-0.1px] leading-[20px] inline-block min-w-[103px]">
+						5.0 on Capterra
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-row items-center justify-center py-0 px-[41px] gap-[15px] text-lg text-text-base-primary mq:650:ml-[20px]">
+				<div class="self-stretch rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-row items-center justify-center py-3.5 px-3 w-[50px] h-[50px]">
+					<img class="h-[18.7px] w-6 relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-24.svg">
+				</div>
+				<div class="relative">
+					<p class="m-0">
+						<b class="tracking-[-0.2px] leading-[26px]">2,000+</b>
+					</p>
+					<p class="m-0 text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  ">
+						Happy Customers
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
 
 	<section
 			class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold"
@@ -1027,7 +1109,7 @@ include_once( 'menu.php' );
 		<div
 				class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full text-left text-lg text-text-base-primary mq450:gap-numbers-64 mq750:gap-numbers-64 mq750:pt-measurements-gap-80-48 mq750:pb-measurements-gap-80-48 mq750:box-border"
 		>
-			
+
 
 			<div class="max-w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-5 w-full
 				 text-left text-lg text-general-8-secondary
@@ -1161,7 +1243,7 @@ include_once( 'menu.php' );
 					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
 						<div class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full ">
 							Can I set up a Mainland company without a physical office space?
-						</h3>
+						</div>
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
 						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
 
@@ -1176,16 +1258,12 @@ include_once( 'menu.php' );
 			</div>
 				</div>
 		</div>
-		</div>
-
-
-
-
-
-
-
 
 	</section>
+
+
+
+
 	<section
 			class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold"
 	>
@@ -1419,6 +1497,12 @@ include_once( 'menu.php' );
 			</div>
 		</div>
 	</section>
+
+
+
+
+
+
 
 
 </div>

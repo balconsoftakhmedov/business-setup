@@ -1420,8 +1420,8 @@
 
 
 	<section class="self-stretch bg-background-surface-neutral flex flex-row items-center justify-center pt-0 px-5 pb-measurements-gap-80 box-border max-w-full text-left text-sm text-text-base-secondary font-body-s-bold lg:gap-measurements-gap-80 mq750:gap-measurements-gap-80">
-		<div class="w-[1062px] flex flex-row items-center justify-center max-w-full [row-gap:20px] mq1050:flex-wrap">
-			<div class="flex-1 flex flex-row items-center justify-center py-0 pl-12 pr-[49px] box-border gap-[15px] min-w-[172px] mq450:pl-5 mq450:pr-5 mq450:box-border">
+		<div class="w-[1062px] flex flex-row items-center justify-center max-w-full [row-gap:20px] mq1050:flex-wrap mq650:flex-col">
+			<div class="flex-1 mq1170:flex-none flex flex-row items-center justify-center py-0 pl-12 pr-[49px] box-border gap-[15px] min-w-[172px] mq450:pl-5 mq450:pr-5 mq450:box-border">
 				<div class="h-[50px] rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-row items-center justify-center py-[11px] px-3">
 					<img class="h-6 w-6 relative" alt="" src="/wp-content/themes/business-setup/web/public/iconsgoogle-original.svg">
 				</div>
@@ -1463,7 +1463,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="flex-1 flex flex-row items-center justify-center py-0 pl-12 pr-[49px] box-border gap-[15px] min-w-[172px] mq450:pl-5 mq450:pr-5 mq450:box-border">
+			<div class="flex-1 mq1170:flex-none flex flex-row items-center justify-center py-0 pl-12 pr-[49px] box-border gap-[15px] min-w-[172px] mq450:pl-5 mq450:pr-5 mq450:box-border">
 				<div class="h-[50px] w-[50px] relative rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border">
 					<img class="absolute top-[13px] left-[9px] w-7 h-7 object-cover mix-blend-darken" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/image-18@2x.png">
 				</div>
@@ -1484,7 +1484,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="flex flex-row items-center justify-center py-0 px-[41px] gap-[15px] text-lg text-text-base-primary">
+			<div class="flex flex-row items-center justify-center py-0 px-[41px] gap-[15px] text-lg text-text-base-primary mq:650:ml-[20px]">
 				<div class="self-stretch rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-row items-center justify-center py-3.5 px-3 w-[50px] h-[50px]">
 					<img class="h-[18.7px] w-6 relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-24.svg">
 				</div>

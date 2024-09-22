@@ -970,6 +970,22 @@ video {
   min-height: 100%;
 }
 
+.min-h-\[\] {
+  min-height: ;
+}
+
+.min-h-\[470px\] {
+  min-height: 470px;
+}
+
+.min-h-\[120px\] {
+  min-height: 120px;
+}
+
+.min-h-\[372px\] {
+  min-height: 372px;
+}
+
 .w-16 {
   width: 4rem;
 }
@@ -4506,6 +4522,10 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
     max-width: 100%;
   }
 
+  .mq1170\:flex-none {
+    flex: none;
+  }
+
   .mq1170\:px-\[20px\] {
     padding-left: 20px;
     padding-right: 20px;
@@ -5070,6 +5090,10 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 
   .mq650\:min-w-\[50px\] {
     min-width: 50px;
+  }
+
+  .mq650\:flex-col {
+    flex-direction: column;
   }
 
   .mq650\:gap-\[5px\] {

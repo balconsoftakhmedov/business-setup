@@ -641,8 +641,9 @@
 				class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full mq800:gap-numbers-64 mq800:pt-measurements-gap-80-48 mq800:pb-measurements-gap-80-48 mq800:box-border mq450:gap-numbers-64"
 		>
 
-
-			<div class="max-w-[1200px] flex flex-row items-center justify-center flex-wrap content-center
+<div class="slider-wrapper max-w-[1200px]">
+                <div class="slider">
+			<div class="max-w-[1200px]  slide  flex flex-row items-center justify-center flex-wrap content-center
 					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px]">
 				<div
 						class="flex-1 flex flex-col items-start justify-center gap-numbers-40 min-w-[320px] max-w-full mq800:gap-numbers-40"
@@ -707,7 +708,7 @@
 							class="flex flex-row items-start justify-start gap-numbers-16"
 					>
 						<div
-								class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
+								class="cursor-pointer prevBtn rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
 						>
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0"
@@ -716,7 +717,7 @@
 							/>
 						</div>
 						<div
-								class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
+								class="cursor-pointer nextBtn rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
 						>
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0"
@@ -737,8 +738,8 @@
 
 				</div>
 			</div>
-	
-			<div class="max-w-[1200px] flex flex-row items-center justify-center flex-wrap content-center
+
+			<div class="max-w-[1200px]  slide  flex flex-row items-center justify-center flex-wrap content-center
 					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px]">
 				<div
 						class="flex-1 flex flex-col items-start justify-center gap-numbers-40 min-w-[320px] max-w-full mq800:gap-numbers-40"
@@ -803,7 +804,7 @@
 							class="flex flex-row items-start justify-start gap-numbers-16"
 					>
 						<div
-								class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
+								class="cursor-pointer nextBtn rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
 						>
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0"
@@ -812,7 +813,7 @@
 							/>
 						</div>
 						<div
-								class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
+								class="cursor-pointer prevBtn rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
 						>
 							<img
 									class="h-5 w-5 relative overflow-hidden shrink-0"
@@ -833,7 +834,8 @@
 
 				</div>
 			</div>
-
+				</div>
+</div>
 		</div>
 	</section>
 	<section

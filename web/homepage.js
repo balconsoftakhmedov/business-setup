@@ -196,16 +196,39 @@ document.addEventListener('DOMContentLoaded', () => {
         slider.style.transform = `translateX(${-currentSlide * 100}%)`;
     }
 
-    // Add event listeners to the navigation buttons
-    document.getElementById('prevBtn').addEventListener('click', () => {
+	// Add event listeners to the navigation buttons
+	const prevBtn = document.getElementById('prevBtn');
+	const nextBtn = document.getElementById('nextBtn');
+
+	if (prevBtn) {
+		prevBtn.addEventListener('click', () => {
+			currentSlide--;
+			showSlide(currentSlide);
+		});
+	}
+
+	if (nextBtn) {
+		nextBtn.addEventListener('click', () => {
+			currentSlide++;
+			showSlide(currentSlide);
+		});
+	}
+
+
+	document.querySelectorAll('.prevBtn').forEach(button => {
+    button.addEventListener('click', () => {
         currentSlide--;
         showSlide(currentSlide);
     });
+});
 
-    document.getElementById('nextBtn').addEventListener('click', () => {
+document.querySelectorAll('.nextBtn').forEach(button => {
+    button.addEventListener('click', () => {
         currentSlide++;
         showSlide(currentSlide);
     });
+});
+
 
     // Initial slide setup
     showSlide(currentSlide);

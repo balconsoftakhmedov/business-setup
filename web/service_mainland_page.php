@@ -41,14 +41,14 @@ include_once( 'menu.php' );
 					>
 						Tailored Solutions for Your Business Activities
 					</h1>
-					<h3
+					<div
 							class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary mq450:text-base mq450:leading-[22px]"
 					>
 						Simplify your business setup in the UAE with our professional,
 						cost-effective solutions. From company formation in Dubai
 						to seamless company registration, we ensure a smooth start for
 						your venture.
-					</h3>
+					</div>
 				</div>
 				<div
 						class="self-stretch hidden flex-row items-start justify-start flex-wrap content-start gap-10 text-left text-base text-text-base-secondary"
@@ -372,7 +372,7 @@ include_once( 'menu.php' );
 						>
 							Dubai Mainland
 						</h3>
-						<h3
+						<div
 								class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary inline-block max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full"
 						>
 							Understanding the Dubai Mainland company formation cost and
@@ -381,7 +381,7 @@ include_once( 'menu.php' );
 							Here’s a guide from our business setup consultants
 							to the essential steps involved in setting up your business
 							on the Dubai Mainland.
-						</h3>
+						</div>
 					</div>
 
 				</div>

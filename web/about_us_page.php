@@ -634,19 +634,16 @@
 		</div>
 
 	</section>
-
-
-
-
 	<section
 			class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-left text-17xl text-text-base-primary font-body-s-bold"
 	>
 		<div
 				class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border max-w-full mq800:gap-numbers-64 mq800:pt-measurements-gap-80-48 mq800:pb-measurements-gap-80-48 mq800:box-border mq450:gap-numbers-64"
 		>
-			<div
-					class="w-[1200px] flex flex-row items-center justify-center flex-wrap content-center gap-x-[102px] gap-y-[108px] max-w-full mq800:gap-[25px] mq1325:gap-[51px]"
-			>
+
+
+			<div class="max-w-[1200px] flex flex-row items-center justify-center flex-wrap content-center
+					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px]">
 				<div
 						class="flex-1 flex flex-col items-start justify-center gap-numbers-40 min-w-[320px] max-w-full mq800:gap-numbers-40"
 				>
@@ -735,17 +732,108 @@
 					<img
 							class="h-[480px] flex-1 rounded-measurements-radius-xxxl max-w-full overflow-hidden object-cover"
 							alt=""
-							src="/wp-content/themes/business-setup/web/public/placeholder@2x.png"
+							src="/wp-content/themes/business-setup/web/public/video-girl.png"
 					/>
 
-					<img
-							class="h-[120px] w-[120px] absolute !m-[0] top-[calc(50%_-_60px)] left-[calc(50%_-_60px)] z-[1]"
-							loading="lazy"
-							alt=""
-							src="/wp-content/themes/business-setup/web/public/icon-play.svg"
-					/>
 				</div>
 			</div>
+	
+			<div class="max-w-[1200px] flex flex-row items-center justify-center flex-wrap content-center
+					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px]">
+				<div
+						class="flex-1 flex flex-col items-start justify-center gap-numbers-40 min-w-[320px] max-w-full mq800:gap-numbers-40"
+				>
+					<div
+							class="flex flex-row items-start justify-start gap-numbers-8"
+					>
+						<img
+								class="h-5 w-5 relative overflow-hidden shrink-0"
+								loading="lazy"
+								alt=""
+								src="/wp-content/themes/business-setup/web/public/star-icon.svg"
+						/>
+
+						<img
+								class="h-5 w-5 relative overflow-hidden shrink-0"
+								alt=""
+								src="/wp-content/themes/business-setup/web/public/star-icon.svg"
+						/>
+
+						<img
+								class="h-5 w-5 relative overflow-hidden shrink-0"
+								alt=""
+								src="/wp-content/themes/business-setup/web/public/star-icon.svg"
+						/>
+
+						<img
+								class="h-5 w-5 relative overflow-hidden shrink-0"
+								alt=""
+								src="/wp-content/themes/business-setup/web/public/star-icon.svg"
+						/>
+
+						<img
+								class="h-5 w-5 relative overflow-hidden shrink-0"
+								alt=""
+								src="/wp-content/themes/business-setup/web/public/star-icon.svg"
+						/>
+					</div>
+					<h4
+							class="m-0 relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
+					>
+						Business set up Dubai made starting my business in the UAE so
+						much easier. They know their way around the rules and
+						regulations, and they saved me a ton of time and stress.
+						I really appreciate their helpfulness and support.
+					</h4>
+					<div
+							class="flex flex-col items-start justify-center gap-numbers-8 text-base"
+					>
+						<div
+								class="relative tracking-[-0.2px] leading-[24px] font-medium"
+						>
+							Sarah Musk
+						</div>
+						<div
+								class="relative tracking-[-0.2px] leading-[24px] text-text-base-secondary inline-block min-w-[97px]"
+						>
+							Founder of A
+						</div>
+					</div>
+					<div
+							class="flex flex-row items-start justify-start gap-numbers-16"
+					>
+						<div
+								class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
+						>
+							<img
+									class="h-5 w-5 relative overflow-hidden shrink-0"
+									alt=""
+									src="/wp-content/themes/business-setup/web/public/icon-1.svg"
+							/>
+						</div>
+						<div
+								class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
+						>
+							<img
+									class="h-5 w-5 relative overflow-hidden shrink-0"
+									alt=""
+									src="/wp-content/themes/business-setup/web/public/tailicon3.svg"
+							/>
+						</div>
+					</div>
+				</div>
+				<div
+						class="flex flex-row items-center justify-end relative min-w-[320px] max-w-full"
+				>
+					<img
+							class="h-[480px] flex-1 rounded-measurements-radius-xxxl max-w-full overflow-hidden object-cover"
+							alt=""
+							src="/wp-content/themes/business-setup/web/public/video-girl.png"
+					/>
+
+				</div>
+			</div>
+
 		</div>
 	</section>
 	<section

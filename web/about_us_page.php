@@ -477,347 +477,166 @@
               </div>
 			</div>
 		</div>
+		<div class="max-w-[1200px] w-full  grid grid-cols-4 gap-[30px] z-[1]    text-left text-5xl text-background-surface-default
+		  lg:justify-center lg:grid-cols-2 mq450:grid-cols-2 mq650:gap-[5px] mq350:grid-cols-1  mq350:gap-[10px]">
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden flex
+			flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
+			 bg-[url('/wp-content/themes/business-setup/web/public/container4@3x.png')]
+			 bg-cover bg-no-repeat bg-[top] transition-transform duration-300 ease-in-out hover:scale-105
+			 hover:bg-opacity-75 mq450:px-[15px] mq450:py-[15px]">
+			 <h6
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Roxanna
+              </h6>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Founder & CEO
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  loading="lazy"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
+                />
 
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  loading="lazy"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
+                />
 
-	</section>
-	<section
-			class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-29xl text-text-base-primary font-body-s-bold"
-	>
-		<div
-				class="self-stretch flex flex-col items-start justify-start max-w-full"
-		>
-			<div
-					class="self-stretch flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border max-w-full"
-			>
-				<div
-						class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq800:gap-measurements-gap-40"
-				>
-					<div
-							class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center"
-					>
-						
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  loading="lazy"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
+                />
+              </div>
+			</div>
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px]  mq350:h-[350px] transition-transform duration-300
+			ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
+			justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('/wp-content/themes/business-setup/web/public/container5@3x.png')]
+			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
+			 <h6
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Boris
+              </h6>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Managing Partner
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
+                />
 
-						<div
-								class="flex flex-row items-center justify-center py-0 px-[3px]"
-						>
-							<div
-									class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-text-accent-blue-inverted text-center inline-block min-w-[66px]"
-							>
-								Our Team
-							</div>
-						</div>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
+                />
 
-					</div>
-					<div
-							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
-					>
-						<h3
-								class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
-						>
-							Meet the Experts
-						</h3>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
+                />
+              </div>
+			</div>
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px] transition-transform duration-300
+			 ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
+			 justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
+			 bg-[url('/wp-content/themes/business-setup/web/public/member-info2@3x.png')]
+			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
 
-					</div>
+				   <h6
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+               Camilla
+              </h6>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Head of Consulting
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
+                />
 
-				</div>
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
+                />
+
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
+                />
+              </div>
+
+			</div>
+			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden  transition-transform duration-300
+			 ease-in-out hover:scale-105 hover:bg-opacity-75 flex flex-col items-start justify-end
+			  py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
+			  bg-[url('/wp-content/themes/business-setup/web/public/container7@3x.png')]
+			  bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
+				<h6
+                class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
+              >
+                Valentine
+              </h6>
+              <div
+                class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
+              >
+                Managing Partner
+              </div>
+              <div
+                class="flex flex-row items-center justify-end gap-numbers-16"
+              >
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
+                />
+
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
+                />
+
+                <img
+                  class="h-6 w-6 relative overflow-hidden shrink-0"
+                  alt=""
+                  src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
+                />
+              </div>
 			</div>
 		</div>
-		<div
-				class="self-stretch flex flex-col items-center justify-center py-measurements-gap-80-48 px-5 box-border gap-measurements-gap-32 max-w-full text-left text-5xl text-background-surface-default mq800:gap-measurements-gap-32 mq450:pt-measurements-gap-80-48 mq450:pb-measurements-gap-80-48 mq450:box-border mq1125:pt-measurements-gap-80-48 mq1125:pb-measurements-gap-80-48 mq1125:box-border"
-		>
-			<div
-					class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full"
-			>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Arsen
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Managing Partner
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								loading="lazy"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
 
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								loading="lazy"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								loading="lazy"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container1@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Elena
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Founder & CEO
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container2@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Samuel
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Managing Partner
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container3@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Jaiden
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Head of Consulting
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-			</div>
-			<div
-					class="w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-x-[20.7px] gap-y-6 max-w-full"
-			>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container4@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Roxanna
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Founder & CEO
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container5@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Boris
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Managing Partner
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container6@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Camilla
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Head of Consulting
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-				<div
-						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container7@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
-				>
-					<h6
-							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
-					>
-						Valentine
-					</h6>
-					<div
-							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
-					>
-						Managing Partner
-					</div>
-					<div
-							class="flex flex-row items-center justify-end gap-numbers-16"
-					>
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/twitterfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/instagramfill.svg"
-						/>
-
-						<img
-								class="h-6 w-6 relative overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/facebookcirclefill.svg"
-						/>
-					</div>
-				</div>
-			</div>
-		</div>
 	</section>
+
+
+
 
 	<section
 			class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-left text-17xl text-text-base-primary font-body-s-bold"

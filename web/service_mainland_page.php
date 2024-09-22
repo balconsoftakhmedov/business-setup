@@ -1439,6 +1439,155 @@ include_once( 'menu.php' );
 				</div>
 			</div>
 		</div>
+		<div class="max-w-[1200px] flex flex-row items-start justify-center flex-wrap content-start gap-5 w-full
+				 text-left text-lg text-general-8-secondary
+				 font-body-s-bold">
+			<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[374px] max-w-full mq450:min-w-full">
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							What is a mainland license in the UAE?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					
+					
+					
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						<p class="m-0">
+							A mainland license in the UAE allows businesses to operate within the local market and engage in a wide range of activities. It is issued by the Department of Economic Development (DED) and provides broader operational freedom compared to free zones. </p>
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							What is the difference between a mainland and a free zone company in the UAE?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						No, a business setup in Dubai, Mainland, typically requires a local sponsor or service agent, especially for certain business structures. This local partner helps navigate regulations and provides essential support for legal compliance.
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							How is an LLC formed in the UAE?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						Mainland companies can operate across the UAE and directly engage with the local market, while free zone companies are restricted to operating within their specific free zone and require a local distributor to engage in the UAE market.
+
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							Can I have 100% ownership in my business setup in Dubai, Mainland?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						Yes, you can have 100% ownership of your business setup in Dubai, Mainland, if you establish it as a professional service company. For other business types, a local sponsor may be required, but 100% ownership is possible in certain cases.
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							How much tax do I pay on a Mainland company in Dubai?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						In Dubai, mainland companies benefit from low corporate tax rates. Typically, there is no corporate tax on most business activities unless the company is engaged in oil and gas or foreign banking. Companies need a trade license and can enjoy tax advantages with proper
+						business setup services. For detailed tax obligations, consult with experts during your Dubai mainland company formation process.
+					</div>
+				</div>
+
+
+			</div>
+			<div class="flex-1 flex flex-col items-start justify-start gap-5 min-w-[374px] max-w-full mq450:min-w-full">
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							Are there ownership restrictions on Mainland businesses set up in Dubai?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						In the Dubai Mainland business setup, ownership restrictions depend on the company type. For a limited liability company (LLC), a local sponsor may hold 51% of shares, but full ownership is possible for professional services. Free-zone businesses, however, allow 100% foreign
+						ownership without local sponsors.
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							Are there any restrictions on the number of visas for a Mainland business setup in Dubai?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						Yes, there are restrictions on the number of visas for a Mainland business setup in Dubai. The number of visas depends on the size of the office space and the company's trade license. Business setup services can provide a detailed analysis based on your business activities
+						and physical address.
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							How long does it take to set up a Mainland company in Dubai?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						Setting up a Mainland company in Dubai typically takes 2 to 4 weeks, depending on the complexity of your business activities and the efficiency of obtaining approvals. This timeframe includes processing the trade license, office space setup, and bank account arrangements.
+					</div>
+				</div>
+
+				<div class="accordion-item rounded-measurements-radius-lg w-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[22px] px-7 gap-6 max-w-full mq450:pt-5 mq450:pb-5 mq450:box-border">
+					<div class="accordion-header self-stretch flex flex-row items-center justify-start gap-4 max-w-full cursor-pointer mq850:flex-wrap">
+						<h3 class=" flex-1  font-medium relative leading-[24px] inline-block  min-w-[314px] mq650:min-w-[50px] max-w-full text-17px  text-17px">
+							Can I set up a Mainland company without a physical office space?
+						</h3>
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-minus hidden" alt="" src="/wp-content/themes/business-setup/web/public/subtractline.svg">
+						<img decoding="async" class="h-4 w-4 relative transform transition-transform duration-300 stm-plus" alt="" src="/wp-content/themes/business-setup/web/public/icon-7.svg">
+				
+					</div>
+					<div class="accordion-content self-stretch relative text-sm leading-[24px] tracking-[-0.1px] leading-[20px] text-text-base-secondary hidden">
+						For a Mainland company setup in Dubai, a physical office space is generally required. However, you may use a virtual office address as part of your business setup services if it meets specific requirements. Consult with experts to ensure compliance with Dubai mainland license
+						regulations.
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+
+
+
 	</section>
 	<section
 			class="self-stretch bg-background-surface-neutral flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold"

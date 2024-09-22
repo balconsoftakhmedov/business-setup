@@ -133,11 +133,11 @@
               <div
                 class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border"
               >
-                <h1
+                <h3
                   class="m-0 relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full"
                 >
                   Company Formation in Dubai Explained
-                </h1>
+                </h3>
 
               </div>
 
@@ -367,11 +367,11 @@
               <div
                 class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full text-29xl text-text-base-primary mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border"
               >
-                <h1
+                <h3
                   class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full"
                 >
                   Dubai Mainland
-                </h1>
+                </h3>
                 <h3
                   class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary inline-block max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full"
                 >
@@ -587,11 +587,11 @@
               <div
                 class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border"
               >
-                <h1
+                <h3
                   class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full"
                 >
                   Top Reasons for using Services
-                </h1>
+                </h3>
 
               </div>
 
@@ -751,180 +751,141 @@
           </div>
         </div>
       </section>
-      <section
-        class="self-stretch bg-background-surface-neutral flex flex-row items-start justify-start max-w-full text-center text-sm text-text-base-primary font-body-s-bold"
-      >
-        <div
-          class="flex-1 flex flex-row items-start justify-center pt-0 px-0 pb-measurements-gap-80-48 box-border max-w-full mq750:gap-numbers-64 mq750:pb-measurements-gap-80-48 mq750:box-border mq1050:pb-measurements-gap-80-48 mq1050:box-border mq1250:gap-numbers-64"
-        >
-          <div
-            class="w-[1200px] flex flex-col items-start justify-start py-0 px-[204px] box-border gap-numbers-40 max-w-full mq450:pl-5 mq450:pr-5 mq450:box-border mq750:gap-numbers-40 mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border"
-          >
-            <div
-              class="ml-[-324px] flex flex-col items-start justify-start max-w-[182%] text-text-accent-blue-inverted"
-            >
-              <div
-                class="w-[1440px] flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border"
-              >
-                <div
-                  class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40"
-                >
-                  <div
-                    class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
-                  >
+
+	  <section class="self-stretch bg-background-surface-neutral flex
+	 flex-row items-center justify-center max-w-full text-center text-sm
+	 text-text-base-primary font-body-s-bold">
+		<div class="flex-1 flex flex-row items-center justify-center
+		pt-0 px-0 pb-measurements-gap-80-48 box-border max-w-full lg:gap-numbers-64
+		mq750:gap-numbers-64 mq750:pb-measurements-gap-80-48 mq750:box-border
+		 mq1050:pb-measurements-gap-80-48 mq1050:box-border">
+			<div class="max-w-[1200px] flex flex-col items-center justify-center py-0
+			 box-border gap-numbers-40 max-w-full lg:pl-[102px]
+			lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border
+			mq750:gap-numbers-40 mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
+				<div class="flex flex-col items-start justify-center text-text-accent-blue-inverted">
+					<div class="max-w-[1440px] flex flex-col items-center justify-center pt-measurements-gap-80-48 px-5 pb-0 box-border">
+						<div class="max-w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 w-full mq750:gap-measurements-gap-40">
+							<div class="h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]">
 
 
-                    <div
-                      class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
-                    >
-                      <div
-                        class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium"
-                      >
-                        Testimonials
-                      </div>
-                    </div>
+								<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+									<div class="flex-1 relative tracking-[-0.1px] leading-[20px] font-medium">
+										Testimonials
+									</div>
+								</div>
 
-                  </div>
-                  <div
-                    class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full text-29xl text-text-base-primary mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border mq1250:pl-[102px] mq1250:pr-[102px] mq1250:box-border"
-                  >
-                    <h1
-                      class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq750:text-19xl mq750:leading-[43px] mq1050:max-w-full"
-                    >
-                      What they say
-                    </h1>
-                    <h3
-                      class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary inline-block max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full"
-                    >
-                      Join the growing list of customers achieving amazing
-                      results with our business setup consultants.
-                    </h3>
-                  </div>
+							</div>
+							<div class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full text-29xl text-text-base-primary lg:pl-[102px] lg:pr-[102px] lg:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[51px] mq750:pr-[51px] mq750:box-border">
+								<h3 class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq450:text-10xl mq450:leading-[32px] mq1050:text-19xl mq1050:leading-[43px] mq1050:max-w-full">
+									What they say
+								</h3>
+								<div class="relative text-xl tracking-[-0.2px] leading-[28px] text-text-base-secondary inline-block max-w-[588px] mq450:text-base mq450:leading-[22px] mq750:max-w-full">
+									Join the growing list of customers achieving amazing
+									results with our business setup consultants.
+								</div>
+							</div>
+							</div>
+					</div>
+				</div>
+				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
+					<div class="flex flex-row items-start justify-start gap-numbers-8">
+						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public//star-icon.svg">
 
-                </div>
-              </div>
-            </div>
-            <div
-              class="self-stretch flex flex-row items-start justify-center py-0 px-5"
-            >
-              <div
-                class="flex flex-row items-start justify-start gap-numbers-8"
-              >
-                <img
-                  class="h-5 w-5 relative overflow-hidden shrink-0"
-                  loading="lazy"
-                  alt=""
-                  src="/wp-content/themes/business-setup/web/public/star-icon.svg"
-                />
+						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public//star-icon.svg">
 
-                <img
-                  class="h-5 w-5 relative overflow-hidden shrink-0"
-                  loading="lazy"
-                  alt=""
-                  src="/wp-content/themes/business-setup/web/public/star-icon.svg"
-                />
+						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public//star-icon.svg">
 
-                <img
-                  class="h-5 w-5 relative overflow-hidden shrink-0"
-                  loading="lazy"
-                  alt=""
-                  src="/wp-content/themes/business-setup/web/public/star-icon.svg"
-                />
+						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public//star-icon.svg">
 
-                <img
-                  class="h-5 w-5 relative overflow-hidden shrink-0"
-                  loading="lazy"
-                  alt=""
-                  src="/wp-content/themes/business-setup/web/public/star-icon.svg"
-                />
+						<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public//star-icon.svg">
+					</div>
+				</div>
+				<h5 class="m-0 w-full relative text-11xl tracking-[-0.5px] leading-[36px] font-medium font-inherit text-text-accent-purple-accent inline-block max-w-[792px] mq450:text-lg mq450:leading-[22px] mq1050:text-5xl mq1050:leading-[29px] mq1050:max-w-full">
+					Idea to thriving reality
+				</h5>
+				 <div class="slider-wrapper">
+                <div class="slider" style="transform: translateX(-100%);">
+					<!-- Slide 1 -->
 
-                <img
-                  class="h-5 w-5 relative overflow-hidden shrink-0"
-                  alt=""
-                  src="/wp-content/themes/business-setup/web/public/star-icon.svg"
-                />
-              </div>
-            </div>
-            <h1
-              class="m-0 w-full relative text-11xl tracking-[-0.5px] leading-[36px] font-medium font-inherit text-text-accent-purple-accent inline-block max-w-[792px] mq450:text-lg mq450:leading-[22px] mq750:text-5xl mq750:leading-[29px] mq1050:max-w-full"
-            >
-              Idea to thriving reality
-            </h1>
-            <h2
-              class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full"
-            >
-              Their expert guidance turned my business idea into a thriving
-              reality. From getting the right licenses to opening a bank
-              account, they handled everything effortlessly. I highly recommend
-              their business setup services to anyone looking to start a
-              successful business in the UAE.
-            </h2>
-            <div
-              class="self-stretch flex flex-row items-start justify-center py-0 px-5 text-base"
-            >
-              <div
-                class="flex flex-col items-start justify-start gap-numbers-16"
-              >
-                <div
-                  class="flex flex-row items-start justify-start py-0 px-[45px]"
-                >
-                  <div
-                    class="h-16 w-16 relative rounded-measurements-radius-full bg-[url('/public/avatar6@3x.png')] bg-cover bg-no-repeat bg-[top]"
-                  >
+					<div class="w-full slide flex flex-col items-center gap-[30px]">
+						<h6 class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
+							Their expert guidance turned my business idea into a&nbsp;thriving
+							reality. From getting the right licenses to&nbsp;opening a bank
+							account, they handled everything effortlessly. I&nbsp;highly recommend
+							their business setup services to&nbsp;anyone looking to start a
+							successful business in&nbsp;the&nbsp;UAE.
+						</h6>
+						<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 text-base">
+							<div class="flex flex-col items-start justify-start gap-numbers-16">
+								<div class="flex flex-row items-start justify-start py-0 px-[45px]">
+									<div class="h-16 w-16 relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public//avatar6@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<!-- ... -->
+									</div>
+								</div>
+								<div class="self-stretch flex flex-col items-start justify-start gap-numbers-8">
+									<div class="self-stretch flex flex-row items-start justify-start py-0 px-[34px]">
+										<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium">
+											Alex Turner
+										</div>
+									</div>
+									<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary">
+										Founder of TurnerHA
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Slide 2 -->
+					<div class="w-full slide flex flex-col items-center gap-[30px]">
+						<h6 class="m-0 relative text-5xl tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block max-w-[792px] mq450:text-lgi mq450:leading-[24px] mq1050:max-w-full">
+							Their expert guidance turned my business idea into a&nbsp;thriving
+							reality. From getting the right licenses to&nbsp;opening a bank
+							account, they handled everything effortlessly. I&nbsp;highly recommend
+							their business setup services to&nbsp;anyone looking to start a
+							successful business in&nbsp;the&nbsp;UAE.
+						</h6>
+						<div class="self-stretch flex flex-row items-start justify-center py-0 px-5 text-base">
+							<div class="flex flex-col items-start justify-start gap-numbers-16">
+								<div class="flex flex-row items-start justify-start py-0 px-[45px]">
+									<div class="h-16 w-16 relative rounded-measurements-radius-full bg-[url('/wp-content/themes/business-setup/web/public//avatar6@3x.png')] bg-cover bg-no-repeat bg-[top]">
+										<!-- ... -->
+									</div>
+								</div>
+								<div class="self-stretch flex flex-col items-start justify-start gap-numbers-8">
+									<div class="self-stretch flex flex-row items-start justify-start py-0 px-[34px]">
+										<div class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium">
+											Alex Turner
+										</div>
+									</div>
+									<div class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary">
+										Founder of TurnerHA
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Add more slides as needed -->
+				</div>
+				 </div>
+
+				<!-- Navigation Buttons -->
+				<div class="self-stretch flex flex-row items-start justify-center py-0 px-5">
+					<div class="flex flex-row items-start justify-start gap-numbers-16">
+						<div id="prevBtn" class="cursor-pointer rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="Previous" src="/wp-content/themes/business-setup/web/public/icon-1.svg">
+						</div>
+						<div id="nextBtn" class="cursor-pointer rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10">
+							<img class="h-5 w-5 relative overflow-hidden shrink-0" alt="Next" src="/wp-content/themes/business-setup/web/public/tailicon3.svg">
+						</div>
+					</div>
+			</div>
+
+	</div></div></section>
 
 
-                  </div>
-                </div>
-                <div
-                  class="self-stretch flex flex-col items-start justify-start gap-numbers-8"
-                >
-                  <div
-                    class="self-stretch flex flex-row items-start justify-start py-0 px-[34px]"
-                  >
-                    <div
-                      class="flex-1 relative tracking-[-0.2px] leading-[24px] font-medium"
-                    >
-                      Alex Turner
-                    </div>
-                  </div>
-                  <div
-                    class="self-stretch relative tracking-[-0.2px] leading-[24px] text-text-base-secondary"
-                  >
-                    Founder of TurnerHA
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="self-stretch flex flex-row items-start justify-center py-0 px-5"
-            >
-              <div
-                class="flex flex-row items-start justify-start gap-numbers-16"
-              >
-                <div
-                  class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
-                >
-                  <img
-                    class="h-5 w-5 relative overflow-hidden shrink-0"
-                    loading="lazy"
-                    alt=""
-                    src="/wp-content/themes/business-setup/web/public/icon-1.svg"
-                  />
-                </div>
-                <div
-                  class="rounded-measurements-radius-full bg-background-button-tertiary overflow-hidden flex flex-row items-center justify-center p-numbers-10"
-                >
-                  <img
-                    class="h-5 w-5 relative overflow-hidden shrink-0"
-                    alt=""
-                    src="/wp-content/themes/business-setup/web/public/tailicon3.svg"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
       <section
         class="self-stretch bg-background-surface-default flex flex-col items-center justify-start max-w-full text-center text-sm text-text-accent-blue-inverted font-body-s-bold"
       >

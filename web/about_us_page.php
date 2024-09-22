@@ -178,7 +178,7 @@
 				<div
 						class="flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq800:gap-measurements-gap-40"
 				>
-					<button
+					<div
 							class="cursor-pointer border-border-base-alpha border-[1px] border-solid py-0.5 px-[5px] bg-background-badge-blue  h-7 rounded-measurements-radius-full box-border flex flex-row items-center justify-center"
 					>
 						
@@ -193,7 +193,7 @@
 							</div>
 						</div>
 
-					</button>
+					</div>
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
 					>
@@ -202,13 +202,13 @@
 						>
 							Setting Up a Company with No Regret
 						</h3>
-						<h3
+						<div
 								class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary inline-block max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
 						>
 							At Business set up Dubai, we see a future where business
 							formation in Dubai will be very easy and businesses can focus
 							on their passions without stress.
-						</h3>
+						</div>
 					</div>
 
 				</div>
@@ -238,11 +238,11 @@
 				<div
 						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
 				>
-					<h3
+					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Partnership
-					</h3>
+					</div>
 					<div
 							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
 					>
@@ -254,11 +254,11 @@
 				<div
 						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
 				>
-					<h3
+					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Expertise
-					</h3>
+					</div>
 					<div
 							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
 					>
@@ -274,11 +274,11 @@
 				<div
 						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
 				>
-					<h3
+					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Efficiency
-					</h3>
+					</div>
 					<div
 							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
 					>
@@ -289,11 +289,11 @@
 				<div
 						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
 				>
-					<h3
+					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Integrity
-					</h3>
+					</div>
 					<div
 							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
 					>
@@ -355,11 +355,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Arsen
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -393,11 +393,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container1@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Elena
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -428,11 +428,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container2@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Samuel
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -463,11 +463,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container3@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Jaiden
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -502,11 +502,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container4@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Roxanna
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -537,11 +537,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container5@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Boris
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -572,11 +572,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container6@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Camilla
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>
@@ -607,11 +607,11 @@
 				<div
 						class="h-[360px] flex-1 rounded-measurements-radius-xxxl flex flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16 bg-[url('./public/container7@3x.png')] bg-cover bg-no-repeat bg-[top] min-w-[282px]"
 				>
-					<h2
+					<h6
 							class="m-0 w-[203px] relative text-inherit tracking-[-0.3px] leading-[30px] font-medium font-inherit inline-block mq450:text-lgi mq450:leading-[24px]"
 					>
 						Valentine
-					</h2>
+					</h6>
 					<div
 							class="w-[203px] relative text-base tracking-[-0.2px] leading-[24px] inline-block"
 					>

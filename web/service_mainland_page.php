@@ -17,7 +17,7 @@ include_once( 'menu.php' );
 					class="w-[1200px] flex flex-col items-center justify-start gap-numbers-40 max-w-full mq750:gap-numbers-40"
 			>
 				<div
-						class="w-[259px] h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px] gap-numbers-4 text-text-accent-blue-inverted"
+						class="w-auto h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px] gap-numbers-4 text-text-accent-blue-inverted"
 				>
 
 					<div class="flex-1 flex flex-row items-center justify-center">
@@ -74,19 +74,17 @@ include_once( 'menu.php' );
 						class="self-stretch flex flex-col items-center justify-start gap-numbers-16"
 				>
 					<div
-							class="self-stretch flex flex-row items-start justify-center py-0 px-[465px] gap-measurements-gap-16 mq450:pl-5 mq450:pr-5 mq450:box-border mq750:pl-[116px] mq750:pr-[116px] mq750:box-border mq1250:pl-[232px] mq1250:pr-[232px] mq1250:box-border"
+							class="self-stretch flex flex-row items-start justify-center py-0 gap-measurements-gap-16 mq450:pl-5 mq450:pr-5 mq450:box-border  mq1250:box-border"
 					>
-						<button
-								class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4"
-						>
+						<button  onclick="openModal()"
+								class="cursor-pointer [border:none] py-numbers-10
+								px-numbers-12 bg-text-accent-purple-accent flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+								rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center gap-numbers-4 text-background-surface-default
+								max-w-[300px] hover:border-solid hover:border-[1px] hover:text-general-1-primary hover:bg-general-white ">
 
 
-							<div
-									class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
-							>
-								<div
-										class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center"
-								>
+							<div class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]">
+								<div	class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold  text-center">
 									Book a 30 minutes free consultation
 								</div>
 							</div>
@@ -172,10 +170,10 @@ include_once( 'menu.php' );
 				</div>
 			</div>
 			<div
-					class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 max-w-full"
+					class="max-w-[1200px]  flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 w-full"
 			>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start pt-0 px-0 pb-[78px] min-w-[320px] max-w-full mq450:pb-[51px] mq450:box-border"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start pt-0 px-0 pb-[78px] min-w-[320px] max-w-full mq450:pb-[51px] mq450:box-border"
 				>
 					<div
 							class="self-stretch flex flex-col items-start justify-center p-numbers-40 gap-numbers-24 mq450:pt-numbers-40 mq450:pb-numbers-40 mq450:box-border"
@@ -212,7 +210,7 @@ include_once( 'menu.php' );
 					</div>
 				</div>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-center min-w-[320px] max-w-full"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-center min-w-[320px] max-w-full"
 				>
 					<div
 							class="self-stretch flex flex-col items-start justify-center p-numbers-40 gap-numbers-24 mq450:pt-numbers-40 mq450:pb-numbers-40 mq450:box-border"
@@ -252,10 +250,10 @@ include_once( 'menu.php' );
 				</div>
 			</div>
 			<div
-					class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 max-w-full"
+					class="max-w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 w-full"
 			>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-center min-w-[320px] max-w-full"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-center min-w-[320px] max-w-full"
 				>
 					<div
 							class="self-stretch flex flex-col items-start justify-center p-numbers-40 gap-numbers-24 mq450:pt-numbers-40 mq450:pb-numbers-40 mq450:box-border"
@@ -294,7 +292,7 @@ include_once( 'menu.php' );
 					</div>
 				</div>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start min-w-[320px] max-w-full"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start min-w-[320px] max-w-full"
 				>
 					<div
 							class="self-stretch flex flex-col items-start justify-center p-numbers-40 gap-numbers-24 mq450:pt-numbers-40 mq450:pb-numbers-40 mq450:box-border"
@@ -349,7 +347,7 @@ include_once( 'menu.php' );
 						class="w-[1200px] flex flex-col items-center justify-start gap-measurements-gap-40 max-w-full mq750:gap-measurements-gap-40"
 				>
 					<div
-							class="w-[213px] h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
+							class="w-auto h-7 rounded-measurements-radius-full bg-background-badge-blue border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-0.5 px-[5px]"
 					>
 
 
@@ -629,16 +627,17 @@ include_once( 'menu.php' );
 						planning to final setup, making your journey seamless and
 						successful.
 					</div>
-					<button
-							class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent w-[161px] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center box-border gap-numbers-4"
-					>
+					<button onclick="openModal()"
+							class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent w-auto shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+							rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center box-border gap-numbers-4
+							text-background-surface-default  hover:border-solid hover:border-[1px] hover:text-general-1-primary hover:bg-general-white ">
 
 
 						<div
 								class="flex-1 flex flex-row items-center justify-center py-0 px-[3px]"
 						>
 							<div
-									class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-background-surface-default text-center"
+									class="flex-1 relative text-sm tracking-[-0.1px] leading-[20px] font-medium font-body-s-bold text-center"
 							>
 								Take a consultation
 							</div>
@@ -648,7 +647,7 @@ include_once( 'menu.php' );
 					</button>
 				</div>
 				<div
-						class="w-[588px] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-32 min-w-[320px] max-w-full text-5xl text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border mq750:gap-numbers-32 mq750:flex-1"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out w-[588px] shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-32 min-w-[320px] max-w-full text-5xl text-text-base-primary mq450:pt-[25px] mq450:pb-[25px] mq450:box-border mq750:gap-numbers-32 mq750:flex-1"
 				>
 					<div
 							class="h-16 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-[18px] px-[19px]"
@@ -684,7 +683,7 @@ include_once( 'menu.php' );
 					class="flex-1 flex flex-row items-start justify-start flex-wrap content-start gap-numbers-24 min-w-[320px] min-h-[768px] max-w-full text-5xl text-text-base-primary"
 			>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-32 min-w-[320px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border mq750:gap-numbers-32"
+						class=" cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-32 min-w-[320px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border mq750:gap-numbers-32"
 				>
 					<div
 							class="h-16 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-[18px] px-[19px]"
@@ -717,7 +716,7 @@ include_once( 'menu.php' );
 					</div>
 				</div>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-32 min-w-[320px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border mq750:gap-numbers-32"
+						class="cursor-pointer  hover:scale-110  transition-transform duration-300 ease-in-out flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[38px] px-[39px] gap-numbers-32 min-w-[320px] max-w-full mq450:pt-[25px] mq450:pb-[25px] mq450:box-border mq750:gap-numbers-32"
 				>
 					<div
 							class="h-16 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-full bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border flex flex-row items-center justify-center py-[18px] px-[19px]"

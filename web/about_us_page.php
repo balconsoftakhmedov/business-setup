@@ -108,11 +108,11 @@
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
 					>
-						<h1
+						<h3
 								class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
 						>
 							Your Business, Our Expertise
-						</h1>
+						</h3>
 
 					</div>
 
@@ -197,11 +197,11 @@
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] box-border gap-measurements-gap-24 max-w-full mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
 					>
-						<h1
+						<h3
 								class="m-0 relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
 						>
 							Setting Up a Company with No Regret
-						</h1>
+						</h3>
 						<h3
 								class="m-0 relative text-xl tracking-[-0.2px] leading-[28px] font-normal font-inherit text-text-base-secondary inline-block max-w-[588px] mq800:max-w-full mq450:text-base mq450:leading-[22px]"
 						>
@@ -335,11 +335,11 @@
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
 					>
-						<h1
+						<h3
 								class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
 						>
 							Meet the Experts
-						</h1>
+						</h3>
 
 					</div>
 
@@ -689,14 +689,14 @@
 								src="/wp-content/themes/business-setup/web/public/star-icon.svg"
 						/>
 					</div>
-					<h1
+					<h4
 							class="m-0 relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
 					>
 						Business set up Dubai made starting my business in the UAE so
 						much easier. They know their way around the rules and
 						regulations, and they saved me a ton of time and stress.
 						I really appreciate their helpfulness and support.
-					</h1>
+					</h4>
 					<div
 							class="flex flex-col items-start justify-center gap-numbers-8 text-base"
 					>
@@ -791,11 +791,11 @@
 							<div
 									class="self-stretch flex flex-col items-center justify-start py-0 px-[84px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[21px] mq800:pr-[21px] mq800:box-border mq1125:pl-[42px] mq1125:pr-[42px] mq1125:box-border"
 							>
-								<h1
+								<h3
 										class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
 								>
 									The Global Industry Leaders
-								</h1>
+								</h3>
 
 							</div>
 
@@ -895,11 +895,11 @@
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
 					>
-						<h1
+						<h3
 								class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
 						>
 							Top Reasons for using Services
-						</h1>
+						</h3>
 
 					</div>
 
@@ -981,11 +981,11 @@
 					<div
 							class="self-stretch flex flex-col items-center justify-start py-0 px-[204px] gap-measurements-gap-24 text-29xl text-text-base-primary mq800:pl-[51px] mq800:pr-[51px] mq800:box-border mq450:pl-5 mq450:pr-5 mq450:box-border mq1325:pl-[102px] mq1325:pr-[102px] mq1325:box-border"
 					>
-						<h1
+						<h3
 								class="m-0 w-full relative text-inherit tracking-[-1px] leading-[54px] font-medium font-inherit inline-block max-w-[792px] mq800:text-19xl mq800:leading-[43px] mq800:max-w-full mq450:text-10xl mq450:leading-[32px]"
 						>
 							Get in Touch and Visit Us
-						</h1>
+						</h3>
 
 					</div>
 
@@ -1001,11 +1001,11 @@
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
 				>
-					<h1
+					<h4
 							class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
 					>
 						Address
-					</h1>
+					</h4>
 					<div
 							class="relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent"
 					>
@@ -1016,11 +1016,11 @@
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px] text-lg"
 				>
-					<h1
+					<h4
 							class="m-0 self-stretch relative text-17xl tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
 					>
 						Phone
-					</h1>
+					</h4>
 					<div
 							class="self-stretch relative tracking-[-0.2px] leading-[26px] font-medium"
 					>
@@ -1042,11 +1042,11 @@
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
 				>
-					<h1
+					<h4
 							class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
 					>
 						Contact
-					</h1>
+					</h4>
 					<div
 							class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium text-text-accent-purple-accent"
 					>
@@ -1059,11 +1059,11 @@
 				<div
 						class="flex-1 overflow-hidden flex flex-col items-start justify-center gap-numbers-16 min-w-[224px]"
 				>
-					<h1
+					<h4
 							class="m-0 self-stretch relative text-inherit tracking-[-0.7px] leading-[42px] font-medium font-inherit mq800:text-10xl mq800:leading-[34px] mq450:text-3xl mq450:leading-[25px]"
 					>
 						Working Hours
-					</h1>
+					</h4>
 					<div
 							class="self-stretch relative text-lg tracking-[-0.2px] leading-[26px] font-medium"
 					>

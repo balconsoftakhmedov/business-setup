@@ -478,7 +478,7 @@
 			</div>
 		</div>
 		<div class="max-w-[1200px] w-full  grid grid-cols-4 gap-[30px] z-[1]    text-left text-5xl text-background-surface-default
-		  lg:justify-center lg:grid-cols-2 mq450:grid-cols-2 mq650:gap-[5px] mq350:grid-cols-1  mq350:gap-[10px]">
+		  lg:justify-center lg:grid-cols-2 mq450:grid-cols-2 mq650:gap-[5px] mq350:grid-cols-1  mq350:gap-[10px] mt-[-30px] mq650:mt-[-60px]">
 			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px]  overflow-hidden flex
 			flex-col items-start justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
 			 bg-[url('/wp-content/themes/business-setup/web/public/container4@3x.png')]

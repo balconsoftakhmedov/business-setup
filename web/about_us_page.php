@@ -233,34 +233,26 @@
 				class="self-stretch flex flex-col items-center justify-start pt-measurements-gap-40 px-5 pb-measurements-gap-80-48 box-border gap-numbers-24 min-h-[440px] max-w-full text-left text-xl mq450:pt-measurements-gap-40 mq450:pb-measurements-gap-40 mq450:box-border"
 		>
 			<div
-					class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 max-w-full"
+					class="max-w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 w-full"
 			>
-				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
-				>
-					<div
-							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
-					>
+				<div	class="stm-hover hover:bg-general-1-primary hover:bg-opacity-50  hover:text-general-white flex-1 cursor-pointer  shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full">
+					<div class="m-0 max-w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block w-full mq450:text-base mq450:leading-[22px]">
 						Partnership
 					</div>
-					<div
-							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
-					>
+					<div class="max-w-[524px]  relative text-sm stm-white tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block w-full">
 						Our consultants believe in building strong, collaborative
 						relationships with our clients. We’re not just service
 						providers; we’re partners in your success.
 					</div>
 				</div>
-				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
-				>
+				<div class="stm-hover hover:bg-general-1-primary hover:bg-opacity-50  hover:text-general-white flex-1 cursor-pointer shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full">
 					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Expertise
 					</div>
 					<div
-							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
+							class="max-w-[524px] relative text-sm stm-white tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block w-full"
 					>
 						Our team brings a wealth of knowledge and experience to every
 						project. We stay up-to-date on industry trends to deliver the
@@ -268,26 +260,22 @@
 					</div>
 				</div>
 			</div>
-			<div
-					class="w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 max-w-full"
-			>
+			<div class="max-w-[1200px] flex flex-row items-start justify-start flex-wrap content-start py-0 pl-0 pr-1.5 box-border gap-x-[18px] gap-y-6 w-full">
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
+						class="stm-hover hover:bg-general-1-primary hover:bg-opacity-50  hover:text-general-white flex-1 cursor-pointer shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
 				>
 					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
 					>
 						Efficiency
 					</div>
-					<div
-							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
-					>
+					<div class="max-w-[524px] relative text-sm stm-white tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block w-full">
 						We value time and resources. Our streamlined processes ensure
 						that your business gets off the ground quickly and smoothly.
 					</div>
 				</div>
 				<div
-						class="flex-1 shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
+						class="stm-hover hover:bg-general-1-primary hover:bg-opacity-50  hover:text-general-white flex-1 cursor-pointer shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)] rounded-radius-3xl bg-background-surface-default border-border-base-alpha border-[1px] border-solid box-border overflow-hidden flex flex-col items-start justify-start py-[30px] pl-measurements-gap-32 pr-5 gap-measurements-gap-16 min-w-[282px] max-w-full"
 				>
 					<div
 							class="m-0 w-[525px] relative text-inherit tracking-[-0.2px] leading-[28px] font-medium font-inherit inline-block max-w-full mq450:text-base mq450:leading-[22px]"
@@ -295,7 +283,7 @@
 						Integrity
 					</div>
 					<div
-							class="w-[524px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
+							class="w-[524px] relative text-sm stm-white tracking-[-0.1px] leading-[20px] text-text-base-secondary inline-block max-w-full"
 					>
 						Trust is essential in business. We operate with honesty,
 						transparency, and professionalism in everything we do.
@@ -802,63 +790,24 @@
 						</div>
 					</div>
 				</div>
-				<div
-						class="self-stretch flex flex-row items-center justify-between flex-wrap content-center gap-5"
-				>
-					<div
-							class="overflow-hidden flex flex-col items-center justify-center pt-[1.8px] px-0 pb-[1.9px]"
-					>
-						<img
-								class="self-stretch h-[36.3px] relative max-w-full overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/vector-8.svg"
-						/>
+				<div class="self-stretch flex flex-row items-center justify-between flex-wrap content-center gap-5 justify-around">
+					<div class="overflow-hidden flex flex-col items-center justify-center pt-[1.8px] px-0 pb-[1.9px]">
+						<img class="self-stretch h-[36.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/vector-8.svg">
 					</div>
-					<div
-							class="overflow-hidden flex flex-col items-center justify-center py-[4.6px] px-0"
-					>
-						<img
-								class="self-stretch h-[30.8px] relative max-w-full overflow-hidden shrink-0"
-								loading="lazy"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/union.svg"
-						/>
+					<div class="overflow-hidden flex flex-col items-center justify-center py-[4.6px] px-0">
+						<img class="self-stretch h-[30.8px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/union.svg">
 					</div>
-					<div
-							class="overflow-hidden flex flex-col items-center justify-center pt-[3.4px] px-0 pb-[3.3px]"
-					>
-						<img
-								class="self-stretch h-[33.3px] relative max-w-full overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/vector-9.svg"
-						/>
+					<div class="overflow-hidden flex flex-col items-center justify-center pt-[3.4px] px-0 pb-[3.3px]">
+						<img class="self-stretch h-[33.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/vector-9.svg">
 					</div>
-					<div
-							class="overflow-hidden flex flex-col items-center justify-center pt-[5.9px] px-0 pb-[5.8px]"
-					>
-						<img
-								class="self-stretch h-[28.3px] relative max-w-full overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/vector-10.svg"
-						/>
+					<div class="overflow-hidden flex flex-col items-center justify-center pt-[5.9px] px-0 pb-[5.8px]">
+						<img class="self-stretch h-[28.3px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/vector-10.svg">
 					</div>
-					<div
-							class="overflow-hidden flex flex-col items-center justify-center py-[6.3px] px-0"
-					>
-						<img
-								class="self-stretch h-[27.4px] relative max-w-full overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/vector-11.svg"
-						/>
+					<div class="overflow-hidden flex flex-col items-center justify-center py-[6.3px] px-0">
+						<img class="self-stretch h-[27.4px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/vector-11.svg">
 					</div>
-					<div
-							class="overflow-hidden flex flex-col items-center justify-center py-[6.7px] px-0"
-					>
-						<img
-								class="self-stretch h-[26.6px] relative max-w-full overflow-hidden shrink-0"
-								alt=""
-								src="/wp-content/themes/business-setup/web/public/union-1.svg"
-						/>
+					<div class="overflow-hidden flex flex-col items-center justify-center py-[6.7px] px-0">
+						<img class="self-stretch h-[26.6px] relative max-w-full overflow-hidden shrink-0" loading="lazy" alt="" src="/wp-content/themes/business-setup/web/public/union-1.svg">
 					</div>
 				</div>
 			</div>

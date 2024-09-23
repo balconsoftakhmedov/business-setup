@@ -713,9 +713,7 @@ include_once( 'menu.php' );
 						regulations and optimizes your launch. Here’s why you should
 						choose us:
 					</div>
-					<div
-							class="self-stretch relative tracking-[-0.2px] leading-[26px]"
-					>
+					<div class="self-stretch relative tracking-[-0.2px] leading-[26px] mq950:my-[15px] ">
 						<ol class="m-0 font-inherit text-inherit pl-6">
 							<li class="mb-0">Expertise in Local Regulations</li>
 							<li class="mb-0">Customized Business Solutions</li>
@@ -723,9 +721,10 @@ include_once( 'menu.php' );
 						</ol>
 					</div>
 					<div class="relative tracking-[-0.2px] leading-[26px]">
-						Our dedicated team will support you through every step, from planning to final setup, making your journey seamless and	successful.	</div>
+						Our dedicated team will support you through every step, from planning to final setup, making your journey seamless and	successful.
+					</div>
 					<button onclick="openModal()"
-							class="cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent w-auto shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
+							class="mq950:mt-[15px] cursor-pointer [border:none] py-numbers-10 px-numbers-12 bg-text-accent-purple-accent w-auto shadow-[0px_1px_2px_rgba(20,_21,_26,_0.05)]
 							rounded-measurements-radius-xl overflow-hidden flex flex-row items-center justify-center box-border gap-numbers-4
 							text-background-surface-default  hover:border-solid hover:border-[1px] hover:text-general-1-primary hover:bg-general-white ">
 

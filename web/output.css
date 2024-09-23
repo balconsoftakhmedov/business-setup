@@ -2739,6 +2739,11 @@ body.home .stm-dropdown {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 rgba(0, 0, 0, 0)), var(--tw-ring-shadow, 0 0 rgba(0, 0, 0, 0)), var(--tw-shadow);
 }
 
+body.home .navigation .navigation-menu .starter-menu > li > .sub-menu {
+  background-color: rgba(59, 25, 103, 0.831372549);
+  color: white;
+}
+
 body.home .navigation .navigation-menu .mobile-switcher span {
   background-color: #fff;
 }
@@ -3503,11 +3508,6 @@ nav .parent > ul.sub-menu:before {
 }
 
 .stm-open h3 {
-  --tw-text-opacity: 1;
-  color: rgb(83 20 163/var(--tw-text-opacity));
-}
-
-.stm-open .accordion-header {
   --tw-text-opacity: 1;
   color: rgb(83 20 163/var(--tw-text-opacity));
 }
@@ -4692,12 +4692,21 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
     position: fixed;
   }
 
+  .mq950\:my-\[15px\] {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
   .mq950\:ml-auto {
     margin-left: auto;
   }
 
   .mq950\:mr-auto {
     margin-right: auto;
+  }
+
+  .mq950\:mt-\[15px\] {
+    margin-top: 15px;
   }
 
   .mq950\:block {
@@ -5061,16 +5070,12 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
 }
 
 @media screen and (max-width: 650px) {
-  .mq650\:mt-\[-60px\] {
-    margin-top: -60px;
-  }
-
-  .mq650\:ml-\[20px\] {
-    margin-left: 20px;
-  }
-
   .mq650\:ml-\[16px\] {
     margin-left: 16px;
+  }
+
+  .mq650\:mt-\[-60px\] {
+    margin-top: -60px;
   }
 
   .mq650\:min-w-\[166px\] {

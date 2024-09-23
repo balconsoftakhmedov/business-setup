@@ -4,6 +4,10 @@
     <list default="true" id="2c7e8746-46b4-4883-9283-5cffa28d56ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about_us_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/about_us_page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/front_page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/output.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_mainland_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/service_mainland_page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,17 +28,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2lWPkMN3yBYbNwYF2k2wCKoweZO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +57,8 @@
       <workItem from="1725370330739" duration="37000" />
       <workItem from="1726320720370" duration="8000" />
       <workItem from="1726668332407" duration="21000" />
-      <workItem from="1726981457417" duration="4290000" />
+      <workItem from="1726981457417" duration="24411000" />
+      <workItem from="1727108296260" duration="3636000" />
     </task>
     <servers />
   </component>
@@ -67,5 +76,18 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
   </component>
 </project>

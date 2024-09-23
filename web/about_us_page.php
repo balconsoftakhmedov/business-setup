@@ -558,7 +558,7 @@
 			<div class=" rounded-measurements-radius-xxxl h-[360px] mq450:h-[250px] mq350:h-[350px] transition-transform duration-300
 			 ease-in-out hover:scale-105 hover:bg-opacity-75 overflow-hidden flex flex-col items-start
 			 justify-end py-10 pl-measurements-gap-40 pr-5 box-border gap-numbers-16
-			 bg-[url('/wp-content/themes/business-setup/web/public/member-info2@3x.png')]
+			 bg-[url('/wp-content/themes/business-setup/web/public/container6@3x.png')]
 			 bg-cover bg-no-repeat bg-[top] mq450:px-[15px] mq450:py-[15px]">
 
 				   <h6

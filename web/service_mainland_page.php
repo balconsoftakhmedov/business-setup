@@ -1047,7 +1047,7 @@ include_once( 'menu.php' );
 					</div>
 				</div>
 			</div>
-			<div class="flex flex-row items-center justify-center py-0 px-[41px] gap-[15px] text-lg text-text-base-primary mq:650:ml-[20px]">
+			<div class="flex flex-row items-center justify-center py-0 px-[41px] gap-[15px] text-lg text-text-base-primary mq650:ml-[16px]">
 				<div class="self-stretch rounded-xl bg-background-surface-default border-border-action-normal border-[1px] border-solid box-border flex flex-row items-center justify-center py-3.5 px-3 w-[50px] h-[50px]">
 					<img class="h-[18.7px] w-6 relative" alt="" src="/wp-content/themes/business-setup/web/public/vector-24.svg">
 				</div>

@@ -4725,6 +4725,10 @@ body .navigation .stm_lms_account_dropdown ul.dropdown-menu li .dropdown_menu_it
     max-width: 430px;
   }
 
+  .mq950\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
   .mq950\:pl-\[20px\] {
     padding-left: 20px;
   }

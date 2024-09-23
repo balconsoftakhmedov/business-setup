@@ -644,7 +644,7 @@
 <div class="slider-wrapper max-w-[1200px]">
                 <div class="slider">
 			<div class="max-w-[1200px]  slide  flex flex-row items-center justify-center flex-wrap content-center
-					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px]">
+					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px] mq950:flex-col-reverse">
 				<div
 						class="flex-1 flex flex-col items-start justify-center gap-numbers-40 min-w-[320px] max-w-full mq800:gap-numbers-40"
 				>
@@ -740,7 +740,7 @@
 			</div>
 
 			<div class="max-w-[1200px]  slide  flex flex-row items-center justify-center flex-wrap content-center
-					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px]">
+					gap-x-[102px] gap-y-[108px] w-full mq800:gap-[25px] mq1325:gap-[51px] mq950:flex-col-reverse">
 				<div
 						class="flex-1 flex flex-col items-start justify-center gap-numbers-40 min-w-[320px] max-w-full mq800:gap-numbers-40"
 				>

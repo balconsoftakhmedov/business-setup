@@ -1324,7 +1324,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Business Setup and&nbsp;Registration
 						</div>
-						<div class="h-32 relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary stm-white inline-block">
+						<div class="h-32 mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary stm-white inline-block">
 							From mainland and free zone company setup to offshore company
 							registration, we provide end-to-end solutions for starting a
 							business in the UAE.
@@ -1346,7 +1346,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							UAE Visas and&nbsp;Passport Services
 						</div>
-						<div class="h-32 relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
+						<div class="h-32 mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
 							Secure your journey to the UAE with our efficient passport
 							and&nbsp;business visa services in&nbsp;Dubai.
 						</div>
@@ -1364,10 +1364,10 @@ include_once( 'menu.php' );
 					<img class="w-6 h-6 relative overflow-hidden shrink-0" alt="" src="/wp-content/themes/business-setup/web/public/icon-71.svg">
 
 					<div class="self-stretch flex flex-col items-start justify-start gap-numbers-16">
-						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
+						<div class="mq950:min-h-[50px] relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Bank Account Opening
 						</div>
-						<div class="h-[156px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
+						<div class="h-[156px] mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
 							We make bank account opening in the Emirates with trusted
 							financial institutions incredibly easy, even for foreigners or
 							non-residents with our expert guidance.
@@ -1389,7 +1389,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Trademark and&nbsp;Copyright Registration
 						</div>
-						<div class="relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary stm-white">
+						<div class="mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary stm-white">
 							Protect your intellectual property when starting a business
 							in&nbsp;Dubai with our comprehensive copyright and trademark
 							registration services.
@@ -1413,7 +1413,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Financial, Accounting, and&nbsp;Bookkeeping Services
 						</div>
-						<div class="relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  ">
+						<div class="mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  ">
 							Streamline your financial operations with our expert
 							accounting, payroll, and&nbsp;bookkeeping services in&nbsp;Dubai. Let’s
 							get your financial foundation off the ground.
@@ -1435,7 +1435,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Tax Registration and&nbsp;Consultancy
 						</div>
-						<div class="h-[148px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
+						<div class="h-[148px] mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
 							Ensure tax compliance with our corporate tax services in UAE,
 							including VAT, direct, excise tax registration, and
 							international tax&nbsp;calculations.
@@ -1457,7 +1457,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Auditing and&nbsp;Assurance Services
 						</div>
-						<div class="h-[120px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
+						<div class="h-[120px] mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary  stm-white  inline-block">
 							Enhance your business credibility with our comprehensive
 							auditing services in Dubai, including statutory, customs,
 							and&nbsp;internal&nbsp;audits.
@@ -1479,7 +1479,7 @@ include_once( 'menu.php' );
 						<div class="relative tracking-[-0.2px] leading-[28px] font-medium mq450:text-base mq450:leading-[22px]">
 							Business Support and&nbsp;Advisory Services
 						</div>
-						<div class="h-[148px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary stm-white inline-block">
+						<div class="h-[148px] mq950:min-h-[150px] relative text-sm tracking-[-0.1px] leading-[20px] text-text-base-secondary stm-white inline-block">
 							Receive expert business support for your company, including
 							reporting, legal advice, payment solutions, license,
 							certification, and product development.
